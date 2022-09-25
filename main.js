@@ -39,7 +39,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_ClassCodes_NewClassCode__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(7486);
 /* harmony import */ var _components_ClassCodes_ClassCode__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(8254);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/App.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/App.js";
 
 
 
@@ -237,7 +237,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCode.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCode.js";
 
 
 
@@ -661,7 +661,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCodesList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCodesList.js";
 
 
 
@@ -785,7 +785,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ClassCodes/NewClassCode.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/NewClassCode.js";
 
 
 
@@ -889,7 +889,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6011);
 /* harmony import */ var _HeaderContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/Header.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/Header.js";
 
 
 
@@ -989,7 +989,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6643);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/HomePage.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/HomePage.js";
 
 
 
@@ -1046,7 +1046,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3980);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/Modal.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/Modal.js";
 
 
 
@@ -1139,7 +1139,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
 /* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5975);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/BasicInfo.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/BasicInfo.js";
 
 
 
@@ -1486,7 +1486,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1835);
 /* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CheckListCorrectness.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CheckListCorrectness.js";
 
 
 
@@ -1713,7 +1713,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1070);
 /* harmony import */ var _SetScenarioNameForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6653);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CloneScenario.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CloneScenario.js";
 
 
 
@@ -1790,7 +1790,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Solution2__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(4297);
 /* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/EditScenario.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/EditScenario.js";
 
 
 
@@ -2099,7 +2099,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1835);
 /* harmony import */ var _IntvVariantPrompts__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(2648);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/InterventionAnswers.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/InterventionAnswers.js";
 
  // import classnames from "classnames";
 
@@ -2111,6 +2111,21 @@ var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/
 
 
 
+
+
+const getLabel = obj => {
+  let retVal = "Unable to find label for non-existant object";
+
+  if (obj) {
+    if ("abbrLabel" in obj && "" !== obj.abbrLabel) {
+      retVal = obj.abbrLabel;
+    } else {
+      retVal = obj.label;
+    }
+  }
+
+  return retVal;
+};
 
 function InterventionAnswers() {
   const {
@@ -2157,7 +2172,7 @@ function InterventionAnswers() {
   () => {
     if (!intvs) {
       // get set of all intervention IDs listed for REQUIRED actions
-      const intvIDs = Array.from(new Set(scenario.actions.filter(act => act.protocolRelationship === _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__.PROTOCOL_RELATIONSHIPS.REQ).map(e => e.interventionID))); // console.log(intvIDs)
+      const intvIDs = Array.from(new Set(scenario.actions.filter(act => [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__.PROTOCOL_RELATIONSHIPS.REQ, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__.PROTOCOL_RELATIONSHIPS.ALT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__.PROTOCOL_RELATIONSHIPS.OPT].includes(act.protocolRelationship)).map(e => e.interventionID))); // console.log(intvIDs)
       // filter this down to only interventions which have prompts
 
       const intvIDsWithPrompts = intvIDs.filter(intvID => {
@@ -2189,8 +2204,20 @@ function InterventionAnswers() {
           const variant = JSON.parse(variantJSON);
           let variantDesc = "";
           Object.entries(variant).forEach(([promptID, ansID]) => {
-            const promptLabel = scenarioType.getPrompt(promptID).abbrLabel;
-            const ansLabel = scenarioType.getAnswer(ansID).abbrLabel;
+            const pt = scenarioType.getPrompt(promptID);
+
+            if (!pt) {
+              console.log(`prompt: ${promptID} not found`);
+            }
+
+            const promptLabel = getLabel(pt);
+            const ans = scenarioType.getAnswer(ansID);
+
+            if (!ans) {
+              console.log(`intv: ${intvID} prompt ${promptID}: answer: ${ansID} not found`);
+            }
+
+            const ansLabel = getLabel(ans);
             variantDesc += ` ${promptLabel} ${ansLabel}`;
           }); // console.log(variantJSON, actions)
 
@@ -2212,9 +2239,7 @@ function InterventionAnswers() {
 
       setIntvVariantContexts(ctxs);
     }
-  }, [scenarioId, intvs, intvVariantContexts, scenario.problems, scenario.solutions, scenario.actions, scenarioType]);
-
-  const getDefaultAnswer = prompt => prompt.selectionType === _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__.SELECTION_TYPES.ONE ? "" : [];
+  }, [scenarioId, intvs, intvVariantContexts, scenario.problems, scenario.solutions, scenario.actions, scenarioType]); // const getDefaultAnswer = (prompt) => (prompt.selectionType === ST.ONE) ? "" : []
 
   (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)( // on page load, after the computing of actions:
   // create non-filled out forms and clobber with any answers already stored in the db
@@ -2236,9 +2261,17 @@ function InterventionAnswers() {
         const intv = intvs.find(intv => intv.id === intvID);
         intv.prompts.forEach(prompt => {
           if (intvAnswers[intvID] && intvAnswers[intvID][variantJSON] && intvAnswers[intvID][variantJSON][prompt.id]) {
-            initState[intvID][variantJSON][prompt.id] = intvAnswers[intvID][variantJSON][prompt.id];
+            let dbStoredAnswer = intvAnswers[intvID][variantJSON][prompt.id];
+
+            if (!Array.isArray(dbStoredAnswer)) {
+              //ensure all prompt answers are now arrays
+              dbStoredAnswer = [dbStoredAnswer];
+            }
+
+            initState[intvID][variantJSON][prompt.id] = dbStoredAnswer;
           } else {
-            initState[intvID][variantJSON][prompt.id] = getDefaultAnswer(prompt);
+            // all answers are initialized to empty array, regardless of prompt selectionType value
+            initState[intvID][variantJSON][prompt.id] = [];
           }
         });
       });
@@ -2269,7 +2302,7 @@ function InterventionAnswers() {
       children: "loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 176,
+      lineNumber: 205,
       columnNumber: 17
     }, this);
   }
@@ -2291,22 +2324,22 @@ function InterventionAnswers() {
           promptValueSetter: setIntvVariantPromptState
         }, ctx), void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 187,
+          lineNumber: 216,
           columnNumber: 25
         }, this)
       }, i, false, {
         fileName: _jsxFileName,
-        lineNumber: 186,
+        lineNumber: 215,
         columnNumber: 21
       }, this))
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 184,
+      lineNumber: 213,
       columnNumber: 13
     }, this)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 179,
+    lineNumber: 208,
     columnNumber: 9
   }, this);
 }
@@ -2323,16 +2356,96 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/IntvVariantPrompts.js";
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/IntvVariantPrompts.js";
+
  // import { useScenarioEditor } from "./ScenarioEditorContext"
 
 
 
-const getLabel = obj => !!obj.abbrLabel ? obj.abbrLabel : obj.label; // const escapeQuotes = (txt) => txt.replace(/"/g, '\\"')
+const getLabel = obj => !obj.abbrLabel ? obj.label : obj.abbrLabel; // const escapeQuotes = (txt) => txt.replace(/"/g, '\\"')
 
 
 const escapeQuotes = text => text;
+
+const GroupWrapper = ({
+  children
+}) => {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("ul", {
+    style: {
+      marginLeft: "5px",
+      marginBottom: "10px",
+      listStyle: "none"
+    },
+    children: children
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 14,
+    columnNumber: 9
+  }, undefined);
+};
+
+const CheckboxGroup = ({
+  name,
+  options,
+  getter,
+  setter
+}) => {
+  const changeHandler = event => {
+    const oldValue = getter();
+    const {
+      value,
+      checked
+    } = event.target;
+    let newValue;
+
+    if (checked) {
+      if (!oldValue.includes(value)) {
+        newValue = oldValue.concat(value);
+      } else {
+        // do nothing
+        newValue = [...oldValue];
+      }
+    } else {
+      newValue = oldValue.filter(e => e !== value);
+    } // console.log(oldValue, value, checked, newValue)
+
+
+    setter(newValue);
+  };
+
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)(GroupWrapper, {
+    children: options.map((option, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("li", {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("label", {
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("input", {
+          type: "checkbox",
+          name: escapeQuotes(name),
+          value: option.value,
+          checked: getter().includes(option.value),
+          onChange: changeHandler
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 48,
+          columnNumber: 25
+        }, undefined), "\xA0 ", option.label]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 47,
+        columnNumber: 21
+      }, undefined)
+    }, i, false, {
+      fileName: _jsxFileName,
+      lineNumber: 46,
+      columnNumber: 17
+    }, undefined))
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 44,
+    columnNumber: 9
+  }, undefined);
+}; // eslint-disable-next-line @typescript-eslint/no-unused-vars
+
 
 const RadioGroup = ({
   name,
@@ -2347,15 +2460,10 @@ const RadioGroup = ({
     setter(value);
   };
 
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("ul", {
-    style: {
-      marginLeft: "5px",
-      marginBottom: "10px",
-      listStyle: "none"
-    },
-    children: options.map((option, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("li", {
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("label", {
-        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("input", {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)(GroupWrapper, {
+    children: options.map((option, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("li", {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("label", {
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("input", {
           type: "radio",
           name: escapeQuotes(name),
           value: option.value,
@@ -2363,24 +2471,43 @@ const RadioGroup = ({
           onChange: changeHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 26,
-          columnNumber: 21
+          lineNumber: 77,
+          columnNumber: 25
         }, undefined), "\xA0 ", option.label]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 25,
-        columnNumber: 17
+        lineNumber: 76,
+        columnNumber: 21
       }, undefined)
     }, i, false, {
       fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 13
+      lineNumber: 75,
+      columnNumber: 17
     }, undefined))
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 17,
+    lineNumber: 73,
     columnNumber: 9
   }, undefined);
+};
+
+const describeCorrectAnswerSemantics = selectionType => {
+  switch (selectionType) {
+    case _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_AND:
+      return "Student correctness requires all answers selected below (logical AND)";
+
+    case _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_OR:
+      return "Student correctness requires at least one of the answers selected below (logical OR)";
+
+    case _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM:
+      return "FIXME: THE SELECTION TYPE FOR THIS PROMPT MUST BE SET TO EITHER 'one-or-more-logical-and' OR 'one-or-more-logical-or";
+
+    case _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.ONE:
+      return "Student correctness requires that one of the selected below is chosen";
+
+    default:
+      return "FIXME: UNSUPPORTED SELECTION TYPE. UPDATE THIS PROMPT";
+  }
 };
 
 const IntvVariantPrompt = ({
@@ -2390,21 +2517,31 @@ const IntvVariantPrompt = ({
   stateGetter,
   stateSetter
 }) => {
+  // console.log(prompt)
   const getValue = () => stateGetter(intv.id, variant, prompt.id);
 
   const setValue = value => stateSetter(intv.id, variant, prompt.id, value);
 
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("div", {
     style: {
       marginLeft: "10px"
     },
-    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("i", {
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("i", {
       children: prompt.label
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 48,
+      lineNumber: 113,
       columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(RadioGroup, {
+    }, undefined), "  ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("span", {
+      style: {
+        fontSize: "smaller"
+      },
+      children: ["(", describeCorrectAnswerSemantics(prompt.selectionType), ")"]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 113,
+      columnNumber: 36
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)(CheckboxGroup, {
       name: `${intv.id}.${variant}.${prompt.id}`,
       options: prompt.answers.map(ans => {
         return {
@@ -2416,15 +2553,29 @@ const IntvVariantPrompt = ({
       setter: setValue
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 49,
+      lineNumber: 114,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 47,
+    lineNumber: 112,
     columnNumber: 9
   }, undefined);
-};
+}; // {prompt.selectionType === SELECTION_TYPES.ONE
+//  ? <RadioGroup
+//         name={`${intv.id}.${variant}.${prompt.id}`}
+//         options={
+//             prompt.answers.map(ans => {
+//                 return {
+//                     value: ans.id,
+//                     label: getLabel(ans)
+//                 }
+//             })
+//         }
+//         getter={getValue}
+//         setter={setValue}
+//     />
+
 
 const IntvVariantPrompts = ({
   intvID,
@@ -2445,37 +2596,37 @@ const IntvVariantPrompts = ({
   }, [intvID, intv, intvGetter]);
 
   if (!intv) {
-    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
+    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("div", {
       children: "calculating"
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 78,
+      lineNumber: 157,
       columnNumber: 17
     }, undefined);
   }
 
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
-    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
-      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("b", {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("div", {
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("div", {
+      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("b", {
         children: "Intervention: "
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 83,
+        lineNumber: 162,
         columnNumber: 17
-      }, undefined), " ", intvLabel, "" === variantDesc ? " " : `: ${variantDesc} `, /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("b", {
+      }, undefined), " ", intvLabel, "" === variantDesc ? " " : `: ${variantDesc} `, /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("b", {
         children: " Used By: "
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 85,
+        lineNumber: 164,
         columnNumber: 17
       }, undefined), " ", contexts]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 82,
+      lineNumber: 161,
       columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("ul", {
-      children: intv.prompts.map(prompt => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("li", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(IntvVariantPrompt, {
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("ul", {
+      children: intv.prompts.map(prompt => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("li", {
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)(IntvVariantPrompt, {
           intv: intv,
           variant: variantJSON,
           prompt: prompt,
@@ -2483,22 +2634,22 @@ const IntvVariantPrompts = ({
           stateSetter: promptValueSetter
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 169,
           columnNumber: 21
         }, undefined)
       }, prompt.id, false, {
         fileName: _jsxFileName,
-        lineNumber: 89,
+        lineNumber: 168,
         columnNumber: 17
       }, undefined))
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 87,
+      lineNumber: 166,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 81,
+    lineNumber: 160,
     columnNumber: 9
   }, undefined);
 };
@@ -2519,7 +2670,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _data_contraindications_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1091);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/MedContraindications.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/MedContraindications.js";
 
 
 
@@ -2601,7 +2752,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1835);
 /* harmony import */ var _MedContraindications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1424);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Medications.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Medications.js";
 
 
 
@@ -2873,7 +3024,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _traumaScenario_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1070);
 /* harmony import */ var _SetScenarioNameForm_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6653);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/NewScenario.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/NewScenario.js";
 
 
 
@@ -2924,7 +3075,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
 /* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5975);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PatientStatus.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PatientStatus.js";
 
 
 
@@ -3332,7 +3483,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
 /* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Problem2.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Problem2.js";
 
 
 
@@ -3803,7 +3954,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_Breadcrumbs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6378);
 /* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6896);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsLayout.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsLayout.js";
 
 
 
@@ -3885,7 +4036,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8286);
 /* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsList.js";
 
 
 
@@ -4048,7 +4199,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
 /* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1070);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PublishScenario.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PublishScenario.js";
 
 
 
@@ -4179,15 +4330,16 @@ function PublishScenario(props) {
       console.log(merged);
       setMergedData(merged);
       loadPublishedScenarioVersions(scenData.name);
-    })();
-  }, [scenarioId]);
+    })(); // eslint-disable-next-line react-hooks/exhaustive-deps
+
+  }, [db, scenarioId]);
 
   if (!mergedData) {
     return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("div", {
       children: "Loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 129,
+      lineNumber: 130,
       columnNumber: 16
     }, this);
   }
@@ -4197,55 +4349,55 @@ function PublishScenario(props) {
       children: ["Publish Scenario: \"", mergedData.name, "\" (type: \"", mergedData.scenarioType, "\") "]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 133,
+      lineNumber: 134,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("h4", {
       children: "First verify that the following pieces of information is ready for publication:"
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 134,
+      lineNumber: 135,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("ul", {
       children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("li", {
         children: "findings for assessment steps are specified"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 136,
+        lineNumber: 137,
         columnNumber: 17
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("li", {
         children: ["problems and solutions are specified: ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("b", {
           children: (!!mergedData.problems).toString()
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 137,
+          lineNumber: 138,
           columnNumber: 59
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 137,
+        lineNumber: 138,
         columnNumber: 17
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("li", {
         children: "answers to intervention prompts are specified"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 138,
+        lineNumber: 139,
         columnNumber: 17
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("li", {
         children: "medication-related info is specified"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 139,
+        lineNumber: 140,
         columnNumber: 17
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 135,
+      lineNumber: 136,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("h4", {
       children: "Published versions of this scenario:"
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 142,
+      lineNumber: 143,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("table", {
       style: {
@@ -4257,27 +4409,27 @@ function PublishScenario(props) {
             children: "Version"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 148,
+            lineNumber: 149,
             columnNumber: 25
           }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("th", {
             children: "Date Published"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 149,
+            lineNumber: 150,
             columnNumber: 25
           }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("th", {}, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 150,
+            lineNumber: 151,
             columnNumber: 25
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 147,
+          lineNumber: 148,
           columnNumber: 21
         }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 146,
+        lineNumber: 147,
         columnNumber: 17
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("tbody", {
         children: versions.map(item => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("tr", {
@@ -4285,13 +4437,13 @@ function PublishScenario(props) {
             children: item.version
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 156,
+            lineNumber: 157,
             columnNumber: 25
           }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("td", {
             children: item.datePublished
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 157,
+            lineNumber: 158,
             columnNumber: 25
           }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("td", {
             children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("button", {
@@ -4299,34 +4451,34 @@ function PublishScenario(props) {
               children: " Republish using this name "
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 159,
+              lineNumber: 160,
               columnNumber: 29
             }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("button", {
               onClick: () => unpublish(item.id),
               children: "Unpublish"
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 160,
+              lineNumber: 161,
               columnNumber: 29
             }, this)]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 158,
+            lineNumber: 159,
             columnNumber: 25
           }, this)]
         }, item.version, true, {
           fileName: _jsxFileName,
-          lineNumber: 155,
+          lineNumber: 156,
           columnNumber: 21
         }, this))
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 153,
+        lineNumber: 154,
         columnNumber: 17
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 143,
+      lineNumber: 144,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("label", {
       children: [" Publish using name:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("input", {
@@ -4336,19 +4488,19 @@ function PublishScenario(props) {
         onChange: changeFileName
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 168,
+        lineNumber: 169,
         columnNumber: 17
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 167,
+      lineNumber: 168,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("button", {
       onClick: publishWithNewName,
       children: "Publish"
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 176,
+      lineNumber: 177,
       columnNumber: 13
     }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)("div", {
       className: classnames__WEBPACK_IMPORTED_MODULE_1___default()({
@@ -4357,12 +4509,12 @@ function PublishScenario(props) {
       children: error
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 178,
+      lineNumber: 179,
       columnNumber: 13
     }, this)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 132,
+    lineNumber: 133,
     columnNumber: 9
   }, this);
 }
@@ -4406,7 +4558,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6896);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioEditorLayout.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioEditorLayout.js";
 
 
 
@@ -4468,7 +4620,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioItem.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioItem.js";
 
 
 
@@ -4567,7 +4719,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenariosList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenariosList.js";
 
 
 
@@ -4744,7 +4896,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
 /* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5975);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/SetScenarioNameForm.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/SetScenarioNameForm.js";
 
 
 
@@ -4890,7 +5042,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
 /* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Solution2.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Solution2.js";
 
 
 
@@ -4903,7 +5055,7 @@ var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/
 
 
 
-const PROT_REL_OPTS = [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.REQ, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.CONTRA, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.IR, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.UNN].map(e => ({
+const PROT_REL_OPTS = [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.REQ, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.ALT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.OPT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.CONTRA, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.IR, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.UNN].map(e => ({
   id: e,
   label: e
 }));
@@ -5043,15 +5195,22 @@ const Select = ({
     multiple: _multiple,
     value: getValue(id),
     onChange: handleChange,
-    children: options.map(opt => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("option", {
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("option", {
+      value: "",
+      disabled: true
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 111,
+      columnNumber: 13
+    }, undefined), options.map(opt => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("option", {
       value: opt.id,
       children: opt.abbrLabel
     }, opt.id, false, {
       fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 113,
       columnNumber: 17
-    }, undefined))
-  }, void 0, false, {
+    }, undefined))]
+  }, void 0, true, {
     fileName: _jsxFileName,
     lineNumber: 105,
     columnNumber: 9
@@ -5068,11 +5227,11 @@ const Prompt = ({
       children: prompt.label
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 127,
+      lineNumber: 128,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("br", {}, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 128,
+      lineNumber: 129,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(Select, {
       id: prompt.id,
@@ -5082,12 +5241,12 @@ const Prompt = ({
       setValue: setValue
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 129,
+      lineNumber: 130,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 126,
+    lineNumber: 127,
     columnNumber: 9
   }, undefined);
 };
@@ -5138,7 +5297,7 @@ const InterventionVariant = ({
   if (!promptsAndOptions || promptsAndOptions.length === 0) {
     return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("span", {}, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 180,
+      lineNumber: 181,
       columnNumber: 17
     }, undefined);
   }
@@ -5150,7 +5309,7 @@ const InterventionVariant = ({
       setValue: setPromptValue
     }, prompt.id, false, {
       fileName: _jsxFileName,
-      lineNumber: 185,
+      lineNumber: 186,
       columnNumber: 13
     }, undefined))
   }, void 0, false);
@@ -5229,7 +5388,7 @@ const Solution2 = () => {
     setProb(tmp);
     const found = scenario.solutions.find(e => e.id === solID);
 
-    if (!!found) {
+    if (found) {
       setSolution(Object.assign({}, found));
       setActionsUpdated(true);
     } else {
@@ -5253,7 +5412,7 @@ const Solution2 = () => {
       solution.actions.forEach(actID => {
         const found = matches.find(e => e.id === actID);
 
-        if (!!found) {
+        if (found) {
           tmp.push(found);
         } else {
           // cleanup kruft in db so I don't have to manually clean up bad deletions from the past
@@ -5276,7 +5435,7 @@ const Solution2 = () => {
       children: "loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 306,
+      lineNumber: 307,
       columnNumber: 17
     }, undefined);
   }
@@ -5314,7 +5473,7 @@ const Solution2 = () => {
       }]
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 316,
+      lineNumber: 317,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_admins__WEBPACK_IMPORTED_MODULE_4__.InlineModelAdmin, {
       heading: "Actions",
@@ -5386,17 +5545,17 @@ const Solution2 = () => {
         addHandler: addAction
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 389,
+        lineNumber: 390,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 327,
+      lineNumber: 328,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 309,
+    lineNumber: 310,
     columnNumber: 9
   }, undefined);
 };
@@ -5428,7 +5587,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioItem_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8829);
 /* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6896);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Steplist.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Steplist.js";
 
 
 
@@ -6166,7 +6325,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddButton.js";
 
 
 const AddButton = ({
@@ -6200,7 +6359,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
 /* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddEntity.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddEntity.js";
  // import { useScenarioType } from "./ScenarioTypeContext"
 
 
@@ -6389,7 +6548,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
 /* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AssociateEntity.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AssociateEntity.js";
  // import { useScenarioType } from "./ScenarioTypeContext"
 
 
@@ -6602,7 +6761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6643);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Breadcrumbs.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Breadcrumbs.js";
 
 
 
@@ -6661,7 +6820,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddCheckListItem.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddCheckListItem.js";
 
 
 
@@ -6861,7 +7020,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddOption.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddOption.js";
  // import { MDB_TYPES } from "@meddbriefer/scenario-data/constants"
 
 
@@ -7003,7 +7162,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddSubPhase.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddSubPhase.js";
 
 
 
@@ -7134,7 +7293,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ButtonBar.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ButtonBar.js";
 
 
 
@@ -7201,7 +7360,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
 /* harmony import */ var _Modal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6152);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ChangesModal.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ChangesModal.js";
 
  // import { MDB_TYPES } from "@meddbriefer/scenario-data/constants"
 
@@ -7542,6 +7701,54 @@ const ChangesModal = ({
 
 /***/ }),
 
+/***/ 587:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ CheckBoxField)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckBoxField.js";
+
+
+
+function CheckBoxField({
+  rec,
+  fld,
+  label = null,
+  unique = false,
+  size = 20
+}) {
+  const {
+    updateRec
+  } = (0,_CheckListContext__WEBPACK_IMPORTED_MODULE_1__.useCheckList)();
+
+  const changeHandler = event => {
+    const newRec = Object.assign({}, rec, {
+      [fld]: event.target.checked
+    });
+    updateRec(newRec);
+  };
+
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("input", {
+    type: "checkbox",
+    name: fld,
+    checked: rec[fld],
+    onChange: changeHandler
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 14,
+    columnNumber: 9
+  }, this);
+}
+
+/***/ }),
+
 /***/ 527:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -7563,7 +7770,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SubPhase__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6235);
 /* harmony import */ var _ChangesModal__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(5342);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckList.js";
 
 
 
@@ -7729,7 +7936,7 @@ const CheckListEditor = () => {
     // each block can simply be of length 1 (lastIndex is undefined)
     const copy = [...data];
     const startDelete = init2ndBlock.index;
-    const numDelete = !!init2ndBlock.lastIndex ? init2ndBlock.lastIndex - (startDelete - 1) : 1;
+    const numDelete = init2ndBlock.lastIndex ? init2ndBlock.lastIndex - (startDelete - 1) : 1;
     const deleted = copy.splice(startDelete, numDelete);
     copy.splice(init1stBlock.index, 0, ...deleted);
     setData(copy);
@@ -7741,8 +7948,8 @@ const CheckListEditor = () => {
     // each block can simply be of length 1 (lastIndex is undefined)
     const copy = [...data];
     const startDelete = init1stBlock.index;
-    const numDelete = !!init1stBlock.lastIndex ? init1stBlock.lastIndex - (startDelete - 1) : 1;
-    const reinsertAt = !!init2ndBlock.lastIndex ? init2ndBlock.lastIndex - (numDelete - 1) : init2ndBlock.index - (numDelete - 1);
+    const numDelete = init1stBlock.lastIndex ? init1stBlock.lastIndex - (startDelete - 1) : 1;
+    const reinsertAt = init2ndBlock.lastIndex ? init2ndBlock.lastIndex - (numDelete - 1) : init2ndBlock.index - (numDelete - 1);
     const deleted = copy.splice(startDelete, numDelete);
     copy.splice(reinsertAt, 0, ...deleted);
     setData(copy);
@@ -7850,12 +8057,12 @@ const CheckListEditor = () => {
     }); // compute lastIndices attribute for the entire tree
 
     phases.forEach((phase, i) => {
-      if (!!phase.items) {
+      if (phase.items) {
         phase.items.map(item => recursivelyIndexItem(item));
         phase.lastIndex = phase.items[phase.items.length - 1].lastIndex;
-      } else if (!!phase.subPhases) {
+      } else if (phase.subPhases) {
         phase.subPhases = phase.subPhases.map(sp => {
-          if (!!sp.items) {
+          if (sp.items) {
             sp.items = sp.items.map(item => recursivelyIndexItem(item));
             sp.lastIndex = sp.items[sp.items.length - 1].lastIndex;
           } else {
@@ -7872,11 +8079,11 @@ const CheckListEditor = () => {
     }); // compute next/prev blocks for the entire tree
 
     phases.forEach((phase, i, arr) => {
-      if (!!phase.items) {
+      if (phase.items) {
         phase.items.map((item, _i, _arr) => recursivelyComputeBlocks(item, _i, _arr));
-      } else if (!!phase.subPhases) {
+      } else if (phase.subPhases) {
         phase.subPhases = phase.subPhases.map((sp, _i, _arr) => {
-          if (!!sp.items) {
+          if (sp.items) {
             sp.items = sp.items.map((item, j, arr2) => recursivelyComputeBlocks(item, j, arr2));
           }
 
@@ -7892,7 +8099,7 @@ const CheckListEditor = () => {
     return phases;
   }, [data]);
   (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(() => {
-    if (!!data) {
+    if (data) {
       if (hierUpdated) {
         setHier(calcHierarchy1()); // Id's have been already pre-checked to be unique and this
         // state var is used to make sure new ones are also unique
@@ -7933,7 +8140,7 @@ const CheckListEditor = () => {
       children: "loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 340,
+      lineNumber: 339,
       columnNumber: 17
     }, undefined);
   }
@@ -7967,26 +8174,26 @@ const CheckListEditor = () => {
               component: _SubPhase__WEBPACK_IMPORTED_MODULE_7__["default"]
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 368,
+              lineNumber: 367,
               columnNumber: 25
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__.StaffRoute, {
               path: `${path}/phase/:phaseIdx`,
               component: _Phase__WEBPACK_IMPORTED_MODULE_5__["default"]
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 369,
+              lineNumber: 368,
               columnNumber: 25
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__.StaffRoute, {
               path: "/scenario-type/:scenarioTypeID/checklist",
               component: _PhaseList__WEBPACK_IMPORTED_MODULE_6__["default"]
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 370,
+              lineNumber: 369,
               columnNumber: 25
             }, undefined)]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 367,
+            lineNumber: 366,
             columnNumber: 21
           }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_ChangesModal__WEBPACK_IMPORTED_MODULE_8__["default"], {
             additions: getAdded(),
@@ -7994,27 +8201,27 @@ const CheckListEditor = () => {
             isOpen: modalIsShown
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 373,
+            lineNumber: 372,
             columnNumber: 21
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 366,
+          lineNumber: 365,
           columnNumber: 17
         }, undefined)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 346,
+        lineNumber: 345,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 345,
+      lineNumber: 344,
       columnNumber: 13
     }, undefined)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 344,
+    lineNumber: 343,
     columnNumber: 9
   }, undefined);
 };
@@ -8071,7 +8278,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CheckListItemWithOptions__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6033);
 /* harmony import */ var _NestedChecklist__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6136);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItem.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItem.js";
 
 
 
@@ -8100,10 +8307,12 @@ const CheckListItem = ({
       return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)(_SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_1__["default"], {
         ctx: ctx,
         hasAbbrLabel: false,
+        hasGraded: false,
+        hasFeedback: false,
         asTable: _asTable
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 14,
+        lineNumber: 17,
         columnNumber: 20
       }, undefined);
 
@@ -8113,7 +8322,7 @@ const CheckListItem = ({
         asTable: _asTable
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 16,
+        lineNumber: 25,
         columnNumber: 20
       }, undefined);
 
@@ -8124,7 +8333,7 @@ const CheckListItem = ({
         asTable: _asTable
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 18,
+        lineNumber: 30,
         columnNumber: 20
       }, undefined);
 
@@ -8135,7 +8344,7 @@ const CheckListItem = ({
         asTable: _asTable
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 20,
+        lineNumber: 36,
         columnNumber: 20
       }, undefined);
 
@@ -8144,7 +8353,7 @@ const CheckListItem = ({
         children: JSON.stringify(ctx)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 23,
+        lineNumber: 43,
         columnNumber: 17
       }, undefined);
   }
@@ -8172,7 +8381,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3310);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItemWithOptions.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItemWithOptions.js";
 
 
 
@@ -8541,7 +8750,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/DeleteButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/DeleteButton.js";
 
 
 
@@ -8594,7 +8803,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9378);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/NestedChecklist.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/NestedChecklist.js";
 
 
 
@@ -8622,7 +8831,7 @@ const NestedChecklist = ({
     if (!rec) {
       return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("tr", {
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
-          colSpan: "7"
+          colSpan: "8"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 26,
@@ -8642,19 +8851,19 @@ const NestedChecklist = ({
             rec: rec
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 31,
-            columnNumber: 21
+            lineNumber: 32,
+            columnNumber: 17
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 31,
-          columnNumber: 17
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
           children: rec.type
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 32,
-          columnNumber: 17
+          lineNumber: 34,
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_6__["default"], {
             rec: rec,
@@ -8662,13 +8871,13 @@ const NestedChecklist = ({
             size: 18
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 33,
-            columnNumber: 21
+            lineNumber: 36,
+            columnNumber: 17
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 33,
-          columnNumber: 17
+          lineNumber: 35,
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_7__["default"], {
             rec: rec,
@@ -8677,54 +8886,62 @@ const NestedChecklist = ({
             unique: true
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 34,
-            columnNumber: 21
+            lineNumber: 39,
+            columnNumber: 17
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 34,
-          columnNumber: 17
+          lineNumber: 38,
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {}, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 35,
-          columnNumber: 17
+          lineNumber: 41,
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {}, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 36,
-          columnNumber: 17
+          lineNumber: 42,
+          columnNumber: 15
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {}, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 43,
+          columnNumber: 15
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_5__["default"], {
             rec: rec
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 37,
-            columnNumber: 21
+            lineNumber: 45,
+            columnNumber: 17
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 37,
-          columnNumber: 17
+          lineNumber: 44,
+          columnNumber: 15
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
         lineNumber: 30,
         columnNumber: 13
       }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("tr", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {}, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 49,
+          columnNumber: 15
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("td", {
           colSpan: 7,
           children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("fieldset", {
             children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("legend", {
               children: "Checklist items"
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 42,
-              columnNumber: 25
+              lineNumber: 52,
+              columnNumber: 19
             }, undefined), !ctx.items ? /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("p", {
               children: "There currently aren't any checklist items."
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 44,
-              columnNumber: 28
+              lineNumber: 54,
+              columnNumber: 21
             }, undefined) : /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("table", {
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("colgroup", {
                 children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
@@ -8734,8 +8951,8 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 47,
-                  columnNumber: 37
+                  lineNumber: 58,
+                  columnNumber: 25
                 }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
                   span: 1,
                   style: {
@@ -8743,8 +8960,8 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 48,
-                  columnNumber: 37
+                  lineNumber: 59,
+                  columnNumber: 25
                 }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
                   span: 1,
                   style: {
@@ -8752,8 +8969,8 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 49,
-                  columnNumber: 37
+                  lineNumber: 60,
+                  columnNumber: 25
                 }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
                   span: 1,
                   style: {
@@ -8761,8 +8978,8 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 50,
-                  columnNumber: 37
+                  lineNumber: 61,
+                  columnNumber: 25
                 }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
                   span: 1,
                   style: {
@@ -8770,17 +8987,8 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 51,
-                  columnNumber: 37
-                }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
-                  span: 1,
-                  style: {
-                    width: "20%"
-                  }
-                }, void 0, false, {
-                  fileName: _jsxFileName,
-                  lineNumber: 52,
-                  columnNumber: 37
+                  lineNumber: 62,
+                  columnNumber: 25
                 }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
                   span: 1,
                   style: {
@@ -8788,59 +8996,87 @@ const NestedChecklist = ({
                   }
                 }, void 0, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 53,
-                  columnNumber: 37
+                  lineNumber: 63,
+                  columnNumber: 25
+                }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
+                  span: 1,
+                  style: {
+                    width: "20%"
+                  }
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 64,
+                  columnNumber: 25
+                }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("col", {
+                  span: 1,
+                  style: {
+                    width: "5%"
+                  }
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 65,
+                  columnNumber: 25
                 }, undefined)]
               }, void 0, true, {
                 fileName: _jsxFileName,
-                lineNumber: 46,
-                columnNumber: 33
+                lineNumber: 57,
+                columnNumber: 23
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("thead", {
                 children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("tr", {
                   children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {}, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 37
+                    lineNumber: 69,
+                    columnNumber: 27
                   }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
                     children: "Type"
                   }, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 46
+                    lineNumber: 70,
+                    columnNumber: 27
                   }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
                     children: "ID"
                   }, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 59
+                    lineNumber: 71,
+                    columnNumber: 27
                   }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
                     children: "Label"
                   }, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 70
+                    lineNumber: 72,
+                    columnNumber: 27
                   }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
                     children: "Abbr. Label"
                   }, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 84
+                    lineNumber: 73,
+                    columnNumber: 27
+                  }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
+                    children: "Graded"
+                  }, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 74,
+                    columnNumber: 27
                   }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {
                     children: "Feedback"
                   }, void 0, false, {
                     fileName: _jsxFileName,
-                    lineNumber: 57,
-                    columnNumber: 104
+                    lineNumber: 75,
+                    columnNumber: 27
+                  }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("th", {}, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 76,
+                    columnNumber: 27
                   }, undefined)]
                 }, void 0, true, {
                   fileName: _jsxFileName,
-                  lineNumber: 56,
-                  columnNumber: 37
+                  lineNumber: 68,
+                  columnNumber: 25
                 }, undefined)
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 55,
-                columnNumber: 33
+                lineNumber: 67,
+                columnNumber: 23
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("tbody", {
                 children: ctx.items.map((item, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_CheckListItem__WEBPACK_IMPORTED_MODULE_4__["default"], {
                   ctx: item,
@@ -8848,22 +9084,22 @@ const NestedChecklist = ({
                   asTable: true
                 }, item.id, false, {
                   fileName: _jsxFileName,
-                  lineNumber: 62,
-                  columnNumber: 41
+                  lineNumber: 81,
+                  columnNumber: 27
                 }, undefined))
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 60,
-                columnNumber: 33
+                lineNumber: 79,
+                columnNumber: 23
               }, undefined)]
             }, void 0, true, {
               fileName: _jsxFileName,
-              lineNumber: 45,
-              columnNumber: 28
+              lineNumber: 56,
+              columnNumber: 21
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("hr", {}, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 67,
-              columnNumber: 25
+              lineNumber: 91,
+              columnNumber: 19
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
               index: ctx.lastIndex + 1,
               phase: rec.phase,
@@ -8871,22 +9107,22 @@ const NestedChecklist = ({
               parentID: rec.id
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 68,
-              columnNumber: 25
+              lineNumber: 92,
+              columnNumber: 19
             }, undefined)]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 41,
-            columnNumber: 21
+            lineNumber: 51,
+            columnNumber: 17
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 40,
-          columnNumber: 17
-        }, undefined)
-      }, void 0, false, {
+          lineNumber: 50,
+          columnNumber: 15
+        }, undefined)]
+      }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 39,
+        lineNumber: 48,
         columnNumber: 13
       }, undefined)]
     }, void 0, true);
@@ -8896,7 +9132,7 @@ const NestedChecklist = ({
         children: "Loading..."
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 82,
+        lineNumber: 106,
         columnNumber: 17
       }, undefined);
     }
@@ -8907,14 +9143,14 @@ const NestedChecklist = ({
         rec: rec
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 87,
+        lineNumber: 111,
         columnNumber: 17
       }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("span", {
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("b", {
           children: rec.type
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 89,
+          lineNumber: 113,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_6__["default"], {
           rec: rec,
@@ -8922,7 +9158,7 @@ const NestedChecklist = ({
           label: "ID"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 114,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_7__["default"], {
           rec: rec,
@@ -8931,38 +9167,38 @@ const NestedChecklist = ({
           unique: true
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 91,
+          lineNumber: 115,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_5__["default"], {
           rec: rec
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 92,
+          lineNumber: 116,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 88,
+        lineNumber: 112,
         columnNumber: 17
       }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("fieldset", {
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("legend", {
           children: "Checklist items"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 95,
+          lineNumber: 119,
           columnNumber: 21
-        }, undefined), !!ctx.items ? ctx.items.map((item, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_CheckListItem__WEBPACK_IMPORTED_MODULE_4__["default"], {
+        }, undefined), ctx.items ? ctx.items.map((item, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_CheckListItem__WEBPACK_IMPORTED_MODULE_4__["default"], {
           ctx: item,
           index: i
         }, item.id, false, {
           fileName: _jsxFileName,
-          lineNumber: 98,
+          lineNumber: 122,
           columnNumber: 25
         }, undefined)) : /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("p", {
           children: "There currently aren't any checklist items"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 100,
+          lineNumber: 124,
           columnNumber: 23
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)(_AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
           index: ctx.lastIndex + 1,
@@ -8971,17 +9207,17 @@ const NestedChecklist = ({
           parentID: rec.id
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 102,
+          lineNumber: 126,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 94,
+        lineNumber: 118,
         columnNumber: 17
       }, undefined)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 86,
+      lineNumber: 110,
       columnNumber: 13
     }, undefined);
   }
@@ -9015,7 +9251,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8283);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(8286);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/Phase.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/Phase.js";
 
  // import classnames from "classnames"
 
@@ -9126,7 +9362,7 @@ const Phase = props => {
   };
 
   const renderChildren = rec => {
-    if (!!rec._ctx.subPhases) {
+    if (rec._ctx.subPhases) {
       return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("fieldset", {
         className: "top-level",
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("legend", {
@@ -9258,7 +9494,7 @@ const Phase = props => {
         lineNumber: 55,
         columnNumber: 17
       }, undefined);
-    } else if (!!rec._ctx.items) {
+    } else if (rec._ctx.items) {
       return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("fieldset", {
         className: "top-level",
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("legend", {
@@ -9290,7 +9526,7 @@ const Phase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "20%"
+                width: "15%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
@@ -9317,7 +9553,7 @@ const Phase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "20%"
+                width: "5%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
@@ -9326,11 +9562,20 @@ const Phase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "5%"
+                width: "20%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
               lineNumber: 96,
+              columnNumber: 29
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("col", {
+              span: "1",
+              style: {
+                width: "5%"
+              }
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 97,
               columnNumber: 29
             }, undefined)]
           }, void 0, true, {
@@ -9341,51 +9586,57 @@ const Phase = props => {
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("tr", {
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {}, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
                 children: "Type"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 101,
+                lineNumber: 102,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
                 children: "ID"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 102,
+                lineNumber: 103,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
                 children: "Label"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 103,
+                lineNumber: 104,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
                 children: "Abbr. Label"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 104,
+                lineNumber: 105,
+                columnNumber: 33
+              }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
+                children: "Graded"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 106,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {
                 children: "Feedback"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 105,
+                lineNumber: 107,
                 columnNumber: 33
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("th", {}, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 106,
+                lineNumber: 108,
                 columnNumber: 33
               }, undefined)]
             }, void 0, true, {
               fileName: _jsxFileName,
-              lineNumber: 99,
+              lineNumber: 100,
               columnNumber: 29
             }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 98,
+            lineNumber: 99,
             columnNumber: 25
           }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("tbody", {
             children: rec._ctx.items.map((item, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_CheckListItem__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -9393,12 +9644,12 @@ const Phase = props => {
               asTable: true
             }, item.id, false, {
               fileName: _jsxFileName,
-              lineNumber: 111,
+              lineNumber: 113,
               columnNumber: 29
             }, undefined))
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 109,
+            lineNumber: 111,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
@@ -9407,7 +9658,7 @@ const Phase = props => {
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("hr", {}, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 120,
+          lineNumber: 122,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
           index: rec._ctx.lastIndex + 1,
@@ -9415,7 +9666,7 @@ const Phase = props => {
           parentID: rec._ctx.id
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 121,
+          lineNumber: 123,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
@@ -9431,28 +9682,28 @@ const Phase = props => {
             children: "either"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 133,
+            lineNumber: 135,
             columnNumber: 44
           }, undefined), " Checklist Items ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("i", {
             children: "or"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 133,
+            lineNumber: 135,
             columnNumber: 74
           }, undefined), " sub-sections, ", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("b", {
             children: "not both"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 133,
+            lineNumber: 135,
             columnNumber: 98
           }, undefined), ". Decide which you'd like to add."]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 132,
+          lineNumber: 134,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("hr", {}, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 135,
+          lineNumber: 137,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
           index: rec._ctx.lastIndex + 1,
@@ -9460,7 +9711,7 @@ const Phase = props => {
           parentID: rec._ctx.id
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 136,
+          lineNumber: 138,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_AddSubPhase__WEBPACK_IMPORTED_MODULE_3__["default"], {
           index: rec._ctx.lastIndex + 1,
@@ -9468,12 +9719,12 @@ const Phase = props => {
           parentID: rec._ctx.id
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 141,
+          lineNumber: 143,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 131,
+        lineNumber: 133,
         columnNumber: 17
       }, undefined);
     }
@@ -9484,7 +9735,7 @@ const Phase = props => {
       children: "loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 152,
+      lineNumber: 154,
       columnNumber: 17
     }, undefined);
   }
@@ -9494,17 +9745,17 @@ const Phase = props => {
       crumbs: [(0,_urls__WEBPACK_IMPORTED_MODULE_11__.getChecklistBC)(params), (0,_urls__WEBPACK_IMPORTED_MODULE_11__.getPhaseBC)(params, rec.label)]
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 156,
+      lineNumber: 158,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_SaveChecklistButton__WEBPACK_IMPORTED_MODULE_9__["default"], {}, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 159,
+      lineNumber: 161,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("b", {
       children: "Section"
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 160,
+      lineNumber: 162,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("table", {
       children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("colgroup", {
@@ -9515,7 +9766,7 @@ const Phase = props => {
           }
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 163,
+          lineNumber: 165,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("col", {
           span: "1",
@@ -9524,12 +9775,12 @@ const Phase = props => {
           }
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 164,
+          lineNumber: 166,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 162,
+        lineNumber: 164,
         columnNumber: 17
       }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("tbody", {
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("tr", {
@@ -9542,7 +9793,7 @@ const Phase = props => {
             children: "ID"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 168,
+            lineNumber: 170,
             columnNumber: 25
           }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("td", {
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_8__["default"], {
@@ -9550,17 +9801,17 @@ const Phase = props => {
               fld: "id"
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 177,
+              lineNumber: 179,
               columnNumber: 29
             }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 177,
+            lineNumber: 179,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 167,
+          lineNumber: 169,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("tr", {
           children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("td", {
@@ -9572,7 +9823,7 @@ const Phase = props => {
             children: "Label"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 180,
+            lineNumber: 182,
             columnNumber: 25
           }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)("td", {
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_10__["default"], {
@@ -9581,31 +9832,31 @@ const Phase = props => {
               unique: true
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 189,
+              lineNumber: 191,
               columnNumber: 29
             }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 189,
+            lineNumber: 191,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 179,
+          lineNumber: 181,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 166,
+        lineNumber: 168,
         columnNumber: 17
       }, undefined)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 161,
+      lineNumber: 163,
       columnNumber: 13
     }, undefined), renderChildren(rec), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__.jsxDEV)(_SaveChecklistButton__WEBPACK_IMPORTED_MODULE_9__["default"], {}, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 196,
+      lineNumber: 198,
       columnNumber: 13
     }, undefined)]
   }, void 0, true);
@@ -9638,7 +9889,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8283);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8286);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/PhaseList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/PhaseList.js";
 
 
 
@@ -9976,7 +10227,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ReadOnlyField.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ReadOnlyField.js";
 
 
 const ReadOnlyField = ({
@@ -10032,7 +10283,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SaveChecklistButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SaveChecklistButton.js";
  // import { useScenarioType } from "../ScenarioTypeContext"
 
 
@@ -10070,7 +10321,7 @@ const SaveChecklistButton = () => {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */   "default": () => (/* binding */ SimpleCheckListItem)
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
@@ -10079,8 +10330,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8307);
 /* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9378);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8283);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SimpleCheckListItem.js";
+/* harmony import */ var _CheckBoxField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(587);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SimpleCheckListItem.js";
 
 
 
@@ -10089,13 +10341,14 @@ var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/
 
 
 
-const SimpleCheckListItem = ({
+function SimpleCheckListItem({
   ctx,
-  hasAbbrLabel: _hasAbbrLabel = true,
-  hasFeedback: _hasFeedback = true,
-  hasPromptID: _hasPromptID = false,
-  asTable: _asTable = false
-}) => {
+  hasAbbrLabel = true,
+  hasFeedback = true,
+  hasGraded = true,
+  hasPromptID = false,
+  asTable = false
+}) {
   const [rec, setRec] = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(null);
   const {
     getRec
@@ -10104,156 +10357,169 @@ const SimpleCheckListItem = ({
     !!ctx && setRec(getRec(ctx));
   }, [ctx, getRec]);
 
-  if (!rec && _asTable) {
-    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("tr", {
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
+  if (!rec && asTable) {
+    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("tr", {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
         colSpan: "7",
         children: "loading..."
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 21,
+        lineNumber: 29,
         columnNumber: 21
-      }, undefined)
+      }, this)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 21,
+      lineNumber: 29,
       columnNumber: 17
-    }, undefined);
+    }, this);
   } else if (!rec) {
-    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
+    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
       children: "Loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 23,
+      lineNumber: 31,
       columnNumber: 17
-    }, undefined);
+    }, this);
   }
 
-  if (_asTable) {
-    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("tr", {
-      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_ButtonBar__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  if (asTable) {
+    return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("tr", {
+      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_ButtonBar__WEBPACK_IMPORTED_MODULE_2__["default"], {
           rec: rec
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 29,
+          lineNumber: 37,
           columnNumber: 21
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 29,
+        lineNumber: 37,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
         children: rec.type
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 30,
+        lineNumber: 38,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__["default"], {
           rec: rec,
           fld: "id",
           size: "18"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 31,
+          lineNumber: 39,
           columnNumber: 21
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 31,
+        lineNumber: 39,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
           rec: rec,
           fld: "label",
           size: "45",
           unique: true
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 32,
+          lineNumber: 40,
           columnNumber: 21
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 32,
+        lineNumber: 40,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: _hasAbbrLabel && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: hasAbbrLabel && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
           rec: rec,
           fld: "abbrLabel",
           size: "20"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 33,
+          lineNumber: 41,
           columnNumber: 38
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 33,
+        lineNumber: 41,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: _hasFeedback && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: [hasGraded && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_CheckBoxField__WEBPACK_IMPORTED_MODULE_6__["default"], {
+          rec: rec,
+          fld: "graded"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 42,
+          columnNumber: 35
+        }, this), " "]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 42,
+        columnNumber: 17
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: hasFeedback && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
           rec: rec,
           fld: "feedback",
           size: "20"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 34,
+          lineNumber: 43,
           columnNumber: 37
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 34,
+        lineNumber: 43,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {
-        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_3__["default"], {
           rec: rec
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 35,
+          lineNumber: 44,
           columnNumber: 21
-        }, undefined)
+        }, this)
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 35,
+        lineNumber: 44,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("td", {}, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 36,
-        columnNumber: 17
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 13
-    }, undefined);
-  }
-
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("div", {
-    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_ButtonBar__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      rec: rec
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 43,
-      columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("span", {
-      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)("b", {
-        children: rec.type
-      }, void 0, false, {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("td", {}, void 0, false, {
         fileName: _jsxFileName,
         lineNumber: 45,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 36,
+      columnNumber: 13
+    }, this);
+  }
+
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_ButtonBar__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      rec: rec
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 52,
+      columnNumber: 13
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("span", {
+      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("b", {
+        children: rec.type
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 54,
+        columnNumber: 17
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__["default"], {
         rec: rec,
         fld: "id",
         label: "ID",
         size: "30"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 46,
+        lineNumber: 55,
         columnNumber: 17
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
         rec: rec,
         fld: "label",
         label: "Label",
@@ -10261,46 +10527,44 @@ const SimpleCheckListItem = ({
         unique: true
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 47,
+        lineNumber: 56,
         columnNumber: 17
-      }, undefined), _hasAbbrLabel && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), hasAbbrLabel && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
         rec: rec,
         fld: "abbrLabel",
         size: "30",
         label: "Abbr. Label"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 48,
+        lineNumber: 57,
         columnNumber: 34
-      }, undefined), _hasFeedback && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, this), hasFeedback && /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_TextInput__WEBPACK_IMPORTED_MODULE_5__["default"], {
         rec: rec,
         fld: "feedback",
         size: "30",
         label: "Feedback"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 49,
+        lineNumber: 58,
         columnNumber: 33
-      }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_DeleteButton__WEBPACK_IMPORTED_MODULE_3__["default"], {
         rec: rec
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 50,
+        lineNumber: 59,
         columnNumber: 17
-      }, undefined)]
+      }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 44,
+      lineNumber: 53,
       columnNumber: 13
-    }, undefined)]
+    }, this)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 42,
+    lineNumber: 51,
     columnNumber: 9
-  }, undefined);
-};
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (SimpleCheckListItem);
+  }, this);
+}
 
 /***/ }),
 
@@ -10324,7 +10588,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SubPhase.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SubPhase.js";
 
  // import classnames from "classnames"
 
@@ -10524,7 +10788,7 @@ const SubPhase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "20%"
+                width: "15%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
@@ -10551,7 +10815,7 @@ const SubPhase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "20%"
+                width: "5%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
@@ -10560,11 +10824,20 @@ const SubPhase = props => {
             }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("col", {
               span: "1",
               style: {
-                width: "5%"
+                width: "20%"
               }
             }, void 0, false, {
               fileName: _jsxFileName,
               lineNumber: 100,
+              columnNumber: 33
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("col", {
+              span: "1",
+              style: {
+                width: "5%"
+              }
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 101,
               columnNumber: 33
             }, undefined)]
           }, void 0, true, {
@@ -10575,51 +10848,57 @@ const SubPhase = props => {
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("tr", {
               children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {}, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 104,
+                lineNumber: 105,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
                 children: "Type"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 105,
+                lineNumber: 106,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
                 children: "ID"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 106,
+                lineNumber: 107,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
                 children: "Label"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 107,
+                lineNumber: 108,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
                 children: "Abbr Label"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 108,
+                lineNumber: 109,
+                columnNumber: 37
+              }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
+                children: "Graded"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 110,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {
                 children: "Feedback"
               }, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 109,
+                lineNumber: 111,
                 columnNumber: 37
               }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("th", {}, void 0, false, {
                 fileName: _jsxFileName,
-                lineNumber: 110,
+                lineNumber: 112,
                 columnNumber: 37
               }, undefined)]
             }, void 0, true, {
               fileName: _jsxFileName,
-              lineNumber: 103,
+              lineNumber: 104,
               columnNumber: 33
             }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 102,
+            lineNumber: 103,
             columnNumber: 29
           }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("tbody", {
             children: ctx.items.map((item, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_CheckListItem__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -10628,12 +10907,12 @@ const SubPhase = props => {
               asTable: true
             }, item.id, false, {
               fileName: _jsxFileName,
-              lineNumber: 115,
+              lineNumber: 117,
               columnNumber: 37
             }, undefined))
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 113,
+            lineNumber: 115,
             columnNumber: 29
           }, undefined)]
         }, void 0, true, {
@@ -10642,7 +10921,7 @@ const SubPhase = props => {
           columnNumber: 27
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)("hr", {}, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 125,
+          lineNumber: 127,
           columnNumber: 21
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
           index: rec._ctx.lastIndex + 1,
@@ -10651,7 +10930,7 @@ const SubPhase = props => {
           parentID: rec._ctx.id
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 126,
+          lineNumber: 128,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
@@ -10665,7 +10944,7 @@ const SubPhase = props => {
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__.jsxDEV)(_SaveChecklistButton__WEBPACK_IMPORTED_MODULE_6__["default"], {}, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 134,
+      lineNumber: 136,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
@@ -10693,7 +10972,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5124);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/TextInput.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/TextInput.js";
 
 
 
@@ -10816,7 +11095,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Checkbox.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Checkbox.js";
 
 
 const Checkbox = ({
@@ -10828,7 +11107,7 @@ const Checkbox = ({
       checked
     } = event.target;
 
-    if (!!fld.changeHandler) {
+    if (fld.changeHandler) {
       fld.changeHandler(entity.id, fld.name, checked);
     } else {
       console.log("defaultChangeHandler", fld.name, checked);
@@ -10859,7 +11138,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedField.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedField.js";
 
 
 const ComputedField = ({
@@ -10891,7 +11170,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5350);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedSelect.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedSelect.js";
 
 
 
@@ -10944,7 +11223,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DeleteButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DeleteButton.js";
 
 
 const DeleteButton = ({
@@ -10980,7 +11259,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2571);
 /* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5646);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DetailsEditor.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DetailsEditor.js";
 
 
 
@@ -11127,7 +11406,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DropDown.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DropDown.js";
 
 
 const DropDown = ({
@@ -11181,7 +11460,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/IndentedText.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/IndentedText.js";
 
 
 const IndentedText = ({
@@ -11226,7 +11505,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ComputedField__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(3856);
 /* harmony import */ var _ComputedSelect__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3553);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InlineEditor.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InlineEditor.js";
 
 
 
@@ -11525,7 +11804,7 @@ const InlineEditor = ({
               children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)(_ItemButtons__WEBPACK_IMPORTED_MODULE_7__["default"], {
                 n: i,
                 of: arr.length - 1,
-                depth: !!rec[_changeIndentAttr] ? rec[_changeIndentAttr] : 1,
+                depth: rec[_changeIndentAttr] ? rec[_changeIndentAttr] : 1,
                 allowChangeIndent: _allowChangeIndent,
                 onMoveUp: _onMoveUp,
                 onMoveDown: _onMoveDown,
@@ -11582,7 +11861,7 @@ const InlineEditor = ({
               lineNumber: 226,
               columnNumber: 45
             }, undefined)]
-          }, !!_keyField ? rec.id : i, true, {
+          }, _keyField ? rec.id : i, true, {
             fileName: _jsxFileName,
             lineNumber: 195,
             columnNumber: 37
@@ -11622,7 +11901,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InputWithErrorMessage.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InputWithErrorMessage.js";
 
 
 
@@ -11686,7 +11965,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1681);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/DistPromptsList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/DistPromptsList.js";
  // import classNames from "classnames"
 
 
@@ -11819,7 +12098,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditDistPrompt.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditDistPrompt.js";
 
 
 
@@ -12050,7 +12329,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8286);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditIntervention.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditIntervention.js";
 
 
 
@@ -12357,7 +12636,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditPrompt.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditPrompt.js";
 
 
 
@@ -12433,11 +12712,11 @@ const EditPrompt = () => {
     if (!!interventionID && !!promptID) {
       const foundIntv = scenarioType.interventions.find(e => e.id === interventionID);
 
-      if (!!foundIntv) {
+      if (foundIntv) {
         setIntv(foundIntv);
         const foundPrompt = scenarioType.interventionPrompts.find(e => e.id === promptID);
 
-        if (!!foundPrompt) {
+        if (foundPrompt) {
           setPrompt(foundPrompt); // trigger the initial loading of prompt answers
 
           setPromptAnswersUpdated(true);
@@ -12463,7 +12742,7 @@ const EditPrompt = () => {
         // need to deal with race condition prompt.answers still has ansID of deleted answer
         const match = matches.find(e => e.id === ansID);
 
-        if (!!match) {
+        if (match) {
           tmp.push(match);
         }
       }); // console.log(tmp)
@@ -12521,7 +12800,7 @@ const EditPrompt = () => {
         name: "selectionType",
         label: "Selection Type",
         widget: "select",
-        options: [[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.ONE, "One"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM, "One-or-more"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.NONE, "None"]],
+        options: [[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.ONE, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPE_LABELS[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.ONE]], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPE_LABELS[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM]], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_AND, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPE_LABELS[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_AND]], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_OR, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPE_LABELS[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.OOM_OR]], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.NONE, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPE_LABELS[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SELECTION_TYPES.NONE]]],
         changeHandler: updatePromptField
       }]
     }, void 0, false, {
@@ -12568,12 +12847,12 @@ const EditPrompt = () => {
         uniqueLabels: uniqueLabels
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 203,
+        lineNumber: 205,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 173,
+      lineNumber: 175,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
@@ -12598,7 +12877,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6378);
 /* harmony import */ var _SaveInterventionsButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6282);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionEditorLayout.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionEditorLayout.js";
 
 
 
@@ -12639,7 +12918,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7267);
@@ -12652,7 +12931,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
 
 const _excluded = ["items"];
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsList.js";
 
 
 
@@ -12722,7 +13001,7 @@ const InterventionsList = () => {
         const {
           items
         } = cat,
-              newCat = (0,_home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(cat, _excluded);
+              newCat = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(cat, _excluded);
 
         const newCatItems = items.filter(itemID => !myMenuItemIDs.includes(itemID));
         newCat.items = newCatItems;
@@ -12820,7 +13099,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8286);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenu.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenu.js";
 
 
 
@@ -12929,7 +13208,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8286);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenuCategory.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenuCategory.js";
 
 
 
@@ -13173,7 +13452,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2459);
 /* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6896);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/SaveInterventionsButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/SaveInterventionsButton.js";
 
 
 
@@ -13227,7 +13506,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _InterventionsMenuCategory__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9878);
 /* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/index.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/index.js";
 
 
 
@@ -13498,7 +13777,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ItemButtons.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ItemButtons.js";
 
 
 
@@ -13572,7 +13851,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _data_contraindications_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1091);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Contraindications.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Contraindications.js";
 
 
 
@@ -13654,7 +13933,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Indications.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Indications.js";
 
 
 function Indications({
@@ -13740,7 +14019,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Contraindications_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4406);
 /* harmony import */ var _Indications_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(756);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medication.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medication.js";
 
 
 
@@ -14240,7 +14519,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Medication__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6402);
 /* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2647);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medications.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medications.js";
 
 
 
@@ -14373,7 +14652,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/SaveButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/SaveButton.js";
 
 
 const SaveButton = ({
@@ -14409,7 +14688,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/NewScenarioType.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/NewScenarioType.js";
 
 
 
@@ -14508,7 +14787,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/SaveButton.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/SaveButton.js";
 
 
 const SaveButton = ({
@@ -14562,7 +14841,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _InterventionsEditor__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7732);
 /* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioType.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioType.js";
 
  // import classnames from "classnames"
 
@@ -14892,7 +15171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
 /* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioTypeList.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioTypeList.js";
 
 
 
@@ -15019,7 +15298,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextArea.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextArea.js";
 
 
 const TextArea = ({
@@ -15065,7 +15344,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextInput.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextInput.js";
 
 
 
@@ -15279,7 +15558,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "swapUp": () => (/* binding */ swapUp),
 /* harmony export */   "updateObjInArray": () => (/* binding */ updateObjInArray)
 /* harmony export */ });
-/* harmony import */ var _home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 
 
 function _toPropertyKey(arg) { var key = _toPrimitive(arg, "string"); return typeof key === "symbol" ? key : String(key); }
@@ -15292,7 +15571,7 @@ const immutableAddOrUpdateObjectKey = (prevState, key, value) => {
   });
 };
 const immutableRemoveObjectKey = (prevState, key) => {
-  const remainingProperties = (0,_home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(prevState, [key].map(_toPropertyKey));
+  const remainingProperties = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(prevState, [key].map(_toPropertyKey));
 
   return remainingProperties;
 };
@@ -15367,7 +15646,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
 /* harmony import */ var _ScenarioTypeEditor_InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/AddModel.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/AddModel.js";
 
 
 
@@ -15586,7 +15865,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SearchEntity__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3196);
 /* harmony import */ var _SelectEntity__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5513);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/AssociateModel.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/AssociateModel.js";
 
 
 
@@ -15728,7 +16007,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ScenarioTypeEditor_ItemButtons__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6994);
 /* harmony import */ var _ScenarioTypeEditor_DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1432);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/InlineModelAdmin.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/InlineModelAdmin.js";
 
 
 
@@ -16022,7 +16301,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2838);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/ModelAdmin.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/ModelAdmin.js";
 
 
 
@@ -16126,7 +16405,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/SearchEntity.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/SearchEntity.js";
 
 
 
@@ -16177,7 +16456,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/admins/SelectEntity.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/SelectEntity.js";
 
 
 const SelectEntity = ({
@@ -16244,7 +16523,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/Checkbox.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Checkbox.js";
 
 
 const Checkbox = ({
@@ -16283,7 +16562,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/DropDown.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/DropDown.js";
 
 
 const DropDown = ({
@@ -16337,11 +16616,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
 
 const _excluded = ["widget"];
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/Field.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Field.js";
 
 
 const Field = ({
@@ -16351,7 +16630,7 @@ const Field = ({
   const {
     widget: Component
   } = fld,
-        rest = (0,_home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(fld, _excluded);
+        rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(fld, _excluded);
 
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(Component, Object.assign({
     entity: entity
@@ -16379,7 +16658,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/Text.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Text.js";
 
 
 
@@ -16457,7 +16736,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/TextArea.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/TextArea.js";
 
 
 const TextArea = ({
@@ -16500,7 +16779,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/components/widgets/TextInput.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/TextInput.js";
 
 
 const TextInput = ({
@@ -16577,7 +16856,7 @@ __webpack_require__.r(__webpack_exports__);
 // When building for production, this file is replaced with `environment.prod.ts`.
 const environment = {
   production: false,
-  firebaseProject: "ScottDev" || 0
+  firebaseProject: ({"NODE_ENV":"development","NX_CLI_SET":"true","NX_WORKSPACE_ROOT":"/Users/user/Projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/user/Projects/monorepo/node_modules/.cache/nx/terminalOutputs/59a1972bbba53e542ea6d70c3a12e4b294d6fe4730befbb2fd655f2e0d695e22","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"59a1972bbba53e542ea6d70c3a12e4b294d6fe4730befbb2fd655f2e0d695e22"}).NX_FIREBASE_PROJECT || "MedDBriefer"
 };
 
 /***/ }),
@@ -16592,7 +16871,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_dom_client__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7029);
 /* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7295);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/apps/data-entry/src/main.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/main.js";
 
 
 
@@ -16682,7 +16961,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _EmailVerification__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7650);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/AuthFlow.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/AuthFlow.js";
 
 
 
@@ -16767,7 +17046,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4292);
 /* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5600);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/EmailVerification.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/EmailVerification.js";
 
 
 
@@ -16906,7 +17185,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5600);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/ForgotPasswordForm.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/ForgotPasswordForm.js";
 
 
 
@@ -17072,7 +17351,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4292);
 /* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3391);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/LoginForm.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/LoginForm.js";
 
 
 
@@ -17298,7 +17577,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5600);
 /* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3391);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/RegistrationForm.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/RegistrationForm.js";
 
 
 
@@ -17567,7 +17846,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/components/icons/PasswordVisibilityIcon.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/icons/PasswordVisibilityIcon.js";
 
 
 
@@ -17612,7 +17891,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9526);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/contexts/Auth.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/contexts/Auth.js";
 
 
 
@@ -17845,7 +18124,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3105);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2784);
@@ -17856,7 +18135,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
 
 const _excluded = ["component", "authFlowLayout"];
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/routes/PrivateRoute.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/routes/PrivateRoute.js";
 
 
 /* eslint-disable no-extra-boolean-cast */
@@ -17871,7 +18150,7 @@ const PrivateRoute = _ref => {
     component: RouteComponent,
     authFlowLayout: Layout
   } = _ref,
-      rest = (0,_home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
+      rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
 
   const {
     emailVerified
@@ -17945,7 +18224,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3105);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2784);
@@ -17956,7 +18235,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
 
 const _excluded = ["component", "authFlowLayout"];
-var _jsxFileName = "/home/pitt/projects/monorepo/libs/mdb-auth/src/lib/routes/StaffRoute.js";
+var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/routes/StaffRoute.js";
 
 
 
@@ -17983,7 +18262,7 @@ const StaffRoute = _ref => {
     component: RouteComponent,
     authFlowLayout: Layout
   } = _ref,
-      rest = (0,_home_pitt_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
+      rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
 
   const {
     isAuthenticated,
@@ -18076,56 +18355,56 @@ const StaffRoute = _ref => {
 /***/ 4781:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.checklist-editor {\n  /*button:disabled {\n      background-color: lightgray;\n      pointer-events: none;\n  }*/\n}\n.checklist-editor hr {\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor b {\n  font-weight: bold;\n}\n.checklist-editor a {\n  color: purple;\n}\n.checklist-editor colgroup {\n  width: 100%;\n}\n.checklist-editor fieldset {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  margin-left: 45px;\n}\n.checklist-editor fieldset.top-level {\n  margin-left: 5px;\n}\n.checklist-editor legend {\n  padding-left: 5px;\n}\n.checklist-editor div.changed-ids {\n  margin-top: 20px;\n}\n.checklist-editor table {\n  width: 100%;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.checklist-editor label {\n  padding-left: 5px;\n}\n.checklist-editor button {\n  background-color: white;\n}\n.checklist-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.delete-btn {\n  margin-left: 10px;\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.checklist-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.checklist-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.checklist-editor .has-error {\n  border: 1 px solid red;\n  background-color: pink;\n}\n.checklist-editor .error-message {\n  color: red;\n}\n.checklist-editor .phase {\n  border: 1px solid black;\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .sub-phase {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .assessment-with-options {\n  border: 1px solid red;\n}\n.checklist-editor .decision {\n  border: 1px solid blue;\n}\n.checklist-editor .add-item {\n  margin-top: 10px;\n  margin-bottom: 4px;\n}\n.checklist-editor .indent-1 {\n  margin-left: 20px;\n}\n.checklist-editor .indent-2 {\n  margin-left: 40px;\n}\n.checklist-editor .indent-3 {\n  margin-left: 60px;\n}\n.checklist-editor .indent-4 {\n  margin-left: 80px;\n}\n.scenario-type-selector {\n  padding: 1.5rem;\n}\n.scenario-type-selector a {\n  display: inline-block;\n  padding: 2rem 3rem;\n  border: 1px solid #333;\n  border-radius: 0.5rem;\n  font-size: 1.25rem;\n  margin: 0.5rem 0;\n}\n.scenario-type-selector a:hover {\n  background-color: #ddd;\n}\n.hidden {\n  display: none;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/checklist-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AASA;EAoDI;;;IAAA;AAtDJ;AAII;EACI,eAAA;EACA,kBAAA;AAFR;AAKI;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;AALR;AAQI;EACI,gBAAA;EACA,mBAAA;EACA,iBAAA;AANR;AAQI;EACI,gBAAA;AANR;AASI;EACI,iBAAA;AAPR;AAUI;EACI,gBAAA;AARR;AAWI;EACI,WAAA;EACA,eAAA;EACA,kBAAA;AATR;AAWI;EACI,gBAAA;EACA,iBAAA;AATR;AAWI;EACI,iBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAgBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EACA,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EAEA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAiBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAhBR;AAkBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAhBR;AAmBI;EACI,sBAAA;EACA,sBAAA;AAjBR;AAoBI;EACI,UAAA;AAlBR;AAoBI;EACI,uBAAA;EACA,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAnBR;AAsBI;EACI,qBAAA;AApBR;AAsBI;EACI,sBAAA;AApBR;AAuBI;EACI,gBAAA;EACA,kBAAA;AArBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAkCA;EACI,eAAA;AA/BJ;AAiCI;EACI,qBAAA;EACA,kBAAA;EACA,sBAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;AA/BR;AAiCQ;EACI,sBAAA;AA/BZ;AAoCA;EACI,aAAA;AAjCJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.checklist-editor {\n\n    hr {\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    colgroup {\n        width: 100%;\n    }\n\n    fieldset {\n        padding-top: 5px;\n        padding-bottom: 5px;\n        margin-left: 45px;\n    }\n    fieldset.top-level {\n        margin-left: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n    }\n\n    div.changed-ids {\n        margin-top: 20px;\n    }\n\n    table {\n        width: 100%;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n    label {\n        padding-left: 5px;\n    }\n\n    button {\n        background-color: white;\n    }\n    /*button:disabled {\n        background-color: lightgray;\n        pointer-events: none;\n    }*/\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.delete-btn {\n        margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.add-btn {\n        margin-left: 10px;\n        // font-size: smaller;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .has-error {\n        border: 1 px solid red;\n        background-color: pink;\n    }\n\n    .error-message {\n        color: red;\n    }\n    .phase {\n        border: 1px solid black;\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .sub-phase {\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .assessment-with-options {\n        border: 1px solid red;\n    }\n    .decision {\n        border: 1px solid blue;\n    }\n\n    .add-item {\n        margin-top: 10px;\n        margin-bottom: 4px;\n    }\n\n    .indent-1 {\n        margin-left: 20px;\n    }\n    .indent-2 {\n        margin-left: 40px\n    }\n    .indent-3 {\n        margin-left: 60px;\n    }\n    .indent-4 {\n        margin-left: 80px;\n    }\n\n    // .save-button-wrapper {\n    //     display: flex;\n    //     flex-flow: row-reverse;\n    // }\n\n}\n\n\n\n.scenario-type-selector {\n    padding: 1.5rem;\n\n    a {\n        display: inline-block;\n        padding: 2rem 3rem;\n        border: 1px solid #333;\n        border-radius: 0.5rem;\n        font-size: 1.25rem;\n        margin: 0.5rem 0;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}\n\n.hidden {\n    display: none;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.checklist-editor {\n  /*button:disabled {\n      background-color: lightgray;\n      pointer-events: none;\n  }*/\n}\n.checklist-editor hr {\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor b {\n  font-weight: bold;\n}\n.checklist-editor a {\n  color: purple;\n}\n.checklist-editor colgroup {\n  width: 100%;\n}\n.checklist-editor fieldset {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  margin-left: 45px;\n}\n.checklist-editor fieldset.top-level {\n  margin-left: 5px;\n}\n.checklist-editor legend {\n  padding-left: 5px;\n}\n.checklist-editor div.changed-ids {\n  margin-top: 20px;\n}\n.checklist-editor table {\n  width: 100%;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.checklist-editor label {\n  padding-left: 5px;\n}\n.checklist-editor button {\n  background-color: white;\n}\n.checklist-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.delete-btn {\n  margin-left: 10px;\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.checklist-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.checklist-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.checklist-editor .has-error {\n  border: 1 px solid red;\n  background-color: pink;\n}\n.checklist-editor .error-message {\n  color: red;\n}\n.checklist-editor .phase {\n  border: 1px solid black;\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .sub-phase {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .assessment-with-options {\n  border: 1px solid red;\n}\n.checklist-editor .decision {\n  border: 1px solid blue;\n}\n.checklist-editor .add-item {\n  margin-top: 10px;\n  margin-bottom: 4px;\n}\n.checklist-editor .indent-1 {\n  margin-left: 20px;\n}\n.checklist-editor .indent-2 {\n  margin-left: 40px;\n}\n.checklist-editor .indent-3 {\n  margin-left: 60px;\n}\n.checklist-editor .indent-4 {\n  margin-left: 80px;\n}\n.scenario-type-selector {\n  padding: 1.5rem;\n}\n.scenario-type-selector a {\n  display: inline-block;\n  padding: 2rem 3rem;\n  border: 1px solid #333;\n  border-radius: 0.5rem;\n  font-size: 1.25rem;\n  margin: 0.5rem 0;\n}\n.scenario-type-selector a:hover {\n  background-color: #ddd;\n}\n.hidden {\n  display: none;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/checklist-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AASA;EAoDI;;;IAAA;AAtDJ;AAII;EACI,eAAA;EACA,kBAAA;AAFR;AAKI;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;AALR;AAQI;EACI,gBAAA;EACA,mBAAA;EACA,iBAAA;AANR;AAQI;EACI,gBAAA;AANR;AASI;EACI,iBAAA;AAPR;AAUI;EACI,gBAAA;AARR;AAWI;EACI,WAAA;EACA,eAAA;EACA,kBAAA;AATR;AAWI;EACI,gBAAA;EACA,iBAAA;AATR;AAWI;EACI,iBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAgBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EACA,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EAEA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAiBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAhBR;AAkBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAhBR;AAmBI;EACI,sBAAA;EACA,sBAAA;AAjBR;AAoBI;EACI,UAAA;AAlBR;AAoBI;EACI,uBAAA;EACA,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAnBR;AAsBI;EACI,qBAAA;AApBR;AAsBI;EACI,sBAAA;AApBR;AAuBI;EACI,gBAAA;EACA,kBAAA;AArBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAkCA;EACI,eAAA;AA/BJ;AAiCI;EACI,qBAAA;EACA,kBAAA;EACA,sBAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;AA/BR;AAiCQ;EACI,sBAAA;AA/BZ;AAoCA;EACI,aAAA;AAjCJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.checklist-editor {\n\n    hr {\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    colgroup {\n        width: 100%;\n    }\n\n    fieldset {\n        padding-top: 5px;\n        padding-bottom: 5px;\n        margin-left: 45px;\n    }\n    fieldset.top-level {\n        margin-left: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n    }\n\n    div.changed-ids {\n        margin-top: 20px;\n    }\n\n    table {\n        width: 100%;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n    label {\n        padding-left: 5px;\n    }\n\n    button {\n        background-color: white;\n    }\n    /*button:disabled {\n        background-color: lightgray;\n        pointer-events: none;\n    }*/\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.delete-btn {\n        margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.add-btn {\n        margin-left: 10px;\n        // font-size: smaller;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .has-error {\n        border: 1 px solid red;\n        background-color: pink;\n    }\n\n    .error-message {\n        color: red;\n    }\n    .phase {\n        border: 1px solid black;\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .sub-phase {\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .assessment-with-options {\n        border: 1px solid red;\n    }\n    .decision {\n        border: 1px solid blue;\n    }\n\n    .add-item {\n        margin-top: 10px;\n        margin-bottom: 4px;\n    }\n\n    .indent-1 {\n        margin-left: 20px;\n    }\n    .indent-2 {\n        margin-left: 40px\n    }\n    .indent-3 {\n        margin-left: 60px;\n    }\n    .indent-4 {\n        margin-left: 80px;\n    }\n\n    // .save-button-wrapper {\n    //     display: flex;\n    //     flex-flow: row-reverse;\n    // }\n\n}\n\n\n\n.scenario-type-selector {\n    padding: 1.5rem;\n\n    a {\n        display: inline-block;\n        padding: 2rem 3rem;\n        border: 1px solid #333;\n        border-radius: 0.5rem;\n        font-size: 1.25rem;\n        margin: 0.5rem 0;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}\n\n.hidden {\n    display: none;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 4912:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".scenario-assignment {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  gap: 1rem;\n  margin: 1rem 0;\n  padding: 1rem;\n}\n.scenario-assignment * input {\n  margin-left: 0.5rem;\n}\n.scenario-assignment .assignment-list {\n  display: flex;\n  flex-direction: column;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label {\n  display: flex;\n  align-items: center;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label input[type=number] {\n  width: 5em;\n}\n.scenario-assignment .assignment-list label span {\n  margin-left: auto;\n  white-space: nowrap;\n}\n.scenario-assignment button {\n  background-color: rgb(150, 150, 255);\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/class-codes-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;EACA,cAAA;EACA,aAAA;AADJ;AAGI;EACI,mBAAA;AADR;AAII;EACI,aAAA;EACA,sBAAA;EACA,SAAA;AAFR;AAIQ;EACI,aAAA;EACA,mBAAA;EACA,SAAA;AAFZ;AAIY;EACI,UAAA;AAFhB;AAKY;EACI,iBAAA;EACA,mBAAA;AAHhB;AAQI;EACI,oCClCK;AD4Bb","sourcesContent":["@import 'variables';\n\n.scenario-assignment {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    margin: 1rem 0;\n    padding: 1rem;\n\n    * input {\n        margin-left: 0.5rem;\n    }\n\n    .assignment-list {\n        display: flex;\n        flex-direction: column;\n        gap: 1rem;\n\n        label {\n            display: flex;\n            align-items: center;\n            gap: 1rem;\n\n            input[type=\"number\"] {\n                width: 5em;\n            }\n\n            span {\n                margin-left: auto;\n                white-space: nowrap;\n            }\n        }\n    }\n\n    button {\n        background-color: $light-blue;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".scenario-assignment {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  gap: 1rem;\n  margin: 1rem 0;\n  padding: 1rem;\n}\n.scenario-assignment * input {\n  margin-left: 0.5rem;\n}\n.scenario-assignment .assignment-list {\n  display: flex;\n  flex-direction: column;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label {\n  display: flex;\n  align-items: center;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label input[type=number] {\n  width: 5em;\n}\n.scenario-assignment .assignment-list label span {\n  margin-left: auto;\n  white-space: nowrap;\n}\n.scenario-assignment button {\n  background-color: rgb(150, 150, 255);\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/class-codes-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;EACA,cAAA;EACA,aAAA;AADJ;AAGI;EACI,mBAAA;AADR;AAII;EACI,aAAA;EACA,sBAAA;EACA,SAAA;AAFR;AAIQ;EACI,aAAA;EACA,mBAAA;EACA,SAAA;AAFZ;AAIY;EACI,UAAA;AAFhB;AAKY;EACI,iBAAA;EACA,mBAAA;AAHhB;AAQI;EACI,oCClCK;AD4Bb","sourcesContent":["@import 'variables';\n\n.scenario-assignment {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    margin: 1rem 0;\n    padding: 1rem;\n\n    * input {\n        margin-left: 0.5rem;\n    }\n\n    .assignment-list {\n        display: flex;\n        flex-direction: column;\n        gap: 1rem;\n\n        label {\n            display: flex;\n            align-items: center;\n            gap: 1rem;\n\n            input[type=\"number\"] {\n                width: 5em;\n            }\n\n            span {\n                margin-left: auto;\n                white-space: nowrap;\n            }\n        }\n    }\n\n    button {\n        background-color: $light-blue;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 5943:
 /***/ ((module) => {
 
-module.exports = [[module.id, "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  font-family: \"Noto Sans JP\", sans-serif;\n  text-decoration: none;\n  color: #333;\n}\n\n#root {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n}\n\nbutton {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n}\n\nbutton:disabled {\n  opacity: 50%;\n  pointer-events: none;\n}\n\ninput[type=text],\ninput[type=number],\ninput[type=password],\ntextarea {\n  padding: 0.25em;\n}\n\nheader {\n  background-color: #353535;\n  display: flex;\n  align-items: center;\n  padding: 1rem;\n  gap: 1rem;\n}\n\nheader h1 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2.5em;\n}\n\nheader h2 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2em;\n}\n\nheader nav {\n  margin-left: auto;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1em;\n}\n\nheader nav button {\n  color: #353535;\n  background-color: #ddd;\n  margin-left: auto;\n  border: none;\n}\n\nheader nav .sign-out-bttn {\n  color: #ddd;\n  background-color: rgb(150, 0, 0);\n}\n\n.hint-text {\n  font-style: italic;\n  color: #999;\n}\n\n.db-list {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  margin: 1rem 0;\n  gap: 1rem;\n  padding: 0 5rem 2rem 5rem;\n}\n\n.db-list .new-bttn {\n  font-style: italic;\n}\n\n.db-list .new-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item {\n  display: flex;\n  border: 2px solid #353535;\n  border-radius: 0.5rem;\n  align-items: center;\n  flex-wrap: wrap;\n  gap: 1rem;\n  padding: 1rem;\n  width: 100%;\n  min-width: min-content;\n}\n\n.db-list .db-list-item .list-button-wrapper {\n  display: flex;\n  gap: 0.5rem;\n  margin-left: auto;\n}\n\n.db-list .db-list-item .list-button-wrapper button {\n  all: unset;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n  border: 1px solid #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn {\n  border-color: rgb(150, 0, 0);\n  color: rgb(150, 0, 0);\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn:hover {\n  background-color: rgb(150, 0, 0);\n  color: #fff;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/default-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uCAAA;EACA,qBAAA;EACA,WAAA;AADJ;;AAIA;EACI,aAAA;EACA,sBAAA;EACA,aAAA;AADJ;;AAeA;EAVI,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;AADJ;;AAOA;EACI,YAAA;EACA,oBAAA;AAJJ;;AAMA;;;;EAII,eAAA;AAHJ;;AAOA;EACI,yBC5CW;ED6CX,aAAA;EACA,mBAAA;EACA,aAAA;EACA,SAAA;AAJJ;;AAMI;EACI,WAAA;EACA,eAAA;EACA,gBAAA;AAJR;;AAOI;EACI,WAAA;EACA,eAAA;EACA,cAAA;AALR;;AAQI;EACI,iBAAA;EACA,aAAA;EACA,eAAA;EACA,QAAA;AANR;;AAQQ;EACI,cCrEG;EDsEH,sBAAA;EACA,iBAAA;EACA,YAAA;AANZ;;AASQ;EACI,WAAA;EACA,gCAAA;AAPZ;;AAYA;EACI,kBAAA;EACA,WAAA;AATJ;;AAYA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EAEA,cAAA;EACA,SAAA;EACA,yBAAA;AAVJ;;AAYI;EACI,kBAAA;AAVR;;AAYQ;EACI,sBAAA;AAVZ;;AAcI;EACI,aAAA;EACA,yBAAA;EACA,qBAAA;EACA,mBAAA;EACA,eAAA;EACA,SAAA;EACA,aAAA;EACA,WAAA;EACA,sBAAA;AAZR;;AAcQ;EACI,aAAA;EACA,WAAA;EACA,iBAAA;AAZZ;;AAcY;EACI,UAAA;AAZhB;;AAeY;EA3GR,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;EAsGY,sBAAA;AANhB;;AAQgB;EACI,sBAAA;AANpB;;AAUY;EACI,4BAAA;EACA,qBAAA;AARhB;;AAUgB;EACI,gCAAA;EACA,WAAA;AARpB","sourcesContent":["@import 'variables';\n\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: 'Noto Sans JP', sans-serif;\n    text-decoration: none;\n    color: #333;\n}\n\n#root {\n    display: flex;\n    flex-direction: column;\n    height: 100vh;\n}\n\n@mixin bttn {\n    display: inline-block;\n    border: 1px solid;\n    border-radius: 5px;\n    padding: 0.6em 1em;\n    cursor: pointer;\n    font-size: 1em;\n    white-space: nowrap;\n    background-color: #fff;\n}\n\nbutton {\n    @include bttn;\n}\nbutton:disabled {\n    opacity: 50%;\n    pointer-events: none;\n}\ninput[type=\"text\"],\ninput[type=\"number\"],\ninput[type=\"password\"],\ntextarea {\n    padding: 0.25em;\n}\n\n\nheader {\n    background-color: $header-color;\n    display: flex;\n    align-items: center;\n    padding: 1rem;\n    gap: 1rem;\n\n    h1 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2.5em;\n    }\n\n    h2 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2em;\n    }\n\n    nav {\n        margin-left: auto;\n        display: flex;\n        flex-wrap: wrap;\n        gap: 1em;\n\n        button {\n            color: $header-color;\n            background-color: #ddd;\n            margin-left: auto;\n            border: none;\n        }\n\n        .sign-out-bttn {\n            color: #ddd;\n            background-color: rgb(150, 0, 0);\n        }\n    }\n}\n\n.hint-text {\n    font-style: italic;\n    color: #999;\n}\n\n.db-list {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n\n    margin: 1rem 0;\n    gap: 1rem;\n    padding: 0 5rem 2rem 5rem;\n\n    .new-bttn {\n        font-style: italic;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n\n    .db-list-item {\n        display: flex;\n        border: 2px solid $header-color;\n        border-radius: 0.5rem;\n        align-items: center;\n        flex-wrap: wrap;\n        gap: 1rem;\n        padding: 1rem;\n        width: 100%;\n        min-width: min-content;\n\n        .list-button-wrapper {\n            display: flex;\n            gap: 0.5rem;\n            margin-left: auto;\n\n            button {\n                all: unset;\n            }\n\n            .action-bttn {\n                @include bttn;\n                border: 1px solid #ddd;\n\n                &:hover {\n                    background-color: #ddd;\n                }\n            }\n\n            .delete-bttn {\n                border-color: rgb(150, 0, 0);\n                color: rgb(150, 0, 0);\n\n                &:hover {\n                    background-color: rgb(150, 0, 0);\n                    color: #fff;\n                }\n            }\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  font-family: \"Noto Sans JP\", sans-serif;\n  text-decoration: none;\n  color: #333;\n}\n\n#root {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n}\n\nbutton {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n}\n\nbutton:disabled {\n  opacity: 50%;\n  pointer-events: none;\n}\n\ninput[type=text],\ninput[type=number],\ninput[type=password],\ntextarea {\n  padding: 0.25em;\n}\n\nheader {\n  background-color: #353535;\n  display: flex;\n  align-items: center;\n  padding: 1rem;\n  gap: 1rem;\n}\n\nheader h1 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2.5em;\n}\n\nheader h2 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2em;\n}\n\nheader nav {\n  margin-left: auto;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1em;\n}\n\nheader nav button {\n  color: #353535;\n  background-color: #ddd;\n  margin-left: auto;\n  border: none;\n}\n\nheader nav .sign-out-bttn {\n  color: #ddd;\n  background-color: rgb(150, 0, 0);\n}\n\n.hint-text {\n  font-style: italic;\n  color: #999;\n}\n\n.db-list {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  margin: 1rem 0;\n  gap: 1rem;\n  padding: 0 5rem 2rem 5rem;\n}\n\n.db-list .new-bttn {\n  font-style: italic;\n}\n\n.db-list .new-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item {\n  display: flex;\n  border: 2px solid #353535;\n  border-radius: 0.5rem;\n  align-items: center;\n  flex-wrap: wrap;\n  gap: 1rem;\n  padding: 1rem;\n  width: 100%;\n  min-width: min-content;\n}\n\n.db-list .db-list-item .list-button-wrapper {\n  display: flex;\n  gap: 0.5rem;\n  margin-left: auto;\n}\n\n.db-list .db-list-item .list-button-wrapper button {\n  all: unset;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n  border: 1px solid #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn {\n  border-color: rgb(150, 0, 0);\n  color: rgb(150, 0, 0);\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn:hover {\n  background-color: rgb(150, 0, 0);\n  color: #fff;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/default-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uCAAA;EACA,qBAAA;EACA,WAAA;AADJ;;AAIA;EACI,aAAA;EACA,sBAAA;EACA,aAAA;AADJ;;AAeA;EAVI,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;AADJ;;AAOA;EACI,YAAA;EACA,oBAAA;AAJJ;;AAMA;;;;EAII,eAAA;AAHJ;;AAOA;EACI,yBC5CW;ED6CX,aAAA;EACA,mBAAA;EACA,aAAA;EACA,SAAA;AAJJ;;AAMI;EACI,WAAA;EACA,eAAA;EACA,gBAAA;AAJR;;AAOI;EACI,WAAA;EACA,eAAA;EACA,cAAA;AALR;;AAQI;EACI,iBAAA;EACA,aAAA;EACA,eAAA;EACA,QAAA;AANR;;AAQQ;EACI,cCrEG;EDsEH,sBAAA;EACA,iBAAA;EACA,YAAA;AANZ;;AASQ;EACI,WAAA;EACA,gCAAA;AAPZ;;AAYA;EACI,kBAAA;EACA,WAAA;AATJ;;AAYA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EAEA,cAAA;EACA,SAAA;EACA,yBAAA;AAVJ;;AAYI;EACI,kBAAA;AAVR;;AAYQ;EACI,sBAAA;AAVZ;;AAcI;EACI,aAAA;EACA,yBAAA;EACA,qBAAA;EACA,mBAAA;EACA,eAAA;EACA,SAAA;EACA,aAAA;EACA,WAAA;EACA,sBAAA;AAZR;;AAcQ;EACI,aAAA;EACA,WAAA;EACA,iBAAA;AAZZ;;AAcY;EACI,UAAA;AAZhB;;AAeY;EA3GR,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;EAsGY,sBAAA;AANhB;;AAQgB;EACI,sBAAA;AANpB;;AAUY;EACI,4BAAA;EACA,qBAAA;AARhB;;AAUgB;EACI,gCAAA;EACA,WAAA;AARpB","sourcesContent":["@import 'variables';\n\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: 'Noto Sans JP', sans-serif;\n    text-decoration: none;\n    color: #333;\n}\n\n#root {\n    display: flex;\n    flex-direction: column;\n    height: 100vh;\n}\n\n@mixin bttn {\n    display: inline-block;\n    border: 1px solid;\n    border-radius: 5px;\n    padding: 0.6em 1em;\n    cursor: pointer;\n    font-size: 1em;\n    white-space: nowrap;\n    background-color: #fff;\n}\n\nbutton {\n    @include bttn;\n}\nbutton:disabled {\n    opacity: 50%;\n    pointer-events: none;\n}\ninput[type=\"text\"],\ninput[type=\"number\"],\ninput[type=\"password\"],\ntextarea {\n    padding: 0.25em;\n}\n\n\nheader {\n    background-color: $header-color;\n    display: flex;\n    align-items: center;\n    padding: 1rem;\n    gap: 1rem;\n\n    h1 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2.5em;\n    }\n\n    h2 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2em;\n    }\n\n    nav {\n        margin-left: auto;\n        display: flex;\n        flex-wrap: wrap;\n        gap: 1em;\n\n        button {\n            color: $header-color;\n            background-color: #ddd;\n            margin-left: auto;\n            border: none;\n        }\n\n        .sign-out-bttn {\n            color: #ddd;\n            background-color: rgb(150, 0, 0);\n        }\n    }\n}\n\n.hint-text {\n    font-style: italic;\n    color: #999;\n}\n\n.db-list {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n\n    margin: 1rem 0;\n    gap: 1rem;\n    padding: 0 5rem 2rem 5rem;\n\n    .new-bttn {\n        font-style: italic;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n\n    .db-list-item {\n        display: flex;\n        border: 2px solid $header-color;\n        border-radius: 0.5rem;\n        align-items: center;\n        flex-wrap: wrap;\n        gap: 1rem;\n        padding: 1rem;\n        width: 100%;\n        min-width: min-content;\n\n        .list-button-wrapper {\n            display: flex;\n            gap: 0.5rem;\n            margin-left: auto;\n\n            button {\n                all: unset;\n            }\n\n            .action-bttn {\n                @include bttn;\n                border: 1px solid #ddd;\n\n                &:hover {\n                    background-color: #ddd;\n                }\n            }\n\n            .delete-bttn {\n                border-color: rgb(150, 0, 0);\n                color: rgb(150, 0, 0);\n\n                &:hover {\n                    background-color: rgb(150, 0, 0);\n                    color: #fff;\n                }\n            }\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 4846:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".home-nav-wrapper {\n  padding: 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 2rem;\n}\n.home-nav-wrapper .home-nav-link {\n  border-color: #353535;\n  border-width: 2px 2px 2px 0.75em;\n  border-style: solid;\n  border-radius: 0.25rem;\n  padding: 0.3em 0.6em;\n  font-size: 3em;\n}\n.home-nav-wrapper .home-nav-link:hover {\n  background-color: #ddd;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/home-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,aAAA;EACA,sBAAA;EACA,SAAA;AADJ;AAGI;EACI,qBCTO;EDUP,gCAAA;EACA,mBAAA;EACA,sBAAA;EACA,oBAAA;EACA,cAAA;AADR;AAGQ;EACI,sBAAA;AADZ","sourcesContent":["@import 'variables';\n\n.home-nav-wrapper {\n    padding: 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 2rem;\n    \n    .home-nav-link {\n        border-color: $header-color;\n        border-width: 2px 2px 2px 0.75em;\n        border-style: solid;\n        border-radius: 0.25rem;\n        padding: 0.3em 0.6em;\n        font-size: 3em;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".home-nav-wrapper {\n  padding: 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 2rem;\n}\n.home-nav-wrapper .home-nav-link {\n  border-color: #353535;\n  border-width: 2px 2px 2px 0.75em;\n  border-style: solid;\n  border-radius: 0.25rem;\n  padding: 0.3em 0.6em;\n  font-size: 3em;\n}\n.home-nav-wrapper .home-nav-link:hover {\n  background-color: #ddd;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/home-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,aAAA;EACA,sBAAA;EACA,SAAA;AADJ;AAGI;EACI,qBCTO;EDUP,gCAAA;EACA,mBAAA;EACA,sBAAA;EACA,oBAAA;EACA,cAAA;AADR;AAGQ;EACI,sBAAA;AADZ","sourcesContent":["@import 'variables';\n\n.home-nav-wrapper {\n    padding: 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 2rem;\n    \n    .home-nav-link {\n        border-color: $header-color;\n        border-width: 2px 2px 2px 0.75em;\n        border-style: solid;\n        border-radius: 0.25rem;\n        padding: 0.3em 0.6em;\n        font-size: 3em;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 5848:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".medications-form {\n  padding: 1rem 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .main-area {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication h3 {\n  color: rgb(90, 90, 195);\n  text-align: center;\n  min-width: 10rem;\n  width: 13rem;\n}\n.medications-form .medication .expanded-area {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data {\n  display: flex;\n  gap: 1rem;\n  margin-top: 1rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications, .medications-form .medication .expanded-area .generic-data .indications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .hidden, .medications-form .medication .expanded-area .generic-data .indications .hidden {\n  display: none !important;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .dropdown, .medications-form .medication .expanded-area .generic-data .indications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist, .medications-form .medication .expanded-area .generic-data .indications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication {\n  padding: 0.2rem;\n  white-space: nowrap;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n  padding: 0 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label input[type=checkbox] {\n  margin-top: 0.5em;\n}\n.medications-form .medication .expanded-area .headings {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 1rem;\n  align-items: center;\n  justify-items: center;\n  padding: 0.25rem 0;\n}\n.medications-form .medication .expanded-area .headings p {\n  font-weight: bold;\n  text-align: center;\n}\n.medications-form .medication .expanded-area .adult-data, .medications-form .medication .expanded-area .pediatric-data {\n  display: flex;\n  flex-direction: column;\n  background: #f5f5f5;\n  padding: 0.5rem;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info, .medications-form .medication .expanded-area .pediatric-data .basic-info {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=number], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .pediatric-data .basic-info input[type=number] {\n  width: 100%;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=checkbox], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=checkbox] {\n  margin: 0 auto;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info p, .medications-form .medication .expanded-area .pediatric-data .basic-info p {\n  font-weight: bold;\n  text-decoration: underline;\n}\n.medications-form .medication .expanded-area .administration-routes {\n  display: flex;\n  gap: 1rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .administration-routes p {\n  font-weight: bold;\n}\n.medications-form .medication .expanded-area .administration-routes label {\n  display: flex;\n  gap: 0.25rem;\n  align-items: center;\n}\n.medications-form .expand-bttn {\n  border: none;\n  display: flex;\n  align-items: center;\n}\n.medications-form .expand-bttn:hover {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn svg {\n  height: 1rem;\n  width: 1rem;\n}\n.medications-form .expand-bttn.expanded {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn.expanded:hover {\n  background-color: #999;\n}\n.medications-form .expanded-area.collapsed {\n  display: none;\n}\n.medications-form .delete-bttn {\n  all: unset;\n  background-color: #ddd;\n  padding: 0 1rem;\n  max-width: min-content;\n  cursor: pointer;\n}\n.medications-form .delete-bttn:hover {\n  background-color: aquamarine;\n}\n.medications-form button {\n  margin: 0;\n  align-self: flex-start;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/medications-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,kBAAA;EACA,aAAA;EACA,sBAAA;EACA,WAAA;AADJ;AAIQ;EACI,aAAA;EACA,WAAA;EACA,mBAAA;AAFZ;AAKQ;EACI,uBCdE;EDeF,kBAAA;EACA,gBAAA;EACA,YAAA;AAHZ;AAMQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAJZ;AAOY;EACI,aAAA;EACA,SAAA;EACA,gBAAA;AALhB;AAOgB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;AALpB;AAOoB;EAAU,wBAAA;AAJ9B;AAMoB;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AALxB;AAQoB;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;AANxB;AAQwB;EACI,eAAA;EACA,mBAAA;AAN5B;AAQ4B;EACI,aAAA;EACA,WAAA;EACA,mBAAA;EACA,iBAAA;AANhC;AAQgC;EACI,iBAAA;AANpC;AAcY;EACI,aAAA;EACA,sDAtDM;EAuDN,SAAA;EACA,mBAAA;EACA,qBAAA;EACA,kBAAA;AAZhB;AAcgB;EACI,iBAAA;EACA,kBAAA;AAZpB;AAgBY;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,eAAA;EACA,WAAA;AAdhB;AAgBgB;EACI,aAAA;EACA,sDA3EE;EA4EF,WAAA;EACA,mBAAA;AAdpB;AAgBoB;;;EAEI,WAAA;AAbxB;AAgBoB;EACI,cAAA;AAdxB;AAiBoB;EACI,iBAAA;EACA,0BAAA;AAfxB;AAoBY;EACI,aAAA;EACA,SAAA;EACA,mBAAA;AAlBhB;AAoBgB;EACI,iBAAA;AAlBpB;AAqBgB;EACI,aAAA;EACA,YAAA;EACA,mBAAA;AAnBpB;AAyBI;EACI,YAAA;EACA,aAAA;EACA,mBAAA;AAvBR;AAyBQ;EACI,sBAAA;AAvBZ;AA0BQ;EACI,YAAA;EACA,WAAA;AAxBZ;AA4BI;EACI,sBAAA;AA1BR;AA4BQ;EACI,sBAAA;AA1BZ;AA8BI;EACI,aAAA;AA5BR;AA+BI;EACI,UAAA;EACA,sBAAA;EACA,eAAA;EACA,sBAAA;EACA,eAAA;AA7BR;AA+BQ;EACI,4BAAA;AA7BZ;AAiCI;EACI,SAAA;EACA,sBAAA;AA/BR","sourcesContent":["@import 'variables';\n\n.medications-form {\n    padding: 1rem 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 0.5rem;\n\n    .medication {\n        .main-area {\n            display: flex;\n            gap: 0.5rem;\n            align-items: center;\n        }\n\n        h3 {\n            color: $pastel-blue;\n            text-align: center;\n            min-width: 10rem;\n            width: 13rem;\n        }\n\n        .expanded-area {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n            $columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n\n            .generic-data {\n                display: flex;\n                gap: 1rem;\n                margin-top: 1rem;\n\n                .contraindications, .indications {\n                    position: relative;\n                    user-select: none;\n\n                    .hidden { display: none !important; }\n\n                    .dropdown {\n                        background: #eee;\n                        border-radius: 0.5rem;\n                        padding: 0.25rem 0.5rem;\n                        cursor: pointer;\n                        width: min-content;\n                        white-space: nowrap;\n\n                        box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                    }\n\n                    .checklist {\n                        position: absolute;\n                        background-color: #fff;\n                        border: 1px solid #999;\n                        border-radius: 0.5rem;\n                        max-height: 15rem;\n                        overflow-y: auto;\n                        z-index: 99;\n\n                        .contraindication, .indication {\n                            padding: 0.2rem;\n                            white-space: nowrap;\n                            \n                            label {\n                                display: flex;\n                                gap: 0.5rem;\n                                align-items: center;\n                                padding: 0 0.5rem;\n\n                                input[type=checkbox] {\n                                    margin-top: 0.5em;\n                                }\n                            }\n                        }\n                    }\n                }\n            }\n\n            .headings {\n                display: grid;\n                grid-template-columns: $columns;\n                gap: 1rem;\n                align-items: center;\n                justify-items: center;\n                padding: 0.25rem 0;\n                \n                p {\n                    font-weight: bold;\n                    text-align: center;\n                }\n            }\n            \n            .adult-data, .pediatric-data {\n                display: flex;\n                flex-direction: column;\n                background: #f5f5f5;\n                padding: 0.5rem;\n                gap: 0.5rem;\n                \n                .basic-info {\n                    display: grid;\n                    grid-template-columns: $columns;\n                    gap: 0.5rem;\n                    align-items: center;\n\n                    input[type=text],\n                    input[type=number] {\n                        width: 100%;\n                    }\n\n                    input[type=checkbox] {\n                        margin: 0 auto;\n                    }\n\n                    p {\n                        font-weight: bold;\n                        text-decoration: underline;\n                    }\n                }\n            }\n\n            .administration-routes {\n                display: flex;\n                gap: 1rem;\n                align-items: center;\n\n                p {\n                    font-weight: bold;\n                }\n    \n                label {\n                    display: flex;\n                    gap: 0.25rem;\n                    align-items: center;\n                }\n            }\n        }\n    }\n\n    .expand-bttn {\n        border: none;\n        display: flex;\n        align-items: center;\n\n        &:hover {\n            background-color: #ddd;\n        }\n\n        svg {\n            height: 1rem;\n            width: 1rem;\n        }\n    }\n\n    .expand-bttn.expanded {\n        background-color: #ddd;\n\n        &:hover {\n            background-color: #999;\n        }\n    }\n\n    .expanded-area.collapsed {\n        display: none;\n    }\n\n    .delete-bttn {\n        all: unset;\n        background-color: #ddd;\n        padding: 0 1rem;\n        max-width: min-content;\n        cursor: pointer;\n\n        &:hover {\n            background-color: aquamarine;\n        }\n    }\n\n    button {\n        margin: 0;\n        align-self: flex-start;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".medications-form {\n  padding: 1rem 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .main-area {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication h3 {\n  color: rgb(90, 90, 195);\n  text-align: center;\n  min-width: 10rem;\n  width: 13rem;\n}\n.medications-form .medication .expanded-area {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data {\n  display: flex;\n  gap: 1rem;\n  margin-top: 1rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications, .medications-form .medication .expanded-area .generic-data .indications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .hidden, .medications-form .medication .expanded-area .generic-data .indications .hidden {\n  display: none !important;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .dropdown, .medications-form .medication .expanded-area .generic-data .indications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist, .medications-form .medication .expanded-area .generic-data .indications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication {\n  padding: 0.2rem;\n  white-space: nowrap;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n  padding: 0 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label input[type=checkbox] {\n  margin-top: 0.5em;\n}\n.medications-form .medication .expanded-area .headings {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 1rem;\n  align-items: center;\n  justify-items: center;\n  padding: 0.25rem 0;\n}\n.medications-form .medication .expanded-area .headings p {\n  font-weight: bold;\n  text-align: center;\n}\n.medications-form .medication .expanded-area .adult-data, .medications-form .medication .expanded-area .pediatric-data {\n  display: flex;\n  flex-direction: column;\n  background: #f5f5f5;\n  padding: 0.5rem;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info, .medications-form .medication .expanded-area .pediatric-data .basic-info {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=number], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .pediatric-data .basic-info input[type=number] {\n  width: 100%;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=checkbox], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=checkbox] {\n  margin: 0 auto;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info p, .medications-form .medication .expanded-area .pediatric-data .basic-info p {\n  font-weight: bold;\n  text-decoration: underline;\n}\n.medications-form .medication .expanded-area .administration-routes {\n  display: flex;\n  gap: 1rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .administration-routes p {\n  font-weight: bold;\n}\n.medications-form .medication .expanded-area .administration-routes label {\n  display: flex;\n  gap: 0.25rem;\n  align-items: center;\n}\n.medications-form .expand-bttn {\n  border: none;\n  display: flex;\n  align-items: center;\n}\n.medications-form .expand-bttn:hover {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn svg {\n  height: 1rem;\n  width: 1rem;\n}\n.medications-form .expand-bttn.expanded {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn.expanded:hover {\n  background-color: #999;\n}\n.medications-form .expanded-area.collapsed {\n  display: none;\n}\n.medications-form .delete-bttn {\n  all: unset;\n  background-color: #ddd;\n  padding: 0 1rem;\n  max-width: min-content;\n  cursor: pointer;\n}\n.medications-form .delete-bttn:hover {\n  background-color: aquamarine;\n}\n.medications-form button {\n  margin: 0;\n  align-self: flex-start;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/medications-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,kBAAA;EACA,aAAA;EACA,sBAAA;EACA,WAAA;AADJ;AAIQ;EACI,aAAA;EACA,WAAA;EACA,mBAAA;AAFZ;AAKQ;EACI,uBCdE;EDeF,kBAAA;EACA,gBAAA;EACA,YAAA;AAHZ;AAMQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAJZ;AAOY;EACI,aAAA;EACA,SAAA;EACA,gBAAA;AALhB;AAOgB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;AALpB;AAOoB;EAAU,wBAAA;AAJ9B;AAMoB;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AALxB;AAQoB;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;AANxB;AAQwB;EACI,eAAA;EACA,mBAAA;AAN5B;AAQ4B;EACI,aAAA;EACA,WAAA;EACA,mBAAA;EACA,iBAAA;AANhC;AAQgC;EACI,iBAAA;AANpC;AAcY;EACI,aAAA;EACA,sDAtDM;EAuDN,SAAA;EACA,mBAAA;EACA,qBAAA;EACA,kBAAA;AAZhB;AAcgB;EACI,iBAAA;EACA,kBAAA;AAZpB;AAgBY;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,eAAA;EACA,WAAA;AAdhB;AAgBgB;EACI,aAAA;EACA,sDA3EE;EA4EF,WAAA;EACA,mBAAA;AAdpB;AAgBoB;;;EAEI,WAAA;AAbxB;AAgBoB;EACI,cAAA;AAdxB;AAiBoB;EACI,iBAAA;EACA,0BAAA;AAfxB;AAoBY;EACI,aAAA;EACA,SAAA;EACA,mBAAA;AAlBhB;AAoBgB;EACI,iBAAA;AAlBpB;AAqBgB;EACI,aAAA;EACA,YAAA;EACA,mBAAA;AAnBpB;AAyBI;EACI,YAAA;EACA,aAAA;EACA,mBAAA;AAvBR;AAyBQ;EACI,sBAAA;AAvBZ;AA0BQ;EACI,YAAA;EACA,WAAA;AAxBZ;AA4BI;EACI,sBAAA;AA1BR;AA4BQ;EACI,sBAAA;AA1BZ;AA8BI;EACI,aAAA;AA5BR;AA+BI;EACI,UAAA;EACA,sBAAA;EACA,eAAA;EACA,sBAAA;EACA,eAAA;AA7BR;AA+BQ;EACI,4BAAA;AA7BZ;AAiCI;EACI,SAAA;EACA,sBAAA;AA/BR","sourcesContent":["@import 'variables';\n\n.medications-form {\n    padding: 1rem 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 0.5rem;\n\n    .medication {\n        .main-area {\n            display: flex;\n            gap: 0.5rem;\n            align-items: center;\n        }\n\n        h3 {\n            color: $pastel-blue;\n            text-align: center;\n            min-width: 10rem;\n            width: 13rem;\n        }\n\n        .expanded-area {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n            $columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n\n            .generic-data {\n                display: flex;\n                gap: 1rem;\n                margin-top: 1rem;\n\n                .contraindications, .indications {\n                    position: relative;\n                    user-select: none;\n\n                    .hidden { display: none !important; }\n\n                    .dropdown {\n                        background: #eee;\n                        border-radius: 0.5rem;\n                        padding: 0.25rem 0.5rem;\n                        cursor: pointer;\n                        width: min-content;\n                        white-space: nowrap;\n\n                        box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                    }\n\n                    .checklist {\n                        position: absolute;\n                        background-color: #fff;\n                        border: 1px solid #999;\n                        border-radius: 0.5rem;\n                        max-height: 15rem;\n                        overflow-y: auto;\n                        z-index: 99;\n\n                        .contraindication, .indication {\n                            padding: 0.2rem;\n                            white-space: nowrap;\n                            \n                            label {\n                                display: flex;\n                                gap: 0.5rem;\n                                align-items: center;\n                                padding: 0 0.5rem;\n\n                                input[type=checkbox] {\n                                    margin-top: 0.5em;\n                                }\n                            }\n                        }\n                    }\n                }\n            }\n\n            .headings {\n                display: grid;\n                grid-template-columns: $columns;\n                gap: 1rem;\n                align-items: center;\n                justify-items: center;\n                padding: 0.25rem 0;\n                \n                p {\n                    font-weight: bold;\n                    text-align: center;\n                }\n            }\n            \n            .adult-data, .pediatric-data {\n                display: flex;\n                flex-direction: column;\n                background: #f5f5f5;\n                padding: 0.5rem;\n                gap: 0.5rem;\n                \n                .basic-info {\n                    display: grid;\n                    grid-template-columns: $columns;\n                    gap: 0.5rem;\n                    align-items: center;\n\n                    input[type=text],\n                    input[type=number] {\n                        width: 100%;\n                    }\n\n                    input[type=checkbox] {\n                        margin: 0 auto;\n                    }\n\n                    p {\n                        font-weight: bold;\n                        text-decoration: underline;\n                    }\n                }\n            }\n\n            .administration-routes {\n                display: flex;\n                gap: 1rem;\n                align-items: center;\n\n                p {\n                    font-weight: bold;\n                }\n    \n                label {\n                    display: flex;\n                    gap: 0.25rem;\n                    align-items: center;\n                }\n            }\n        }\n    }\n\n    .expand-bttn {\n        border: none;\n        display: flex;\n        align-items: center;\n\n        &:hover {\n            background-color: #ddd;\n        }\n\n        svg {\n            height: 1rem;\n            width: 1rem;\n        }\n    }\n\n    .expand-bttn.expanded {\n        background-color: #ddd;\n\n        &:hover {\n            background-color: #999;\n        }\n    }\n\n    .expanded-area.collapsed {\n        display: none;\n    }\n\n    .delete-bttn {\n        all: unset;\n        background-color: #ddd;\n        padding: 0 1rem;\n        max-width: min-content;\n        cursor: pointer;\n\n        &:hover {\n            background-color: aquamarine;\n        }\n    }\n\n    button {\n        margin: 0;\n        align-self: flex-start;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 7032:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.scenario-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n  font-size: x-large;\n}\n.scenario-editor button {\n  background-color: white;\n}\n.scenario-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-editor .details-editor table {\n  border: 0;\n}\n.scenario-editor .inline-editor {\n  padding-top: 20px;\n}\n.scenario-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-editor .add-entity {\n  padding: 20px;\n}\n.scenario-editor .add-entity table {\n  border: 0;\n}\n.scenario-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-editor .err-msg {\n  color: red;\n}\n.scenario-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-editor #tab-selector button {\n  all: unset;\n}\n.scenario-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}\n.scenario-form-wrapper {\n  border-top: 1px solid #222;\n  width: 100%;\n  height: 100% -106px;\n  overflow-y: scroll;\n}\n.scenario-form-wrapper .scenario-form {\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form.scenario-view-hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form .save-changes {\n  float: right;\n}\n.scenario-form-wrapper .scenario-form .info-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #basic-info h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info label {\n  display: flex;\n  flex-direction: column;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form #sample,\n.scenario-form-wrapper .scenario-form #opqrst {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #sample label,\n.scenario-form-wrapper .scenario-form #opqrst label {\n  display: flex;\n}\n.scenario-form-wrapper .scenario-form #sample label input,\n.scenario-form-wrapper .scenario-form #opqrst label input {\n  display: inline-block;\n  margin: 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody tr {\n  outline: 1px solid #333;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody td {\n  padding: 0.35rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody input[type=text] {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .value-hint {\n  font-size: 0.9rem;\n  color: #bbb;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .route-dropdown {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n  margin: auto;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n  text-align: left;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication {\n  white-space: nowrap;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication label {\n  display: block;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication input[type=checkbox] {\n  vertical-align: middle;\n  margin-right: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label {\n  border: 1px solid #ddd;\n  border-style: none none solid none;\n  padding: 0.5em;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label input {\n  max-width: 15em;\n  margin-left: auto;\n  margin-right: 3em;\n}\n.scenario-form-wrapper .scenario-form .vitals table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form .vitals table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form .vitals table tbody input {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper {\n  border: 1px solid #353535;\n  border-radius: 0.5rem;\n  padding: 0.5rem;\n  max-width: calc(100vw - 1rem);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 1rem;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label {\n  display: flex;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label input {\n  display: inline-block;\n  margin: 0 0 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps {\n  display: flex;\n  flex-direction: column;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .header-item h2 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item {\n  border: 1px solid #333;\n  border-style: none none solid none;\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item:nth-child(odd) {\n  background-color: #eee;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label {\n  display: flex;\n  align-items: center;\n  white-space: nowrap;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label input {\n  display: inline-block;\n  max-height: min-content;\n  align-self: flex-end;\n  margin-left: 1em;\n  width: 100%;\n}\n.scenario-form-wrapper #submit-next {\n  background-color: rgb(90, 90, 195);\n  padding: 0.75em 1.25em;\n  color: #ddd;\n  margin-left: auto;\n  cursor: pointer;\n}\n.hidden {\n  display: none;\n}\n.error {\n  color: red;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/scenario-editor-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AAWI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AARR;AAWI;EACI,iBAAA;EACA,iBAAA;EACA,kBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAkBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAhBR;AAmBI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAnBR;AAsBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AArBR;AAwBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAtBR;AA0BQ;EACI,SAAA;AAxBZ;AA4BI;EACI,iBAAA;AA1BR;AA4BQ;EACI,gBAAA;AA1BZ;AA6BQ;EACI,2BAAA;AA3BZ;AA8BQ;EACI,8BAAA;AA5BZ;AAgCI;EACI,aAAA;AA9BR;AAgCQ;EACI,SAAA;AA9BZ;AAiCQ;EACI,uBAAA;AA/BZ;AAkCQ;EACI,gBAAA;AAhCZ;AAmCQ;EACI,mBAAA;AAjCZ;AAqCI;EACI,UAAA;AAnCR;AAsCI;EACI,aAAA;EACA,mBAAA;EACA,yBC9KO;AD0If;AAsCQ;EACI,UAAA;AApCZ;AAuCQ;EACI,sBCpLE;AD+Id;AAwCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AAtCZ;AAwCY;EACI,sBC7LF;ADuJd;AA8CA;EACI,0BAAA;EACA,WAAA;EACA,mBAAA;EACA,kBAAA;AA3CJ;AA6CI;EACI,eAAA;AA3CR;AA6CQ;EACY,wBAAA;AA3CpB;AA8CQ;EACI,YAAA;AA5CZ;AAgDY;EACI,uBCvNF;ADyKd;AAkDQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAhDZ;AAkDY;EACI,uBCjOF;ADiLd;AAmDY;EACI,aAAA;EACA,sBAAA;EACA,gBAAA;AAjDhB;AAqDQ;;EAEI,aAAA;EACA,sBAAA;EACA,WAAA;AAnDZ;AAqDY;;EACI,aAAA;AAlDhB;AAoDgB;;EACI,qBAAA;EACA,cAAA;EACA,WAAA;AAjDpB;AA+DgB;EACI,WAAA;AA7DpB;AA8DoB;EACI,iBAAA;AA5DxB;AA+DwB;EACI,kBAAA;AA7D5B;AAiEwB;EACI,uBAAA;AA/D5B;AAkEwB;EACI,gBAAA;AAhE5B;AAmEwB;EACI,WAAA;AAjE5B;AAoEwB;EACI,iBAAA;EACA,WAAA;AAlE5B;AAqEwB;EACI,aAAA;EACA,mBAAA;EACA,uBAAA;AAnE5B;AAsEwB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;EACA,YAAA;AApE5B;AAsE4B;EAAU,wBAAA;AAnEtC;AAqE4B;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AApEhC;AAuE4B;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;AArEhC;AAuEgC;EACI,mBAAA;EACA,WAAA;AArEpC;AAuEoC;EACI,cAAA;EACA,WAAA;AArExC;AAwEoC;EACI,sBAAA;EACA,oBAAA;AAtExC;AA8EgB;EACI,sBAAA;EACA,kCAAA;EACA,cAAA;AA5EpB;AA8EoB;EACI,eAAA;EACA,iBAAA;EACA,iBAAA;AA5ExB;AAsFY;EACI,WAAA;AApFhB;AAqFiB;EACO,iBAAA;AAnFxB;AAsFoB;EACI,kBAAA;AApFxB;AAwFoB;EACI,WAAA;AAtFxB;AA0FY;EACI,yBAAA;EACA,qBAAA;EACA,eAAA;EACA,6BAAA;AAxFhB;AA0FgB;EACI,uBC/XN;ADuSd;AA2FgB;EACI,aAAA;EACA,8BAAA;EACA,SAAA;AAzFpB;AA2FoB;EACI,aAAA;EACA,gBAAA;AAzFxB;AA2FwB;EACI,qBAAA;EACA,kBAAA;EACA,WAAA;AAzF5B;AAgGQ;EACI,aAAA;EACA,sBAAA;AA9FZ;AAgGY;EACI,uBC1ZF;AD4Td;AAkGgB;EACI,uBC/ZN;AD+Td;AAoGY;EACI,sBAAA;EACA,kCAAA;EACA,eAAA;AAlGhB;AAoGgB;EACI,sBAAA;AAlGpB;AAqGgB;EACI,aAAA;EACA,mBAAA;EACA,mBAAA;AAnGpB;AAqGoB;EACI,qBAAA;EACA,uBAAA;EACA,oBAAA;EACA,gBAAA;EACA,WAAA;AAnGxB;AAyGO;EACK,kCC7bE;ED8bF,sBAAA;EACA,WAAA;EACA,iBAAA;EACA,eAAA;AAvGZ;AA4GA;EACI,aAAA;AAzGJ;AA4GA;EACI,UAAA;AAzGJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.scenario-editor {\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n        font-size: x-large;\n    }\n\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n\n    .inline-editor {\n        padding-top: 20px;\n        // padding-bottom: 20px;\n        table {\n            border-bottom: 0;\n        }\n\n        thead {\n            background-color: lightgray;\n        }\n\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n\n    .add-entity {\n        padding: 20px;\n\n        table {\n            border: 0;\n        }\n\n        thead {\n            background-color: white;\n        }\n\n        th {\n            border-bottom: 0;\n        }\n\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n\n}\n\n.scenario-form-wrapper {\n    border-top: 1px solid #222;\n    width: 100%;\n    height: 100% -58px - 48px; //subtract header and tab heights\n    overflow-y: scroll;\n\n    .scenario-form {\n        padding: 0.5rem;\n\n        &.scenario-view-hidden {\n                    display: none !important;\n            }\n\n        .save-changes {\n            float: right;\n        }\n\n        .info-wrapper {\n            h1 {\n                color: $pastel-blue;\n            }\n        }\n\n        #basic-info {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            label {\n                display: flex;\n                flex-direction: column;\n                font-weight: 500;\n            }\n        }\n\n        #sample,\n        #opqrst {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            label {\n                display: flex;\n\n                input {\n                    display: inline-block;\n                    margin: 0 1rem;\n                    width: 100%;\n                }\n            }\n        }\n\n        #medications {\n            // display: flex;\n            // flex-direction: column;\n            // gap: 0.5rem;\n\n            .meds-wrapper {\n                // display: grid;\n                // grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));\n                // gap: 0.5rem;\n                table {\n                    width: 100%;\n                    th {\n                        font-weight: bold;\n                    }\n                    thead {\n                        th {\n                            text-align: center;\n                        }\n                    }\n                    tbody {\n                        tr {\n                            outline: 1px solid #333;\n                        }\n\n                        td {\n                            padding: 0.35rem;\n                        }\n\n                        input[type=text] {\n                            width: 100%;\n                        }\n\n                        .value-hint {\n                            font-size: 0.9rem;\n                            color: #bbb;\n                        }\n\n                        .route-dropdown {\n                            display: flex;\n                            align-items: center;\n                            justify-content: center;\n                        }\n\n                        .contraindications {\n                            position: relative;\n                            user-select: none;\n                            margin: auto;\n\n                            .hidden { display: none !important; }\n\n                            .dropdown {\n                                background: #eee;\n                                border-radius: 0.5rem;\n                                padding: 0.25rem 0.5rem;\n                                cursor: pointer;\n                                width: min-content;\n                                white-space: nowrap;\n\n                                box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                            }\n\n                            .checklist {\n                                position: absolute;\n                                background-color: #fff;\n                                border: 1px solid #999;\n                                border-radius: 0.5rem;\n                                max-height: 15rem;\n                                overflow-y: auto;\n                                z-index: 99;\n                                text-align: left;\n\n                                .contraindication {\n                                    white-space: nowrap;\n                                    width: 100%;\n\n                                    label {\n                                        display: block;\n                                        width: 100%;\n                                    }\n\n                                    input[type=checkbox] {\n                                        vertical-align: middle;\n                                        margin-right: 0.5rem;\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n\n                label {\n                    border: 1px solid #ddd;\n                    border-style: none none solid none;\n                    padding: 0.5em;\n\n                    input {\n                        max-width: 15em;\n                        margin-left: auto;\n                        margin-right: 3em;\n                    }\n                }\n            }\n        }\n\n        .vitals {\n            // display: grid;\n            // grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));\n            // gap: 1rem;\n            table {\n                width: 100%;\n                 th {\n                        font-weight: bold;\n                    }\n                thead {\n                    th {\n                        text-align: center;\n                    }\n                }\n                tbody {\n                    input {\n                        width: 100%;\n                    }\n                }\n            }\n            .vital-wrapper {\n                border: 1px solid $header-color;\n                border-radius: 0.5rem;\n                padding: 0.5rem;\n                max-width: calc(100vw - 1rem);\n\n                h1 {\n                    color: $pastel-blue;\n                }\n\n                .vitals-box {\n                    display: grid;\n                    grid-template-columns: 1fr 1fr;\n                    gap: 1rem;\n\n                    label {\n                        display: flex;\n                        font-weight: 500;\n\n                        input {\n                            display: inline-block;\n                            margin: 0 0 0 1rem;\n                            width: 100%;\n                        }\n                    }\n                }\n            }\n        }\n\n        #scenario-steps {\n            display: flex;\n            flex-direction: column;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            .header-item {\n                h2 {\n                    color: $pastel-blue;\n                }\n            }\n\n            .step-item {\n                border: 1px solid #333;\n                border-style: none none solid none;\n                padding: 0.5rem;\n\n                &:nth-child(odd) {\n                    background-color: #eee;\n                }\n\n                label {\n                    display: flex;\n                    align-items: center;\n                    white-space: nowrap;\n\n                    input {\n                        display: inline-block;\n                        max-height: min-content;\n                        align-self: flex-end;\n                        margin-left: 1em;\n                        width: 100%;\n                    }\n                }\n            }\n        }\n    }\n       #submit-next {\n            background-color: $pastel-blue;\n            padding: 0.75em 1.25em;\n            color: #ddd;\n            margin-left: auto;\n            cursor: pointer;\n        }\n}\n\n\n.hidden {\n    display: none;\n}\n\n.error {\n    color: red;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.scenario-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n  font-size: x-large;\n}\n.scenario-editor button {\n  background-color: white;\n}\n.scenario-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-editor .details-editor table {\n  border: 0;\n}\n.scenario-editor .inline-editor {\n  padding-top: 20px;\n}\n.scenario-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-editor .add-entity {\n  padding: 20px;\n}\n.scenario-editor .add-entity table {\n  border: 0;\n}\n.scenario-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-editor .err-msg {\n  color: red;\n}\n.scenario-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-editor #tab-selector button {\n  all: unset;\n}\n.scenario-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}\n.scenario-form-wrapper {\n  border-top: 1px solid #222;\n  width: 100%;\n  height: 100% -106px;\n  overflow-y: scroll;\n}\n.scenario-form-wrapper .scenario-form {\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form.scenario-view-hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form .save-changes {\n  float: right;\n}\n.scenario-form-wrapper .scenario-form .info-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #basic-info h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info label {\n  display: flex;\n  flex-direction: column;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form #sample,\n.scenario-form-wrapper .scenario-form #opqrst {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #sample label,\n.scenario-form-wrapper .scenario-form #opqrst label {\n  display: flex;\n}\n.scenario-form-wrapper .scenario-form #sample label input,\n.scenario-form-wrapper .scenario-form #opqrst label input {\n  display: inline-block;\n  margin: 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody tr {\n  outline: 1px solid #333;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody td {\n  padding: 0.35rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody input[type=text] {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .value-hint {\n  font-size: 0.9rem;\n  color: #bbb;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .route-dropdown {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n  margin: auto;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n  text-align: left;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication {\n  white-space: nowrap;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication label {\n  display: block;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication input[type=checkbox] {\n  vertical-align: middle;\n  margin-right: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label {\n  border: 1px solid #ddd;\n  border-style: none none solid none;\n  padding: 0.5em;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label input {\n  max-width: 15em;\n  margin-left: auto;\n  margin-right: 3em;\n}\n.scenario-form-wrapper .scenario-form .vitals table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form .vitals table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form .vitals table tbody input {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper {\n  border: 1px solid #353535;\n  border-radius: 0.5rem;\n  padding: 0.5rem;\n  max-width: calc(100vw - 1rem);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 1rem;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label {\n  display: flex;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label input {\n  display: inline-block;\n  margin: 0 0 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps {\n  display: flex;\n  flex-direction: column;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .header-item h2 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item {\n  border: 1px solid #333;\n  border-style: none none solid none;\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item:nth-child(odd) {\n  background-color: #eee;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label {\n  display: flex;\n  align-items: center;\n  white-space: nowrap;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label input {\n  display: inline-block;\n  max-height: min-content;\n  align-self: flex-end;\n  margin-left: 1em;\n  width: 100%;\n}\n.scenario-form-wrapper #submit-next {\n  background-color: rgb(90, 90, 195);\n  padding: 0.75em 1.25em;\n  color: #ddd;\n  margin-left: auto;\n  cursor: pointer;\n}\n.hidden {\n  display: none;\n}\n.error {\n  color: red;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/scenario-editor-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AAWI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AARR;AAWI;EACI,iBAAA;EACA,iBAAA;EACA,kBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAkBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAhBR;AAmBI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAnBR;AAsBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AArBR;AAwBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAtBR;AA0BQ;EACI,SAAA;AAxBZ;AA4BI;EACI,iBAAA;AA1BR;AA4BQ;EACI,gBAAA;AA1BZ;AA6BQ;EACI,2BAAA;AA3BZ;AA8BQ;EACI,8BAAA;AA5BZ;AAgCI;EACI,aAAA;AA9BR;AAgCQ;EACI,SAAA;AA9BZ;AAiCQ;EACI,uBAAA;AA/BZ;AAkCQ;EACI,gBAAA;AAhCZ;AAmCQ;EACI,mBAAA;AAjCZ;AAqCI;EACI,UAAA;AAnCR;AAsCI;EACI,aAAA;EACA,mBAAA;EACA,yBC9KO;AD0If;AAsCQ;EACI,UAAA;AApCZ;AAuCQ;EACI,sBCpLE;AD+Id;AAwCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AAtCZ;AAwCY;EACI,sBC7LF;ADuJd;AA8CA;EACI,0BAAA;EACA,WAAA;EACA,mBAAA;EACA,kBAAA;AA3CJ;AA6CI;EACI,eAAA;AA3CR;AA6CQ;EACY,wBAAA;AA3CpB;AA8CQ;EACI,YAAA;AA5CZ;AAgDY;EACI,uBCvNF;ADyKd;AAkDQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAhDZ;AAkDY;EACI,uBCjOF;ADiLd;AAmDY;EACI,aAAA;EACA,sBAAA;EACA,gBAAA;AAjDhB;AAqDQ;;EAEI,aAAA;EACA,sBAAA;EACA,WAAA;AAnDZ;AAqDY;;EACI,aAAA;AAlDhB;AAoDgB;;EACI,qBAAA;EACA,cAAA;EACA,WAAA;AAjDpB;AA+DgB;EACI,WAAA;AA7DpB;AA8DoB;EACI,iBAAA;AA5DxB;AA+DwB;EACI,kBAAA;AA7D5B;AAiEwB;EACI,uBAAA;AA/D5B;AAkEwB;EACI,gBAAA;AAhE5B;AAmEwB;EACI,WAAA;AAjE5B;AAoEwB;EACI,iBAAA;EACA,WAAA;AAlE5B;AAqEwB;EACI,aAAA;EACA,mBAAA;EACA,uBAAA;AAnE5B;AAsEwB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;EACA,YAAA;AApE5B;AAsE4B;EAAU,wBAAA;AAnEtC;AAqE4B;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AApEhC;AAuE4B;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;AArEhC;AAuEgC;EACI,mBAAA;EACA,WAAA;AArEpC;AAuEoC;EACI,cAAA;EACA,WAAA;AArExC;AAwEoC;EACI,sBAAA;EACA,oBAAA;AAtExC;AA8EgB;EACI,sBAAA;EACA,kCAAA;EACA,cAAA;AA5EpB;AA8EoB;EACI,eAAA;EACA,iBAAA;EACA,iBAAA;AA5ExB;AAsFY;EACI,WAAA;AApFhB;AAqFiB;EACO,iBAAA;AAnFxB;AAsFoB;EACI,kBAAA;AApFxB;AAwFoB;EACI,WAAA;AAtFxB;AA0FY;EACI,yBAAA;EACA,qBAAA;EACA,eAAA;EACA,6BAAA;AAxFhB;AA0FgB;EACI,uBC/XN;ADuSd;AA2FgB;EACI,aAAA;EACA,8BAAA;EACA,SAAA;AAzFpB;AA2FoB;EACI,aAAA;EACA,gBAAA;AAzFxB;AA2FwB;EACI,qBAAA;EACA,kBAAA;EACA,WAAA;AAzF5B;AAgGQ;EACI,aAAA;EACA,sBAAA;AA9FZ;AAgGY;EACI,uBC1ZF;AD4Td;AAkGgB;EACI,uBC/ZN;AD+Td;AAoGY;EACI,sBAAA;EACA,kCAAA;EACA,eAAA;AAlGhB;AAoGgB;EACI,sBAAA;AAlGpB;AAqGgB;EACI,aAAA;EACA,mBAAA;EACA,mBAAA;AAnGpB;AAqGoB;EACI,qBAAA;EACA,uBAAA;EACA,oBAAA;EACA,gBAAA;EACA,WAAA;AAnGxB;AAyGO;EACK,kCC7bE;ED8bF,sBAAA;EACA,WAAA;EACA,iBAAA;EACA,eAAA;AAvGZ;AA4GA;EACI,aAAA;AAzGJ;AA4GA;EACI,UAAA;AAzGJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.scenario-editor {\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n        font-size: x-large;\n    }\n\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n\n    .inline-editor {\n        padding-top: 20px;\n        // padding-bottom: 20px;\n        table {\n            border-bottom: 0;\n        }\n\n        thead {\n            background-color: lightgray;\n        }\n\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n\n    .add-entity {\n        padding: 20px;\n\n        table {\n            border: 0;\n        }\n\n        thead {\n            background-color: white;\n        }\n\n        th {\n            border-bottom: 0;\n        }\n\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n\n}\n\n.scenario-form-wrapper {\n    border-top: 1px solid #222;\n    width: 100%;\n    height: 100% -58px - 48px; //subtract header and tab heights\n    overflow-y: scroll;\n\n    .scenario-form {\n        padding: 0.5rem;\n\n        &.scenario-view-hidden {\n                    display: none !important;\n            }\n\n        .save-changes {\n            float: right;\n        }\n\n        .info-wrapper {\n            h1 {\n                color: $pastel-blue;\n            }\n        }\n\n        #basic-info {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            label {\n                display: flex;\n                flex-direction: column;\n                font-weight: 500;\n            }\n        }\n\n        #sample,\n        #opqrst {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            label {\n                display: flex;\n\n                input {\n                    display: inline-block;\n                    margin: 0 1rem;\n                    width: 100%;\n                }\n            }\n        }\n\n        #medications {\n            // display: flex;\n            // flex-direction: column;\n            // gap: 0.5rem;\n\n            .meds-wrapper {\n                // display: grid;\n                // grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));\n                // gap: 0.5rem;\n                table {\n                    width: 100%;\n                    th {\n                        font-weight: bold;\n                    }\n                    thead {\n                        th {\n                            text-align: center;\n                        }\n                    }\n                    tbody {\n                        tr {\n                            outline: 1px solid #333;\n                        }\n\n                        td {\n                            padding: 0.35rem;\n                        }\n\n                        input[type=text] {\n                            width: 100%;\n                        }\n\n                        .value-hint {\n                            font-size: 0.9rem;\n                            color: #bbb;\n                        }\n\n                        .route-dropdown {\n                            display: flex;\n                            align-items: center;\n                            justify-content: center;\n                        }\n\n                        .contraindications {\n                            position: relative;\n                            user-select: none;\n                            margin: auto;\n\n                            .hidden { display: none !important; }\n\n                            .dropdown {\n                                background: #eee;\n                                border-radius: 0.5rem;\n                                padding: 0.25rem 0.5rem;\n                                cursor: pointer;\n                                width: min-content;\n                                white-space: nowrap;\n\n                                box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                            }\n\n                            .checklist {\n                                position: absolute;\n                                background-color: #fff;\n                                border: 1px solid #999;\n                                border-radius: 0.5rem;\n                                max-height: 15rem;\n                                overflow-y: auto;\n                                z-index: 99;\n                                text-align: left;\n\n                                .contraindication {\n                                    white-space: nowrap;\n                                    width: 100%;\n\n                                    label {\n                                        display: block;\n                                        width: 100%;\n                                    }\n\n                                    input[type=checkbox] {\n                                        vertical-align: middle;\n                                        margin-right: 0.5rem;\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n\n                label {\n                    border: 1px solid #ddd;\n                    border-style: none none solid none;\n                    padding: 0.5em;\n\n                    input {\n                        max-width: 15em;\n                        margin-left: auto;\n                        margin-right: 3em;\n                    }\n                }\n            }\n        }\n\n        .vitals {\n            // display: grid;\n            // grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));\n            // gap: 1rem;\n            table {\n                width: 100%;\n                 th {\n                        font-weight: bold;\n                    }\n                thead {\n                    th {\n                        text-align: center;\n                    }\n                }\n                tbody {\n                    input {\n                        width: 100%;\n                    }\n                }\n            }\n            .vital-wrapper {\n                border: 1px solid $header-color;\n                border-radius: 0.5rem;\n                padding: 0.5rem;\n                max-width: calc(100vw - 1rem);\n\n                h1 {\n                    color: $pastel-blue;\n                }\n\n                .vitals-box {\n                    display: grid;\n                    grid-template-columns: 1fr 1fr;\n                    gap: 1rem;\n\n                    label {\n                        display: flex;\n                        font-weight: 500;\n\n                        input {\n                            display: inline-block;\n                            margin: 0 0 0 1rem;\n                            width: 100%;\n                        }\n                    }\n                }\n            }\n        }\n\n        #scenario-steps {\n            display: flex;\n            flex-direction: column;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            .header-item {\n                h2 {\n                    color: $pastel-blue;\n                }\n            }\n\n            .step-item {\n                border: 1px solid #333;\n                border-style: none none solid none;\n                padding: 0.5rem;\n\n                &:nth-child(odd) {\n                    background-color: #eee;\n                }\n\n                label {\n                    display: flex;\n                    align-items: center;\n                    white-space: nowrap;\n\n                    input {\n                        display: inline-block;\n                        max-height: min-content;\n                        align-self: flex-end;\n                        margin-left: 1em;\n                        width: 100%;\n                    }\n                }\n            }\n        }\n    }\n       #submit-next {\n            background-color: $pastel-blue;\n            padding: 0.75em 1.25em;\n            color: #ddd;\n            margin-left: auto;\n            cursor: pointer;\n        }\n}\n\n\n.hidden {\n    display: none;\n}\n\n.error {\n    color: red;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 8881:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".scenario-type-editor b {\n  font-weight: bold;\n}\n.scenario-type-editor a {\n  color: purple;\n}\n.scenario-type-editor table {\n  width: 100%;\n  border: 1px solid black;\n  border-spacing: 0;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.scenario-type-editor colgroup {\n  width: 100%;\n}\n.scenario-type-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.scenario-type-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-type-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n}\n.scenario-type-editor button {\n  background-color: white;\n}\n.scenario-type-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-type-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-type-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-type-editor .details-editor table {\n  border: 0;\n}\n.scenario-type-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-type-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-type-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-type-editor .add-entity table {\n  border: 0;\n}\n.scenario-type-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-type-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-type-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-type-editor .err-msg {\n  color: red;\n}\n.scenario-type-editor .save-button-wrapper {\n  display: flex;\n  flex-flow: row-reverse;\n}\n.scenario-type-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-type-editor #tab-selector button {\n  all: unset;\n}\n.scenario-type-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-type-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-type-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/scenario-type.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAII;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;EACA,uBAAA;EACA,iBAAA;EACA,eAAA;EACA,kBAAA;AALR;AAOI;EACI,WAAA;AALR;AAOI;EACI,gBAAA;EACA,iBAAA;AALR;AAQI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AANR;AAQI;EACI,iBAAA;EACA,iBAAA;AANR;AAQI;EACI,uBAAA;AANR;AAcI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAZR;AAeI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAiBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAkBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAjBR;AAoBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAlBR;AAsBQ;EACI,SAAA;AApBZ;AAwBQ;EACI,gBAAA;AAtBZ;AAwBQ;EACI,2BAAA;AAtBZ;AAwBQ;EACI,8BAAA;AAtBZ;AA0BQ;EACI,SAAA;AAxBZ;AA0BQ;EACI,uBAAA;AAxBZ;AA0BQ;EACI,gBAAA;AAxBZ;AA0BQ;EACI,mBAAA;AAxBZ;AA4BI;EACI,UAAA;AA1BR;AA6BI;EACI,aAAA;EACA,sBAAA;AA3BR;AA8BI;EACI,aAAA;EACA,mBAAA;EACA,yBCzIO;AD6Gf;AA8BQ;EACI,UAAA;AA5BZ;AA+BQ;EACI,sBC/IE;ADkHd;AAgCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AA9BZ;AAgCY;EACI,sBCxJF;AD0Hd","sourcesContent":["@import 'variables';\n\n.scenario-type-editor {\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    table {\n        width: 100%;\n        border: 1px solid black;\n        border-spacing: 0;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    colgroup {\n        width: 100%;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n    }\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n    .inline-editor {\n        table {\n            border-bottom: 0;\n        }\n        thead {\n            background-color: lightgray;\n        }\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n    .add-entity {\n        table {\n            border: 0;\n        }\n        thead {\n            background-color: white;\n        }\n        th {\n            border-bottom: 0;\n        }\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    .save-button-wrapper {\n        display: flex;\n        flex-flow: row-reverse;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".scenario-type-editor b {\n  font-weight: bold;\n}\n.scenario-type-editor a {\n  color: purple;\n}\n.scenario-type-editor table {\n  width: 100%;\n  border: 1px solid black;\n  border-spacing: 0;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.scenario-type-editor colgroup {\n  width: 100%;\n}\n.scenario-type-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.scenario-type-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-type-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n}\n.scenario-type-editor button {\n  background-color: white;\n}\n.scenario-type-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-type-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-type-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-type-editor .details-editor table {\n  border: 0;\n}\n.scenario-type-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-type-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-type-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-type-editor .add-entity table {\n  border: 0;\n}\n.scenario-type-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-type-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-type-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-type-editor .err-msg {\n  color: red;\n}\n.scenario-type-editor .save-button-wrapper {\n  display: flex;\n  flex-flow: row-reverse;\n}\n.scenario-type-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-type-editor #tab-selector button {\n  all: unset;\n}\n.scenario-type-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-type-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-type-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/scenario-type.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAII;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;EACA,uBAAA;EACA,iBAAA;EACA,eAAA;EACA,kBAAA;AALR;AAOI;EACI,WAAA;AALR;AAOI;EACI,gBAAA;EACA,iBAAA;AALR;AAQI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AANR;AAQI;EACI,iBAAA;EACA,iBAAA;AANR;AAQI;EACI,uBAAA;AANR;AAcI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAZR;AAeI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAiBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAkBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAjBR;AAoBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAlBR;AAsBQ;EACI,SAAA;AApBZ;AAwBQ;EACI,gBAAA;AAtBZ;AAwBQ;EACI,2BAAA;AAtBZ;AAwBQ;EACI,8BAAA;AAtBZ;AA0BQ;EACI,SAAA;AAxBZ;AA0BQ;EACI,uBAAA;AAxBZ;AA0BQ;EACI,gBAAA;AAxBZ;AA0BQ;EACI,mBAAA;AAxBZ;AA4BI;EACI,UAAA;AA1BR;AA6BI;EACI,aAAA;EACA,sBAAA;AA3BR;AA8BI;EACI,aAAA;EACA,mBAAA;EACA,yBCzIO;AD6Gf;AA8BQ;EACI,UAAA;AA5BZ;AA+BQ;EACI,sBC/IE;ADkHd;AAgCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AA9BZ;AAgCY;EACI,sBCxJF;AD0Hd","sourcesContent":["@import 'variables';\n\n.scenario-type-editor {\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    table {\n        width: 100%;\n        border: 1px solid black;\n        border-spacing: 0;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    colgroup {\n        width: 100%;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n    }\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n    .inline-editor {\n        table {\n            border-bottom: 0;\n        }\n        thead {\n            background-color: lightgray;\n        }\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n    .add-entity {\n        table {\n            border: 0;\n        }\n        thead {\n            background-color: white;\n        }\n        th {\n            border-bottom: 0;\n        }\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    .save-button-wrapper {\n        display: flex;\n        flex-flow: row-reverse;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
 /***/ 2165:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".tab-notebook {\n  background-color: #222;\n  width: 100%;\n  height: 100%;\n}\n.tab-notebook .tab-list {\n  width: 100%;\n  height: 50px;\n}\n.tab-notebook .tab-list .tab-button {\n  position: relative;\n  background-color: darkgray;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button .change-indicator {\n  position: absolute;\n  top: -15px;\n  right: 5px;\n  font-size: xx-large;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button.active {\n  background-color: royalblue;\n}\n.tab-notebook .tabs-content {\n  display: block;\n  width: 100%;\n  height: calc(100% - 50px);\n  background-color: white;\n}\n.tab-notebook .tabs-content .tab-pane {\n  width: 100%;\n  height: 100%;\n  padding: 10px;\n}", '', {"version":3,"sources":["/home/pitt/projects/monorepo/apps/data-entry/src/styles/tab-styles.scss","/home/pitt/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,sBCFU;EDGV,WAAA;EACA,YAAA;AADJ;AAGI;EACI,WAAA;EACA,YAAA;AADR;AAGQ;EACI,kBAAA;EACA,0BAAA;EACA,YAAA;AADZ;AAGY;EACI,kBAAA;EACA,UAAA;EACA,UAAA;EACA,mBAAA;EACA,YAAA;AADhB;AAGY;EACI,2BAAA;AADhB;AAMI;EACI,cAAA;EACA,WAAA;EACA,yBAAA;EACA,uBAAA;AAJR;AAMQ;EACI,WAAA;EACA,YAAA;EACA,aAAA;AAJZ","sourcesContent":["@import 'variables';\n\n.tab-notebook {\n    background-color: $header-dark;\n    width: 100%;\n    height: 100%;\n\n    .tab-list {\n        width: 100%;\n        height: 50px;\n\n        .tab-button {\n            position: relative;\n            background-color: darkgray;\n            color: white;\n\n            .change-indicator {\n                position: absolute;\n                top: -15px;\n                right: 5px;\n                font-size: xx-large;\n                color: white;\n            }\n            &.active {\n                background-color: royalblue;\n            }\n        }\n\n    }\n    .tabs-content {\n        display: block;\n        width: 100%;\n        height: calc(100% - 50px);\n        background-color: white;\n\n        .tab-pane {\n            width: 100%;\n            height: 100%;\n            padding: 10px;\n        }\n\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".tab-notebook {\n  background-color: #222;\n  width: 100%;\n  height: 100%;\n}\n.tab-notebook .tab-list {\n  width: 100%;\n  height: 50px;\n}\n.tab-notebook .tab-list .tab-button {\n  position: relative;\n  background-color: darkgray;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button .change-indicator {\n  position: absolute;\n  top: -15px;\n  right: 5px;\n  font-size: xx-large;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button.active {\n  background-color: royalblue;\n}\n.tab-notebook .tabs-content {\n  display: block;\n  width: 100%;\n  height: calc(100% - 50px);\n  background-color: white;\n}\n.tab-notebook .tabs-content .tab-pane {\n  width: 100%;\n  height: 100%;\n  padding: 10px;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/tab-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,sBCFU;EDGV,WAAA;EACA,YAAA;AADJ;AAGI;EACI,WAAA;EACA,YAAA;AADR;AAGQ;EACI,kBAAA;EACA,0BAAA;EACA,YAAA;AADZ;AAGY;EACI,kBAAA;EACA,UAAA;EACA,UAAA;EACA,mBAAA;EACA,YAAA;AADhB;AAGY;EACI,2BAAA;AADhB;AAMI;EACI,cAAA;EACA,WAAA;EACA,yBAAA;EACA,uBAAA;AAJR;AAMQ;EACI,WAAA;EACA,YAAA;EACA,aAAA;AAJZ","sourcesContent":["@import 'variables';\n\n.tab-notebook {\n    background-color: $header-dark;\n    width: 100%;\n    height: 100%;\n\n    .tab-list {\n        width: 100%;\n        height: 50px;\n\n        .tab-button {\n            position: relative;\n            background-color: darkgray;\n            color: white;\n\n            .change-indicator {\n                position: absolute;\n                top: -15px;\n                right: 5px;\n                font-size: xx-large;\n                color: white;\n            }\n            &.active {\n                background-color: royalblue;\n            }\n        }\n\n    }\n    .tabs-content {\n        display: block;\n        width: 100%;\n        height: calc(100% - 50px);\n        background-color: white;\n\n        .tab-pane {\n            width: 100%;\n            height: 100%;\n            padding: 10px;\n        }\n\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
@@ -18862,6 +19141,8 @@ const NESTED_CHECKLIST = "nested-checklist";
 const NONE = "none";
 const ONE = "one";
 const OOM = "one-or-more";
+const OOM_AND = "one-or-more-logical-and";
+const OOM_OR = "one-or-more-logical-or";
 const OPTION = "option";
 const PHASE = "phase";
 const PROMPT = "prompt";
@@ -18894,12 +19175,16 @@ const MDB_TYPES = Object.freeze({
 const SELECTION_TYPES = Object.freeze({
   ONE: ONE,
   OOM: OOM,
+  OOM_AND: OOM_AND,
+  OOM_OR: OOM_OR,
   NONE: NONE
 });
 const SELECTION_TYPE_LABELS = Object.freeze({
-  ONE: "One",
-  OOM: "One or more",
-  NONE: "None"
+  "one": "One",
+  "one-or-more": "One or more",
+  "one-or-more-logical-and": "One or more (logical AND)",
+  "one-or-more-logical-or": "One or more (logical OR)",
+  "none": "None"
 });
 const PREFIXES = Object.freeze({
   PHASE: "",
@@ -18920,13 +19205,15 @@ const SYSTEMS = Object.freeze({
   AW: "airway",
   BR: "breathing",
   BL: "bleeding",
-  SH: "shock"
+  SH: "shock",
+  OTH: "other"
 });
 const SYSTEM_LABELS = Object.freeze({
   AW: "Airway",
   BR: "Breathing",
   BL: "Bleeding",
-  SH: "Shock"
+  SH: "Shock",
+  OTH: "Other"
 });
 const CHECKLIST_STEP_TYPES = [ASSESS, AWO, DECISION, REQUIRED];
 const OPTION_TYPES = [ASSESS_OPTION, DECISION_OPTION];
@@ -18938,7 +19225,8 @@ const PROTOCOL_RELATIONSHIPS = Object.freeze({
   REQ: "required",
   CONTRA: "contraindicated",
   UNN: "unnecessary",
-  IR: "irrelevant"
+  IR: "irrelevant",
+  ALT: "alternative"
 });
 
 /***/ }),
@@ -18949,13 +19237,32 @@ const PROTOCOL_RELATIONSHIPS = Object.freeze({
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "ANALYSIS_TYPES": () => (/* reexport safe */ _constants_js__WEBPACK_IMPORTED_MODULE_2__.ANALYSIS_TYPES),
+/* harmony export */   "CHECKLIST_STEP_TYPES": () => (/* reexport safe */ _constants_js__WEBPACK_IMPORTED_MODULE_2__.CHECKLIST_STEP_TYPES),
+/* harmony export */   "MDB_TYPES": () => (/* reexport safe */ _constants_js__WEBPACK_IMPORTED_MODULE_2__.MDB_TYPES),
+/* harmony export */   "OPTION_TYPES": () => (/* reexport safe */ _constants_js__WEBPACK_IMPORTED_MODULE_2__.OPTION_TYPES),
+/* harmony export */   "PublishedScenario": () => (/* reexport safe */ _types_js__WEBPACK_IMPORTED_MODULE_3__.PublishedScenario),
+/* harmony export */   "SELECTION_TYPES": () => (/* reexport safe */ _constants_js__WEBPACK_IMPORTED_MODULE_2__.SELECTION_TYPES),
+/* harmony export */   "ScenarioType": () => (/* reexport safe */ _types_js__WEBPACK_IMPORTED_MODULE_3__.ScenarioType),
+/* harmony export */   "createCond1Comments": () => (/* binding */ createCond1Comments),
+/* harmony export */   "createCond2Debriefing": () => (/* binding */ createCond2Debriefing),
 /* harmony export */   "createInterventionVariant": () => (/* binding */ createInterventionVariant),
+/* harmony export */   "deleteAnaDocument": () => (/* binding */ deleteAnaDocument),
 /* harmony export */   "deleteAndArchiveDocument": () => (/* binding */ deleteAndArchiveDocument),
 /* harmony export */   "deleteCommentDocument": () => (/* binding */ deleteCommentDocument),
+/* harmony export */   "deleteCond1CommentDocument": () => (/* binding */ deleteCond1CommentDocument),
 /* harmony export */   "deleteDocument": () => (/* binding */ deleteDocument),
 /* harmony export */   "deleteDocumentNoArchive": () => (/* binding */ deleteDocumentNoArchive),
 /* harmony export */   "deleteObsAndAnaDocuments": () => (/* binding */ deleteObsAndAnaDocuments),
+/* harmony export */   "deleteObsDocument": () => (/* binding */ deleteObsDocument),
+/* harmony export */   "getAnalyses": () => (/* binding */ getAnalyses),
+/* harmony export */   "getAnalysisCond1Comments": () => (/* binding */ getAnalysisCond1Comments),
+/* harmony export */   "getAnalysisCond2Debriefings": () => (/* binding */ getAnalysisCond2Debriefings),
+/* harmony export */   "getAnalysisLog": () => (/* binding */ getAnalysisLog),
 /* harmony export */   "getCollection": () => (/* binding */ getCollection),
+/* harmony export */   "getCond1CommentLog": () => (/* binding */ getCond1CommentLog),
+/* harmony export */   "getCond1CommentLogs": () => (/* binding */ getCond1CommentLogs),
+/* harmony export */   "getCond2DebriefingLog": () => (/* binding */ getCond2DebriefingLog),
 /* harmony export */   "getDebriefCommentLog": () => (/* binding */ getDebriefCommentLog),
 /* harmony export */   "getDebriefCommentLogs": () => (/* binding */ getDebriefCommentLogs),
 /* harmony export */   "getDebriefLog": () => (/* binding */ getDebriefLog),
@@ -18964,6 +19271,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "getDocumentWithName": () => (/* binding */ getDocumentWithName),
 /* harmony export */   "getLog": () => (/* binding */ getLog),
 /* harmony export */   "getLogs": () => (/* binding */ getLogs),
+/* harmony export */   "getObserverLog": () => (/* binding */ getObserverLog),
+/* harmony export */   "getObserverLogAnalyses": () => (/* binding */ getObserverLogAnalyses),
+/* harmony export */   "getObserverLogList": () => (/* binding */ getObserverLogList),
 /* harmony export */   "getPromptAndOptions": () => (/* binding */ getPromptAndOptions),
 /* harmony export */   "getPubScenarios": () => (/* binding */ getPubScenarios),
 /* harmony export */   "getPublishedScenarioByID": () => (/* binding */ getPublishedScenarioByID),
@@ -19001,6 +19311,8 @@ __webpack_require__.r(__webpack_exports__);
 
  // the rest of these imports can go away soon. simply allows me to delete objects form the db
 // and reload with files. not used if records exist in db
+
+
 
 
 
@@ -19115,6 +19427,21 @@ const getScenarioByName = (db, scenarioName, schemaVersion) => {
 
 const addMissingScenarioTypeFields = scenTypeData => {
   const msgs = [];
+
+  if (scenTypeData.checklist) {
+    // console.log(CHECKLIST_STEP_TYPES)
+    scenTypeData.checklist.forEach(clItem => {
+      if (!("graded" in clItem)) {
+        if (_constants_js__WEBPACK_IMPORTED_MODULE_2__.CHECKLIST_STEP_TYPES.includes(clItem.type)) {
+          clItem["graded"] = true;
+          msgs.push(`set 'graded' to true for ${clItem.id}`);
+        } else {
+          clItem["graded"] = false;
+          msgs.push(`set 'graded' to false for ${clItem.id}`);
+        }
+      }
+    });
+  }
 
   if (!scenTypeData.interventions) {
     msgs.push("loading intvs from file");
@@ -19331,9 +19658,9 @@ const getDocumentWithName = async (db, collectionId, documentName) => {
 const deleteDocument = async (db, collectionId, documentId) => {
   await db.collection(collectionId).doc(documentId).delete();
 };
-const deleteAndArchiveDocument = async (db, collectionId, documentId) => {
+const deleteAndArchiveDocument = (db, collectionId, documentId) => {
   if (window.confirm("Are you sure you want to delete this file?  It will be archived but you will need help to retrieve it.")) {
-    const data = await getDocument(db, collectionId, documentId);
+    const data = getDocument(db, collectionId, documentId);
     let archiveId = "archive-" + collectionId;
     saveDocument(db, archiveId, data);
     deleteDocument(db, collectionId, documentId);
@@ -19347,8 +19674,16 @@ const deleteDocumentNoArchive = async (db, collectionId, documentId) => {
   ;
 };
 const deleteObsAndAnaDocuments = (db, id) => {
+  deleteAndArchiveDocument(db, "logs", id); //deleteDocument(db,"debriefing-feedback-logs",id)
+};
+const deleteObsDocument = (db, id) => {
   deleteAndArchiveDocument(db, "logs", id);
-  deleteDocument(db, "debriefing-feedback-logs", id);
+};
+const deleteAnaDocument = (db, id) => {
+  deleteDocument(db, "analyzed-logs", id);
+};
+const deleteCond1CommentDocument = (db, id) => {
+  deleteDocument(db, "cond1-comments", id);
 };
 const deleteCommentDocument = (db, id) => {
   deleteAndArchiveDocument(db, "debriefing-comment-logs", id);
@@ -19375,19 +19710,50 @@ const listDocumentNames = async (db, collectionId) => {
   });
   return documentDictionary;
 };
+
+function exportObserverLogMetaData(doc) {
+  const data = doc.data();
+  return {
+    id: doc.id,
+    label: data.label,
+    scenario: data.scenarioName,
+    scenarioID: data.scenarioID,
+    userName: data.userName,
+    timestamp: data.timestamp
+  };
+}
+
 const getLogs = db => {
-  return db.collection("logs").get().then(querySnapshot => {
-    return querySnapshot.docs.map(doc => {
+  return db.collection("logs").get().then(querySnapshot => querySnapshot.docs.map(doc => exportObserverLogMetaData(doc))).catch(error => {
+    console.error(error);
+    return [];
+  });
+};
+const getObserverLogAnalyses = (db, observerLogID) => {
+  return db.collection("analyzed-logs").where("observerLogID", "==", observerLogID).get().then(querySnapShot => {
+    return querySnapShot.docs.map(doc => {
       const data = doc.data();
       return {
         id: doc.id,
         label: data.label,
-        scenario: data.scenarioName,
-        scenarioID: data.scenarioID,
-        userName: data.userName,
+        observerLogID: data.observerLogID,
+        analyzer: data.analyzer,
         timestamp: data.timestamp
       };
     });
+  }).catch(error => {
+    console.error(error);
+    return [];
+  });
+};
+const getObserverLogList = async (db, onlyPublished = true) => {
+  // by default, only lists observer logs which don't refer to currently 
+  // published scenarioIDs
+  const pubScens = await getPubScenarios(db);
+  const pubScenIDs = pubScens.map(e => e.id);
+  return db.collection("logs").get().then(querySnapshot => querySnapshot.docs.map(doc => exportObserverLogMetaData(doc))).then(logs => onlyPublished ? logs.filter(e => pubScenIDs.includes(e.scenarioID)) : logs).catch(error => {
+    console.error(error);
+    return [];
   });
 };
 const getPubScenarios = db => {
@@ -19398,6 +19764,56 @@ const getPubScenarios = db => {
       return {
         id: doc.id,
         version: data.version
+      };
+    });
+  });
+};
+const createCond1Comments = async (db, analysis, userName) => {
+  const docRef = await db.collection("cond1-comments").doc();
+  const id = docRef.id;
+  const data = {
+    id,
+    analysisLogID: analysis.id,
+    observerLogID: analysis.observerLogID,
+    reviewer: userName,
+    comments: Array(analysis.events.length).fill(""),
+    timestamp: Date()
+  };
+  await docRef.set(data);
+  return id;
+};
+const createCond2Debriefing = async (db, analysis, userName) => {
+  const docRef = await db.collection("cond2-debriefings").doc();
+  const id = docRef.id;
+  const data = {
+    id,
+    analysisLogID: analysis.id,
+    observerLogID: analysis.observerLogID,
+    reviewer: userName,
+    comments: {},
+    timestamp: Date()
+  };
+  await docRef.set(data);
+  return id;
+};
+const getAnalysisCond1Comments = (db, analysisLogID) => {
+  return db.collection("cond1-comments").where("analysisLogID", "==", analysisLogID).get().then(querySnapshot => {
+    return querySnapshot.docs.map(doc => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        ...data
+      };
+    });
+  });
+};
+const getAnalysisCond2Debriefings = (db, analysisLogID) => {
+  return db.collection("cond2-debriefings").where("analysisLogID", "==", analysisLogID).get().then(querySnapshot => {
+    return querySnapshot.docs.map(doc => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        ...data
       };
     });
   });
@@ -19417,34 +19833,131 @@ const getDebriefCommentLogs = db => {
     });
   });
 };
+const getAnalyses = db => {
+  return db.collection("analyzed-logs").get().then(querySnapshot => {
+    return querySnapshot.docs.map(doc => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        label: data.label,
+        observerLogID: data.observerLogID,
+        analyzer: data.analyzer,
+        timestamp: data.timestamp
+      };
+    });
+  });
+};
+const getCond1CommentLogs = db => {
+  return db.collection("cond1-comments").get().then(querySnapshot => {
+    return querySnapshot.docs.map(doc => {
+      const data = doc.data();
+      return {
+        id: doc.id,
+        label: data.label,
+        analysisLogID: data.analysisLogID,
+        commenter: data.commenter,
+        timestamp: data.timestamp
+      };
+    });
+  });
+};
 const getLog = (db, logID) => {
   return db.collection("logs").doc(logID).get().then(doc => {
     const data = doc.data();
-    data.id = doc.id; //let scenario = data.scenario;   //temporary until DB scenario name is fixed but won't hurt anything
-    //scenario = scenario.replace("PHTC ","");  //temporary until DB scenario name is fixed but won't hurt anything
-    //data.scenario = scenario;
 
-    return data;
+    if (!!data) {
+      data.id = doc.id;
+      return data;
+    } else {
+      return null;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
   });
 };
 const getDebriefLog = (db, logID) => {
   return db.collection("debriefing-feedback-logs").doc(logID).get().then(doc => {
     const data = doc.data();
-    data.id = doc.id; //let scenario = data.scenario;   //temporary until DB scenario name is fixed but won't hurt anything
-    //scenario = scenario.replace("PHTC ","");  //temporary until DB scenario name is fixed but won't hurt anything
-    //data.scenario = scenario;
 
-    return data;
+    if (!!data) {
+      data.id = doc.id;
+      return data;
+    } else {
+      return null;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
   });
 };
 const getDebriefCommentLog = (db, logID) => {
   return db.collection("debriefing-comment-logs").doc(logID).get().then(doc => {
     const data = doc.data();
-    data.id = doc.id; //let scenario = data.scenario;   //temporary until DB scenario name is fixed but won't hurt anything
-    //scenario = scenario.replace("PHTC ","");  //temporary until DB scenario name is fixed but won't hurt anything
-    //data.scenario = scenario;
 
-    return data;
+    if (!!data) {
+      data.id = doc.id;
+      return data;
+    } else {
+      return false;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
+  });
+};
+const getAnalysisLog = (db, logID) => {
+  return db.collection("analyzed-logs").doc(logID).get().then(doc => {
+    const data = doc.data();
+
+    if (!!data) {
+      //data.id = doc.id
+      return data;
+    } else {
+      return null;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
+  });
+};
+const getCond1CommentLog = (db, logID) => {
+  return db.collection("cond1-comments").doc(logID).get().then(doc => {
+    const data = doc.data();
+
+    if (!!data) {
+      data.id = doc.id;
+      return data;
+    } else {
+      return null;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
+  });
+};
+const getCond2DebriefingLog = (db, debriefingID) => {
+  return db.collection("cond2-debriefings").doc(debriefingID).get().then(doc => {
+    const data = doc.data();
+    return {
+      id: doc.id,
+      ...data
+    };
+  });
+};
+const getObserverLog = (db, logID) => {
+  return db.collection("logs").doc(logID).get().then(doc => {
+    const data = doc.data();
+
+    if (!!data) {
+      data.id = doc.id;
+      return data;
+    } else {
+      return null;
+    }
+  }).catch(error => {
+    console.error(error);
+    return null;
   });
 };
 const getDebriefLogWithName = async (db, documentName) => {
@@ -20461,42 +20974,42 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5558);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8913);
 
 const INTV_PROMPTS = [{
   "id": "prompt-wound-location",
-  type: _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.DIST_PROMPT,
-  selectionType: _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  type: _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.DIST_PROMPT,
+  selectionType: _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   label: "Where is the wound located?",
   abbrLabel: "Wound location?",
   answers: ["answer-wound-location-head", "answer-wound-location-neck", "answer-wound-location-chest", "answer-wound-location-abdomen-pelvis", "answer-wound-location-posterior", "answer-wound-location-genitalia", "answer-wound-location-left-lower-extremity", "answer-wound-location-right-lower-extremity", "answer-wound-location-left-upper-extremity", "answer-wound-location-right-upper-extremity", "answer-wound-location-other"]
 }, {
   "id": "prompt-wound-locations",
-  type: _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.DIST_PROMPT,
-  selectionType: _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.OOM,
+  type: _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.DIST_PROMPT,
+  selectionType: _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.OOM,
   label: "Where are the wound(s) located?",
   abbrLabel: "Wound location(s)?",
   answers: ["answer-wound-locations-head", "answer-wound-locations-neck", "answer-wound-locations-chest", "answer-wound-locations-abdomen-pelvis", "answer-wound-locations-posterior", "answer-wound-locations-genitalia", "answer-wound-locations-left-lower-extremity", "answer-wound-locations-right-lower-extremity", "answer-wound-locations-left-upper-extremity", "answer-wound-locations-right-upper-extremity", "answer-wound-locations-other"]
 }, {
   "id": "prompt-airway-patency-suction-device",
   "interventionID": "intv-airway-patency-technique-suction-airway",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What kind of suction catheter will you use?",
   "abbrLabel": "Suction catheter type?",
   "answers": ["answer-airway-patency-suction-yankauer", "answer-airway-patency-suction-long-multiuse", "answer-airway-patency-suction-other"]
 }, {
   "id": "prompt-advanced-airway-adjunct-type",
   "interventionID": "intv-advanced-airway-adjunct",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What type of advanced airway adjunct would you use?",
   "abbrLabel": "Which advanced airway?",
   "answers": ["answer-alternative-rescue-airway-type-ett", "answer-alternative-rescue-airway-type-combitube", "answer-alternative-rescue-airway-type-lta", "answer-alternative-rescue-airway-type-lma", "answer-alternative-rescue-airway-type-igel", "answer-alternative-rescue-airway-type-other"]
 }, {
   "id": "prompt-advanced-airway-tube-size",
   "interventionID": "intv-advanced-airway-adjunct",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
   "selectionType": "one",
   "label": "What tube size for advanced airway?",
   "abbrLabel": "What size?",
@@ -20504,176 +21017,176 @@ const INTV_PROMPTS = [{
 }, {
   "id": "prompt-orotracheal-intubation-tube-insertion-depth",
   "interventionID": "intv-orotracheal-intubation",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "At what depth would you insert the tube?",
   "abbrLabel": "Tube insertion depth?",
   "answers": ["answer-orotracheal-intubation-tube-insertion-depth-21cm", "answer-orotracheal-intubation-tube-insertion-depth-23cm", "answer-orotracheal-intubation-tube-insertion-depth-3-times-tube-size", "answer-orotracheal-intubation-tube-insertion-depth-other"]
 }, {
   "id": "prompt-nasotracheal-intubation-tube-size",
   "interventionID": "intv-nasotracheal-intubation",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What tube size would you use?",
   "abbrLabel": "Tube size?",
   "answers": ["answer-nasotracheal-intubation-tube-size-6-to-6-5", "answer-nasotracheal-intubation-tube-size-7-to-7-5", "answer-nasotracheal-intubation-tube-size-age-div-4+4-minus1", "answer-nasotracheal-intubation-tube-size-age-div-4+4-minus0-5", "answer-nasotracheal-intubation-tube-size-0-5-1cm-less-than-oro-size", "answer-nasotracheal-intubation-tube-size-other"]
 }, {
   "id": "prompt-nasal-cannula-flow-rate",
   "interventionID": "intv-supplemental-oxygen-device-nasal-cannula",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What oxygen flow rate would you administer?",
   "abbrLabel": "Oxygen flow rate?",
   "answers": ["answer-nasal-cannula-flow-rate-1-6-lpm", "answer-nasal-cannula-flow-rate-other"]
 }, {
   "id": "prompt-nasal-cannula-target-saturation",
   "interventionID": "intv-supplemental-oxygen-device-nasal-cannula",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What is your target oxygen saturation range?",
   "abbrLabel": "Target O2 saturation?",
   "answers": ["answer-nasal-cannula-target-saturation-gt-90-pct", "answer-nasal-cannula-target-saturation-other"]
 }, {
   "id": "prompt-non-rebreather-mask-flow-rate",
   "interventionID": "intv-supplemental-oxygen-device-non-rebreather-mask",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What oxygen flow rate would you administer?",
   "abbrLabel": "Oxygen flow rate?",
   "answers": ["answer-non-rebreather-mask-flow-rate-10-15-liters-min", "answer-non-rebreather-mask-flow-rate-other"]
 }, {
   "id": "prompt-non-rebreather-mask-target-saturation",
   "interventionID": "intv-supplemental-oxygen-device-non-rebreather-mask",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What is your target oxygen saturation range?",
   "abbrLabel": "Target O2 saturation?",
   "answers": ["answer-non-rebreather-mask-target-saturation-gt-90-pct", "answer-non-rebreather-mask-target-saturation-other"]
 }, {
   "id": "prompt-bvm-ventilation-rate",
   "interventionID": "intv-ventilation-technique-bag-valve-mask",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "At what rate will you ventilate the patient?",
   "abbrLabel": "",
   "answers": ["answer-bvm-ventilation-rate-10-12-bpm", "answer-bvm-ventilation-rate-other"]
 }, {
   "id": "prompt-bvm-flow-rate",
   "interventionID": "intv-ventilation-technique-bag-valve-mask",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What flow rate would you administer?",
   "abbrLabel": "Flow rate?",
   "answers": ["answer-bvm-flow-rate-15-ltm-or-gt", "answer-bvm-flow-rate-other"]
 }, {
   "id": "prompt-bvm-target-saturation",
   "interventionID": "intv-ventilation-technique-bag-valve-mask",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What is your target oxygen saturation range?",
   "abbrLabel": "Target O2 saturation?",
   "answers": ["answer-bvm-target-saturation-rate-gt-90-pct", "answer-bvm-target-saturation-rate-other"]
 }, {
   "id": "prompt-tourniquet-placement",
   "interventionID": "intv-control-severe-bleeding-technique-tourniquet",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "Where would you place the tourniquet?",
   "abbrLabel": "Tourniquet location?",
   "answers": ["answer-tourniquet-placement-close-to-core-far-from-wound", "answer-tourniquet-placement-other"]
 }, {
   "id": "prompt-2nd-tourniquet-placement",
   "interventionID": "intv-control-severe-bleeding-technique-2nd-tourniquet",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "Where would you place the second tourniquet?",
   "abbrLabel": "Tourniquet location?",
   "answers": ["answer-2nd-tourniquet-placement-adjacent-to-initial-tourniquet", "answer-2nd-tourniquet-placement-other"]
 }, {
   "id": "prompt-occlusive-dressing-injury-type",
   "interventionID": "intv-occlusive-dressing",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What type of injury are you trying to manage?",
   "abbrLabel": "For what type of injury?",
   "answers": ["answer-occulsivive-dressing-injury-type-open-pneumothorax", "answer-occulsivive-dressing-injury-type-other"]
 }, {
   "id": "prompt-occlusive-dressing-method",
   "interventionID": "intv-occlusive-dressing",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "How would you create a release valve on an occlusive dressing?",
   "abbrLabel": "How would you create a release valve?",
   "answers": ["answer-occulsive-dressing-method-leave-one-side-untaped", "answer-occulsive-dressing-method-leave-dressing-with-one-way-valve", "answer-occulsive-dressing-method-other"]
 }, {
   "id": "prompt-pleural-decompression-injury-type",
   "interventionID": "intv-pleural-decompression",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What type of injury are you trying to manage?",
   "abbrLabel": "For what type of injury?",
   "answers": ["answer-pleural-decompression-injury-type-tension-pneumothorax", "answer-pleural-decompression-injury-type-open-pneumothorax", "answer-pleural-decompression-injury-type-other"]
 }, {
   "id": "prompt-pleural-decompression-needle-placement-side-of-the-body",
   "interventionID": "intv-pleural-decompression",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "On which side of the body would you place the needle?",
   "abbrLabel": "Which side would you place the needle?",
   "answers": ["answer-pleural-decompression-needle-placement-side-of-the-body-right", "answer-pleural-decompression-needle-placement-side-of-the-body-left"]
 }, {
   "id": "prompt-pleural-decompression-needle-placement-anatomical-landmark",
   "interventionID": "intv-pleural-decompression",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "At what anatomical landmark?",
   "abbrLabel": "At what anatomical landmark?",
   "answers": ["answer-pleural-decompression-needle-placement-anatomical-landmark-2nd-or-3rd-intercostal-space-mid-clavicular", "answer-pleural-decompression-needle-placement-anatomical-landmark-4th-or-5th-intercostal-space-mid-axillary", "answer-pleural-decompression-needle-placement-anatomical-landmark-other"]
 }, {
   "id": "prompt-pleural-decompression-needle-size",
   "interventionID": "intv-pleural-decompression",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What size needle do you want to use?",
   "abbrLabel": "Needle size?",
   "answers": ["answer-pleural-decompression-needle-size-large-bore", "answer-pleural-decompression-needle-size-other"]
 }, {
   "id": "prompt-pleural-decompression-needle-length",
   "interventionID": "intv-pleural-decompression",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "How long a needle would you use?",
   "abbrLabel": "Needle length?",
   "answers": ["answer-pleural-decompression-needle-length-2-inches-or-longer", "answer-pleural-decompression-needle-length-other"]
 }, {
   "id": "prompt-transport-facility-choice",
   "interventionID": "intv-transport",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What type of care facility will you transport the patient to?",
   "abbrLabel": "Type of receiving facility",
   "answers": ["answer-transport-facility-choice-level-1-or-2-trauma-center", "answer-transport-facility-choice-level-3-or-4-trauma-center", "answer-transport-facility-choice-closest", "answer-transport-facility-choice-other"]
 }, {
   "id": "prompt-transport-method",
   "interventionID": "intv-transport",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "Would you transport this patient by air or ground ambulance?",
   "abbrLabel": "Air or ground ambulance?",
   "answers": ["answer-transport-method-ambulance", "answer-transport-method-helicopter"]
 }, {
   "id": "prompt-transport-lights-siren-decision",
   "interventionID": "intv-transport",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "Would you use lights and sirens with this patient?",
   "abbrLabel": "Lights and sirens?",
   "answers": ["answer-transport-lights-sirens-yes", "answer-transport-lights-sirens-no"]
 }, {
   "id": "prompt-splint-type",
   "interventionID": "intv-splint-fractures",
-  "type": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
-  "selectionType": _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
+  "type": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.MDB_TYPES.PROMPT,
+  "selectionType": _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__.SELECTION_TYPES.ONE,
   "label": "What type of splint would you use?",
   "abbrLabel": "Type of splint?",
   "answers": ["answer-splint-type-board", "answer-splint-type-moldable", "answer-splint-type-traction", "answer-splint-type-pelvic-binder", "answer-splint-type-other"]
