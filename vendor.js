@@ -14048,7 +14048,7 @@ class vt {
      * (see https://github.com/axemclion/IndexedDBShim).
      */    static S() {
         var t;
-        return "undefined" != typeof process && "YES" === (null === (t = ({"NODE_ENV":"development","NX_FIREBASE_PROJECT":"MedDBriefer-dev","NX_CLI_SET":"true","NX_WORKSPACE_ROOT":"/Users/user/Projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/user/Projects/monorepo/node_modules/.cache/nx/terminalOutputs/2edd0894ba11814c3f618d8c044dc041fc154c20451f41ba426f8d1279413449","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"2edd0894ba11814c3f618d8c044dc041fc154c20451f41ba426f8d1279413449"})) || void 0 === t ? void 0 : t.C);
+        return "undefined" != typeof process && "YES" === (null === (t = ({"NODE_ENV":"development","NX_CLI_SET":"true","NX_WORKSPACE_ROOT":"/Users/user/Projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/user/Projects/monorepo/node_modules/.cache/nx/terminalOutputs/1419ec8a90ea6c038d47bcba10eb6eb56efc7578dbd76758a529f50923338917","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"1419ec8a90ea6c038d47bcba10eb6eb56efc7578dbd76758a529f50923338917"})) || void 0 === t ? void 0 : t.C);
     }
     /** Helper to get a typed SimpleDbStore from a transaction. */    static N(t, e) {
         return t.store(e);

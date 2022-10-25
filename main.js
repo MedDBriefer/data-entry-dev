@@ -16915,7 +16915,7 @@ __webpack_require__.r(__webpack_exports__);
 // When building for production, this file is replaced with `environment.prod.ts`.
 const environment = {
   production: false,
-  firebaseProject: "MedDBriefer-dev"
+  firebaseProject: "MedDBrieferDev"
 };
 
 /***/ }),
@@ -19160,7 +19160,7 @@ function getProjectConfig(projectName) {
         appId: "1:447730403122:web:1727020dbac4ad4cf6f92b"
       };
 
-    case "MedDBriefer-dev":
+    case "MedDBrieferDev":
       return {
         apiKey: "AIzaSyBqnEMwEstp4D7Mvtbw9OTAiNJ7qza0Ses",
         authDomain: "meddbriefer-dev.firebaseapp.com",
