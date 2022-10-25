@@ -1192,6 +1192,14 @@ function BasicInfo() {
     }
   };
 
+  const radioChange = event => {
+    const {
+      name,
+      value
+    } = event.target;
+    updateState(name, value === "true");
+  };
+
   const changeHandler = event => {
     const {
       id: fldPath,
@@ -1255,7 +1263,7 @@ function BasicInfo() {
       children: "loading..."
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 111,
+      lineNumber: 116,
       columnNumber: 11
     }, this);
   }
@@ -1271,7 +1279,7 @@ function BasicInfo() {
         children: "Basic Information:"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 120,
+        lineNumber: 125,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
         children: ["Scenario Name:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1282,12 +1290,62 @@ function BasicInfo() {
           onBlur: blurNameHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 123,
+          lineNumber: 128,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 121,
+        lineNumber: 126,
+        columnNumber: 5
+      }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
+        children: ["Followup with Debriefing:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
+          style: {
+            display: "inline-flex"
+          },
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
+            style: {
+              display: "inline-flex"
+            },
+            type: "radio",
+            name: "info.debriefing",
+            value: true,
+            checked: dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default().get(state, 'info.debriefing') === true,
+            onChange: radioChange
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 140,
+            columnNumber: 7
+          }, this), "Yes"]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 139,
+          columnNumber: 6
+        }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
+          style: {
+            display: "inline-flex"
+          },
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
+            style: {
+              display: "inline-flex"
+            },
+            type: "radio",
+            name: "info.debriefing",
+            value: false,
+            checked: dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default().get(state, 'info.debriefing') === false,
+            onChange: radioChange
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 151,
+            columnNumber: 7
+          }, this), "No"]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 150,
+          columnNumber: 6
+        }, this)]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 137,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
         children: ["Instructor Info:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("textarea", {
@@ -1296,12 +1354,12 @@ function BasicInfo() {
           onChange: changeHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 134,
+          lineNumber: 164,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 132,
+        lineNumber: 162,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
         children: ["Dispatch Info:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("textarea", {
@@ -1310,12 +1368,12 @@ function BasicInfo() {
           onChange: changeHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 142,
+          lineNumber: 172,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 140,
+        lineNumber: 170,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
         children: ["Scene assessment:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("textarea", {
@@ -1324,12 +1382,12 @@ function BasicInfo() {
           onChange: changeHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 150,
+          lineNumber: 180,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 148,
+        lineNumber: 178,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
         children: ["Maximum time for scenario:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1340,18 +1398,18 @@ function BasicInfo() {
           onChange: changeNumericFieldHandler
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 158,
+          lineNumber: 188,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 156,
+        lineNumber: 186,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("h1", {
         children: "Patient Info:"
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 166,
+        lineNumber: 196,
         columnNumber: 5
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("div", {
         id: "pt-info",
@@ -1363,12 +1421,12 @@ function BasicInfo() {
             onChange: changeHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 170,
+            lineNumber: 200,
             columnNumber: 7
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 168,
+          lineNumber: 198,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
           children: ["Position:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1378,12 +1436,12 @@ function BasicInfo() {
             onChange: changeHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 179,
+            lineNumber: 209,
             columnNumber: 7
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 177,
+          lineNumber: 207,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
           children: ["Actions:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1393,12 +1451,12 @@ function BasicInfo() {
             onChange: changeHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 188,
+            lineNumber: 218,
             columnNumber: 7
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 186,
+          lineNumber: 216,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
           children: ["Age:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1408,12 +1466,12 @@ function BasicInfo() {
             onChange: changeNumericFieldHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 197,
+            lineNumber: 227,
             columnNumber: 8
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 195,
+          lineNumber: 225,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
           children: ["Weight (kg):", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1423,12 +1481,12 @@ function BasicInfo() {
             onChange: changeNumericFieldHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 206,
+            lineNumber: 236,
             columnNumber: 8
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 204,
+          lineNumber: 234,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
           children: ["Gender:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
@@ -1438,27 +1496,27 @@ function BasicInfo() {
             onChange: changeHandler
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 215,
+            lineNumber: 245,
             columnNumber: 8
           }, this)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 213,
+          lineNumber: 243,
           columnNumber: 6
         }, this)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 167,
+        lineNumber: 197,
         columnNumber: 5
       }, this)]
     }, void 0, true, {
       fileName: _jsxFileName,
-      lineNumber: 119,
+      lineNumber: 124,
       columnNumber: 4
     }, this)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 114,
+    lineNumber: 119,
     columnNumber: 3
   }, this);
 }
@@ -6024,6 +6082,7 @@ function initializeScen(findings, checkListItemsWithOptions, meds) {
     scenarioType: "trauma",
     schemaVersion: null,
     info: {
+      debriefing: false,
       instructorInformation: "",
       dispatchInfo: "",
       maxTime: 20,
@@ -6094,31 +6153,31 @@ const updateSchema = (scen, scenType) => {
   const newScen = initializeScen(FINDINGS, CLI_W_OPTS, MEDS);
   newScen.schemaVersion = scenType.schemaVersion;
 
-  if (!!scen.id) {
+  if (scen.id) {
     newScen.id = scen.id;
   }
 
-  if (!!scen.name) {
+  if (scen.name) {
     newScen.name = scen.name;
   }
 
-  if (!!scen.info) {
+  if (scen.info) {
     newScen.info = leftMergeObjects(newScen.info, scen.info);
 
-    if (!!scen.info.patientInformation) {
+    if (scen.info.patientInformation) {
       newScen.info.patientInformation = leftMergeObjects(newScen.info.patientInformation, scen.info.patientInformation);
     }
   }
 
-  if (!!scen.SAMPLE) {
+  if (scen.SAMPLE) {
     newScen.SAMPLE = leftMergeObjects(newScen.SAMPLE, scen.SAMPLE);
   }
 
-  if (!!scen.OPQRST) {
+  if (scen.OPQRST) {
     newScen.OPQRST = leftMergeObjects(newScen.OPQRST, scen.OPQRST);
   }
 
-  if (!!scen.vitalSigns) {
+  if (scen.vitalSigns) {
     Object.keys(newScen.vitalSigns).forEach(vital => {
       if (vital in scen.vitalSigns) {
         newScen.vitalSigns[vital] = leftMergeObjects(newScen.vitalSigns[vital], scen.vitalSigns[vital]);
@@ -6126,7 +6185,7 @@ const updateSchema = (scen, scenType) => {
     });
   }
 
-  if (!!scen.assessmentFindings) {
+  if (scen.assessmentFindings) {
     newScen.assessmentFindings = leftMergeObjects(newScen.assessmentFindings, scen.assessmentFindings); // find deleted findings ids
 
     Object.keys(scen.assessmentFindings).forEach(findingId => {
@@ -6144,7 +6203,7 @@ const updateSchema = (scen, scenType) => {
     });
   }
 
-  if (!!scen.checkListCorrectness) {
+  if (scen.checkListCorrectness) {
     newScen.checkListCorrectness = leftMergeObjects(newScen.checkListCorrectness, scen.checkListCorrectness); // find deletions
 
     Object.keys(scen.checkListCorrectness).forEach(itemId => {
@@ -6162,7 +6221,7 @@ const updateSchema = (scen, scenType) => {
     });
   }
 
-  if (!!scen.correctMedicationDosages) {
+  if (scen.correctMedicationDosages) {
     MEDS.forEach(med => {
       if (med.id in scen.correctMedicationDosages) {
         newScen.correctMedicationDosages[med.id] = leftMergeObjects(newScen.correctMedicationDosages[med.id], scen.correctMedicationDosages[med.id]);
@@ -12518,7 +12577,7 @@ const EditIntervention = () => {
         name: "system",
         label: "System",
         widget: "select",
-        options: [[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.AW, "Airway"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.BR, "Breathing"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.BL, "Bleeding"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.SH, "Shock"]],
+        options: [[_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.AW, "Airway"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.BR, "Breathing"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.BL, "Bleeding"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.SH, "Shock"], [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.SYSTEMS.OTH, "Other"]],
         changeHandler: updateIntvField
       }]
     }, void 0, false, {
@@ -12556,12 +12615,12 @@ const EditIntervention = () => {
         uniqueIDs: uniqueIDs
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 213,
+        lineNumber: 214,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 198,
+      lineNumber: 199,
       columnNumber: 13
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_InlineEditor__WEBPACK_IMPORTED_MODULE_5__["default"], {
       heading: "Prompts",
@@ -12596,12 +12655,12 @@ const EditIntervention = () => {
         uniqueLabels: uniqueLabels
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 241,
+        lineNumber: 242,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 225,
+      lineNumber: 226,
       columnNumber: 13
     }, undefined)]
   }, void 0, true, {
@@ -14887,7 +14946,7 @@ function ScenarioType(props) {
       const sortByLabel = (a, b) => a.label.localeCompare(b.label);
 
       let sorted = [];
-      const order = [_meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.AW, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.BR, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.BL, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.SH, undefined];
+      const order = [_meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.AW, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.BR, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.BL, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.SH, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__.SYSTEMS.OTH, undefined];
       order.forEach(sys => {
         sorted = sorted.concat(scenarioType.interventions.filter(e => e.system === sys).sort(sortByLabel));
       });
@@ -16856,7 +16915,7 @@ __webpack_require__.r(__webpack_exports__);
 // When building for production, this file is replaced with `environment.prod.ts`.
 const environment = {
   production: false,
-  firebaseProject: ({"NODE_ENV":"development","NX_CLI_SET":"true","NX_WORKSPACE_ROOT":"/Users/user/Projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/user/Projects/monorepo/node_modules/.cache/nx/terminalOutputs/59a1972bbba53e542ea6d70c3a12e4b294d6fe4730befbb2fd655f2e0d695e22","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"59a1972bbba53e542ea6d70c3a12e4b294d6fe4730befbb2fd655f2e0d695e22"}).NX_FIREBASE_PROJECT || "MedDBriefer"
+  firebaseProject: "PamDev" || 0
 };
 
 /***/ }),
@@ -17041,128 +17100,193 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4292);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5600);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
+/* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7122);
+/* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4292);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5600);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
 var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/EmailVerification.js";
+ // useCallback, 
+
+ // import cn from "classnames"
 
 
 
 
-
+const MAX_ATTEMPTS = 3;
+const RETRY_INTERVAL = 5000;
 
 const EmailVerification = () => {
   const {
     authMsg,
     currentUser,
-    setAuthFlowComponent,
+    emailVerified,
+    setCurrAuthComponent,
     setAuthMsg,
     setEmailVerified
-  } = (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(_contexts_Auth__WEBPACK_IMPORTED_MODULE_3__.AuthContext);
+  } = (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(_contexts_Auth__WEBPACK_IMPORTED_MODULE_2__.AuthContext);
 
   const resendVerificationEmail = () => {
     if (!currentUser.emailVerified) {
       // console.log("Resending verification email")
-      currentUser.sendEmailVerification().then(() => recheckEmailVerification()).catch(error => console.log(error));
+      currentUser.sendEmailVerification().then(() => console.log("email verification message sent")) //recheckEmailVerification())
+      .catch(error => console.log(error));
     } else {
       console.log("email address already verified");
     }
   };
 
-  const checkVerification = () => {
-    // console.log("Rechecking verification")
-    currentUser.reload().then(() => {
-      if (currentUser.emailVerified) {
-        setEmailVerified(true);
-        setAuthFlowComponent(_contexts_Auth__WEBPACK_IMPORTED_MODULE_3__.AUTH_FLOW_COMPONENTS.LOGIN);
-        setAuthMsg("");
-      } else {
-        recheckEmailVerification();
-      }
-    });
-  };
+  const checkForEmailVerification = () => {
+    let intervalID;
+    let attempt = 0; // check every RETRY_INTERVAL seconds that the email is verified, a max of MAX_ATTEMPTS times
 
-  const recheckEmailVerification = (0,react__WEBPACK_IMPORTED_MODULE_0__.useCallback)(() => {
-    if (!currentUser.emailVerified) {
-      setTimeout(() => checkVerification(), 5000);
-    }
-  }, [currentUser.emailVerified, checkVerification]);
+    intervalID = setInterval(() => {
+      console.log("checking for email verification attempt:", attempt + 1);
+      currentUser.reload().then(() => {
+        if (currentUser.emailVerified) {
+          console.log("email verification confirmed");
+          setEmailVerified(true);
+          clearInterval(intervalID);
+        }
+
+        if (++attempt === MAX_ATTEMPTS) {
+          console.log("email verifiction max attempts exceeded");
+          clearInterval(intervalID);
+        }
+      });
+    }, attempt === 0 ? 10 : RETRY_INTERVAL); // console.log("checking if user email is verified")
+    // currentUser.reload()
+    //     .then(() => {
+    //         if (currentUser.emailVerified) {
+    //             // setEmailVerified(true)
+    //             // setCurrAuthComponent(AUTH_FLOW_COMPONENTS.LOGIN)
+    //             // setAuthMsg("")
+    //         } else {
+    //             recheckEmailVerification()
+    //         }
+    //     })
+  }; // const recheckEmailVerification = useCallback(
+  //     () => {
+  //         if(!currentUser.emailVerified) {
+  //             setTimeout(() => checkVerification(), 10000);
+  //         }
+  //     },
+  //     [currentUser.emailVerified, checkVerification]
+  // )
+  // useEffect(
+  //     () => {
+  //         if (currentUser.emailVerified) {
+  //         //     setEmailVerified(false)
+  //         //     recheckEmailVerification()
+  //         // } else {
+  //             setEmailVerified(true)
+  //             setAuthMsg("")
+  //             setCurrAuthComponent(AUTH_FLOW_COMPONENTS.LOGIN)
+  //         }
+  //     },
+  //     [currentUser.emailVerified, setCurrAuthComponent, setAuthMsg, setEmailVerified]
+  // )
+
+
   (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(() => {
-    if (!currentUser.emailVerified) {
-      // console.log("Email is not verified")
-      setEmailVerified(false);
-      recheckEmailVerification();
-    } else {
-      setEmailVerified(true);
+    if (emailVerified) {
       setAuthMsg("");
-      setAuthFlowComponent(_contexts_Auth__WEBPACK_IMPORTED_MODULE_3__.AUTH_FLOW_COMPONENTS.LOGIN);
+      setCurrAuthComponent(_contexts_Auth__WEBPACK_IMPORTED_MODULE_2__.AUTH_FLOW_COMPONENTS.LOGIN);
+      window.location.reload();
     }
-  }, [currentUser.emailVerified, recheckEmailVerification, setAuthFlowComponent, setAuthMsg, setEmailVerified] // only run on first render
-  );
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
-    className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].container,
-    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
-      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].row,
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("h4", {
+  }, [emailVerified, setAuthMsg, setCurrAuthComponent]);
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+    className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__["default"].container,
+    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__["default"].row,
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("h4", {
         children: authMsg
       }, void 0, false, {
         fileName: _jsxFileName,
-        lineNumber: 70,
-        columnNumber: 17
+        lineNumber: 108,
+        columnNumber: 11
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 69,
-      columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
-      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].row,
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("p", {
-        children: "You will arrive at your destination web page soon after clicking on the verification link."
-      }, void 0, false, {
+      lineNumber: 107,
+      columnNumber: 9
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__["default"].row,
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("p", {
+        children: ["After following that link to verify your email address, Click", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)(reactstrap__WEBPACK_IMPORTED_MODULE_4__["default"], {
+          color: "link",
+          size: "sm",
+          onClick: checkForEmailVerification,
+          children: "Login"
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 113,
+          columnNumber: 13
+        }, undefined), "to continue."]
+      }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 73,
-        columnNumber: 17
+        lineNumber: 111,
+        columnNumber: 11
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 72,
-      columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
-      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].row,
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("p", {
-        children: "Didn't recieve a verification email? Verification link expired? Click \"Resend Verification Email\"."
-      }, void 0, false, {
+      lineNumber: 110,
+      columnNumber: 9
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__["default"].row,
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("dl", {
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("dt", {
+          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("span", {
+            className: "text-danger",
+            children: "Didn't recieve a verification email? Verification link expired?"
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 122,
+            columnNumber: 15
+          }, undefined)
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 121,
+          columnNumber: 13
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("dd", {
+          style: {
+            marginLeft: "20px"
+          },
+          children: ["Click", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)(reactstrap__WEBPACK_IMPORTED_MODULE_4__["default"], {
+            size: "sm",
+            color: "primary" //   className={cn(as.btn, as["btn-small"], as["btn-primary"])}
+            ,
+            onClick: resendVerificationEmail,
+            children: "Resend Verification Email"
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 128,
+            columnNumber: 15
+          }, undefined), " ", "and then follow the instructions on this page."]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 126,
+          columnNumber: 13
+        }, undefined)]
+      }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 76,
-        columnNumber: 17
+        lineNumber: 120,
+        columnNumber: 11
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 75,
-      columnNumber: 13
-    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("div", {
-      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].row,
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("button", {
-        type: "button",
-        className: classnames__WEBPACK_IMPORTED_MODULE_1___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"].btn, _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__["default"]["btn-primary"]),
-        onClick: resendVerificationEmail,
-        children: "Resend Verification Email"
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 79,
-        columnNumber: 17
-      }, undefined)
+      lineNumber: 119,
+      columnNumber: 9
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+      className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__["default"].row
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 78,
-      columnNumber: 13
+      lineNumber: 140,
+      columnNumber: 9
     }, undefined)]
   }, void 0, true, {
     fileName: _jsxFileName,
-    lineNumber: 68,
-    columnNumber: 9
+    lineNumber: 106,
+    columnNumber: 7
   }, undefined);
 };
 
@@ -17609,10 +17733,11 @@ const RegistrationForm = () => {
   const handleSignUp = event => {
     event.preventDefault();
     const {
+      classCode,
       email,
       password
     } = event.target.elements;
-    registerUserWithEmailAndPassword(email.value, password.value);
+    registerUserWithEmailAndPassword(email.value, password.value, classCode.value);
   };
 
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
@@ -17901,8 +18026,10 @@ var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/contexts
 
 
 const AuthContext = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default().createContext({});
-const PASSWORD_RESET_SUCCESS_MSG = "You should soon recieve an email with a password reset link it. " + "After reseting you password, you will be able to sign in.";
-const EMAIL_VERIFY_MESSAGE = "A message has been sent to your email address. It contains a link which will " + "verify that you are the owner of that email address";
+const PASSWORD_RESET_SUCCESS_MSG = "You should soon recieve an email with a password reset link it. " + "After reseting you password, you will be able to sign in."; // const EMAIL_VERIFY_MESSAGE =
+//   "A message has been sent to your email address. It contains a link which will " +
+//   "verify that you are the owner of that email address"
+
 const ERROR_CODE_UNKNOWN_USER = "auth/user-not-found";
 const ERROR_CODE_WRONG_PASSWD = "auth/wrong-password";
 const ERROR_CODE_ACCT_ALREADY_EXISTS = "auth/email-already-in-use";
@@ -17951,7 +18078,7 @@ function AuthProvider({
   };
 
   const signOutUser = () => {
-    auth.signOut().then(() => {
+    return auth.signOut().then(() => {
       setUnauthedState();
     }).catch(error => console.log(error));
   };
@@ -17963,10 +18090,11 @@ function AuthProvider({
     setEmailVerified(false);
   };
 
-  const registerUserWithEmailAndPassword = (email, password) => {
+  const registerUserWithEmailAndPassword = (email, password, classCode) => {
     auth.createUserWithEmailAndPassword(email, password).then(userCredential => {
-      userCredential.user.sendEmailVerification();
+      // userCredential.user.sendEmailVerification();
       setRegisterErrorMsg("");
+      return getUserRecord(userCredential.user.uid);
     }).catch(error => {
       switch (error.code) {
         case ERROR_CODE_ACCT_ALREADY_EXISTS:
@@ -17983,7 +18111,13 @@ function AuthProvider({
           setRegisterErrorMsg(error.message);
           break;
       }
-    });
+    }).then(userRec => {
+      updateUserRecord(userRec, "email", email);
+      return userRec;
+    }).then(userRec => {
+      updateUserRecord(userRec, "classCode", classCode);
+      return userRec;
+    }).then(() => console.log("users document created with email and classcode"));
   };
 
   const loginUserWithEmailAndPassword = (email, password) => {
@@ -18043,16 +18177,15 @@ function AuthProvider({
       if (user) {
         setIsAuthenticated(true); // set userName to whatever is before the "@" in the user's email address
 
-        setUserName(user.email.substr(0, user.email.indexOf("@")));
+        setUserName(user.email.substr(0, user.email.indexOf("@"))); // if (!user.emailVerified) {
+        //   setAuthMsg(EMAIL_VERIFY_MESSAGE)
+        //   setCurrAuthComponent(AUTH_FLOW_COMPONENTS.EMAIL_VERIFY)
+        // } else {
+
+        setEmailVerified(true); // }
+
         userIsStaff(user).then(res => {
           setIsStaff(res);
-
-          if (!user.emailVerified) {
-            setAuthMsg(EMAIL_VERIFY_MESSAGE);
-            setCurrAuthComponent(AUTH_FLOW_COMPONENTS.EMAIL_VERIFY);
-          } else {
-            setEmailVerified(true);
-          }
         }).catch(err => console.error(err));
       } else {
         setUnauthedState();
@@ -18060,13 +18193,24 @@ function AuthProvider({
     });
   }, // eslint-disable-next-line react-hooks/exhaustive-deps
   [] // only run on first render
-  ); // Return current users document
+  );
+
+  const getUserRecord = uid => db.collection("users").doc(uid);
+
+  const updateUserRecord = async (userDoc, field, value) => {
+    await userDoc.set({
+      [field]: value
+    }, {
+      merge: true
+    });
+  }; // Return current users document
+
 
   const getUserDoc = () => db.collection("users").doc(currentUser.uid) || null; // Update or create user data in db
 
 
   const saveUserData = (field, data) => {
-    getUserDoc().set({
+    return getUserDoc().set({
       [field]: data
     }, {
       merge: true
@@ -18109,7 +18253,7 @@ function AuthProvider({
     children: children
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 199,
+    lineNumber: 218,
     columnNumber: 5
   }, this);
 }
@@ -19746,12 +19890,31 @@ const getObserverLogAnalyses = (db, observerLogID) => {
     return [];
   });
 };
+
+const getPublishedScenarios = (logs, pubScens, pubScenIDs, onlyPublished) => {
+  let filtered = [];
+
+  for (let log of logs) {
+    if (pubScenIDs.includes(log.scenarioID)) {
+      let version = pubScens.find(s => s.id === log.scenarioID).version;
+      log.publishedVersion = version;
+      filtered.push(log);
+    }
+  }
+
+  if (onlyPublished) {
+    return filtered.sort((a, b) => a.publishedVersion.localeCompare(b.publishedVersion));
+  } else {
+    return logs.sort((a, b) => a.publishedVersion.localeCompare(b.publishedVersion));
+  }
+};
+
 const getObserverLogList = async (db, onlyPublished = true) => {
   // by default, only lists observer logs which don't refer to currently 
   // published scenarioIDs
   const pubScens = await getPubScenarios(db);
   const pubScenIDs = pubScens.map(e => e.id);
-  return db.collection("logs").get().then(querySnapshot => querySnapshot.docs.map(doc => exportObserverLogMetaData(doc))).then(logs => onlyPublished ? logs.filter(e => pubScenIDs.includes(e.scenarioID)) : logs).catch(error => {
+  return db.collection("logs").get().then(querySnapshot => querySnapshot.docs.map(doc => exportObserverLogMetaData(doc))).then(logs => getPublishedScenarios(logs, pubScens, pubScenIDs, onlyPublished)).catch(error => {
     console.error(error);
     return [];
   });
@@ -19773,10 +19936,16 @@ const createCond1Comments = async (db, analysis, userName) => {
   const id = docRef.id;
   const data = {
     id,
+    comments: Array(analysis.events.length).fill(""),
+    scenarioName: analysis.scenarioName,
+    classCode: analysis.classCode || "",
+    condition: analysis.condition || "",
+    label: analysis.label || null,
+    reviewer: userName,
+    id: id,
     analysisLogID: analysis.id,
     observerLogID: analysis.observerLogID,
-    reviewer: userName,
-    comments: Array(analysis.events.length).fill(""),
+    scenarioID: analysis.scenarioID || "",
     timestamp: Date()
   };
   await docRef.set(data);
