@@ -1,6 +1,6 @@
 (self["webpackChunkdata_entry"] = self["webpackChunkdata_entry"] || []).push([["main"],{
 
-/***/ 7295:
+/***/ 6619:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12,34 +12,34 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(6643);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6011);
-/* harmony import */ var _environments_environment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3015);
-/* harmony import */ var _components_HeaderContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1468);
-/* harmony import */ var _styles_default_styles_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6785);
-/* harmony import */ var _styles_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9945);
-/* harmony import */ var _styles_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2118);
-/* harmony import */ var _styles_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(2478);
-/* harmony import */ var _styles_tab_styles_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(565);
-/* harmony import */ var _styles_scenario_type_scss__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9938);
-/* harmony import */ var _styles_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7303);
-/* harmony import */ var _styles_medications_styles_scss__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(9497);
-/* harmony import */ var _components_UnauthedLayout__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(592);
-/* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(4733);
-/* harmony import */ var _components_HomePage__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(7472);
-/* harmony import */ var _components_ScenarioTypeEditor_ScenarioTypeList__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(6542);
-/* harmony import */ var _components_ScenarioTypeEditor_NewScenarioType__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(3301);
-/* harmony import */ var _components_ScenarioTypeEditor_ScenarioType__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(3259);
-/* harmony import */ var _components_ScenarioEditor_ScenariosList__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(8034);
-/* harmony import */ var _components_ScenarioEditor_NewScenario__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(1470);
-/* harmony import */ var _components_ScenarioEditor_EditScenario__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(8866);
-/* harmony import */ var _components_ScenarioEditor_CloneScenario__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(7811);
-/* harmony import */ var _components_ScenarioEditor_PublishScenario__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(7586);
-/* harmony import */ var _components_ClassCodes_ClassCodesList__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(9535);
-/* harmony import */ var _components_ClassCodes_NewClassCode__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(7486);
-/* harmony import */ var _components_ClassCodes_ClassCode__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(8254);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7650);
+/* harmony import */ var _environments_environment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7216);
+/* harmony import */ var _components_HeaderContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2405);
+/* harmony import */ var _styles_default_styles_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2355);
+/* harmony import */ var _styles_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1275);
+/* harmony import */ var _styles_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2154);
+/* harmony import */ var _styles_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7970);
+/* harmony import */ var _styles_tab_styles_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3118);
+/* harmony import */ var _styles_scenario_type_scss__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(1190);
+/* harmony import */ var _styles_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(3671);
+/* harmony import */ var _styles_medications_styles_scss__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(3338);
+/* harmony import */ var _components_UnauthedLayout__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(8221);
+/* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(3851);
+/* harmony import */ var _components_HomePage__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(6615);
+/* harmony import */ var _components_ScenarioTypeEditor_ScenarioTypeList__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(7824);
+/* harmony import */ var _components_ScenarioTypeEditor_NewScenarioType__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(6545);
+/* harmony import */ var _components_ScenarioTypeEditor_ScenarioType__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(3734);
+/* harmony import */ var _components_ScenarioEditor_ScenariosList__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(8300);
+/* harmony import */ var _components_ScenarioEditor_NewScenario__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(4082);
+/* harmony import */ var _components_ScenarioEditor_EditScenario__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(1966);
+/* harmony import */ var _components_ScenarioEditor_CloneScenario__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(8291);
+/* harmony import */ var _components_ScenarioEditor_PublishScenario__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(5562);
+/* harmony import */ var _components_ClassCodes_ClassCodesList__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(3769);
+/* harmony import */ var _components_ClassCodes_NewClassCode__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(5670);
+/* harmony import */ var _components_ClassCodes_ClassCode__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(647);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/App.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/App.js";
 
 
 
@@ -223,7 +223,7 @@ function App() {
 
 /***/ }),
 
-/***/ 8254:
+/***/ 647:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -234,10 +234,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCode.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCode.js";
 
 
 
@@ -647,7 +647,7 @@ function ClassCode(props) {
 
 /***/ }),
 
-/***/ 9535:
+/***/ 3769:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -658,10 +658,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCodesList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ClassCodes/ClassCodesList.js";
 
 
 
@@ -771,7 +771,7 @@ function ClassCodesList() {
 
 /***/ }),
 
-/***/ 7486:
+/***/ 5670:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -782,10 +782,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ClassCodes/NewClassCode.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ClassCodes/NewClassCode.js";
 
 
 
@@ -875,7 +875,7 @@ function NewClassCode() {
 
 /***/ }),
 
-/***/ 4733:
+/***/ 3851:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -886,10 +886,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6011);
-/* harmony import */ var _HeaderContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1468);
+/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7650);
+/* harmony import */ var _HeaderContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2405);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/Header.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/Header.js";
 
 
 
@@ -957,7 +957,7 @@ const Header = () => {
 
 /***/ }),
 
-/***/ 1468:
+/***/ 2405:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -977,7 +977,7 @@ const useHeader = () => (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(Header
 
 /***/ }),
 
-/***/ 7472:
+/***/ 6615:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -989,7 +989,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6643);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/HomePage.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/HomePage.js";
 
 
 
@@ -1033,7 +1033,7 @@ const HomePage = () => {
 
 /***/ }),
 
-/***/ 6152:
+/***/ 9282:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -1046,7 +1046,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3980);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/Modal.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/Modal.js";
 
 
 
@@ -1118,7 +1118,7 @@ Modal.defaultProps = {
 
 /***/ }),
 
-/***/ 3442:
+/***/ 2180:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -1133,13 +1133,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1835);
-/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
-/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5975);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3756);
+/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6405);
+/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9177);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/BasicInfo.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/BasicInfo.js";
 
 
 
@@ -1474,11 +1474,11 @@ function BasicInfo() {
           lineNumber: 225,
           columnNumber: 6
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("label", {
-          children: ["Weight (kg):", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
-            type: "number",
+          children: ["Weight:", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__.jsxDEV)("input", {
+            type: "text",
             id: `info.${pt}.weight`,
             value: dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default().get(state, 'info.patientInformation.weight'),
-            onChange: changeNumericFieldHandler
+            onChange: changeHandler
           }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 236,
@@ -1520,11 +1520,10 @@ function BasicInfo() {
     columnNumber: 3
   }, this);
 }
-;
 
 /***/ }),
 
-/***/ 8123:
+/***/ 4384:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -1539,12 +1538,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1835);
-/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3756);
+/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6405);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CheckListCorrectness.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CheckListCorrectness.js";
 
 
 
@@ -1756,7 +1755,7 @@ function CheckListCorrectness() {
 
 /***/ }),
 
-/***/ 7811:
+/***/ 8291:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -1766,12 +1765,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
-/* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1070);
-/* harmony import */ var _SetScenarioNameForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6653);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
+/* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9620);
+/* harmony import */ var _SetScenarioNameForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3518);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CloneScenario.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/CloneScenario.js";
 
 
 
@@ -1820,7 +1819,7 @@ function CloneScenario(props) {
 
 /***/ }),
 
-/***/ 8866:
+/***/ 1966:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -1832,23 +1831,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
-/* harmony import */ var _traumaScenario_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1070);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1835);
-/* harmony import */ var _HeaderContext_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1468);
-/* harmony import */ var _BasicInfo_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3442);
-/* harmony import */ var _PatientStatus_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3414);
-/* harmony import */ var _Steplist_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(3517);
-/* harmony import */ var _CheckListCorrectness_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8123);
-/* harmony import */ var _Medications_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(6171);
-/* harmony import */ var _InterventionAnswers_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(4736);
-/* harmony import */ var _ProblemsList__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(9362);
-/* harmony import */ var _Problem2__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(6462);
-/* harmony import */ var _Solution2__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(4297);
-/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
+/* harmony import */ var _traumaScenario_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9620);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3756);
+/* harmony import */ var _HeaderContext_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2405);
+/* harmony import */ var _BasicInfo_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2180);
+/* harmony import */ var _PatientStatus_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(337);
+/* harmony import */ var _Steplist_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7873);
+/* harmony import */ var _CheckListCorrectness_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(4384);
+/* harmony import */ var _Medications_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(629);
+/* harmony import */ var _InterventionAnswers_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7341);
+/* harmony import */ var _ProblemsList__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7392);
+/* harmony import */ var _Problem2__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(1755);
+/* harmony import */ var _Solution2__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(8928);
+/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/EditScenario.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/EditScenario.js";
 
 
 
@@ -2136,7 +2135,7 @@ function EditScenario() {
 
 /***/ }),
 
-/***/ 4736:
+/***/ 7341:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -2149,15 +2148,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7267);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2774);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5558);
-/* harmony import */ var _meddbriefer_scenario_data_utils__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7414);
-/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1835);
-/* harmony import */ var _IntvVariantPrompts__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(2648);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1657);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3811);
+/* harmony import */ var _meddbriefer_scenario_data_utils__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5773);
+/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6405);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3756);
+/* harmony import */ var _IntvVariantPrompts__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(520);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/InterventionAnswers.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/InterventionAnswers.js";
 
  // import classnames from "classnames";
 
@@ -2404,7 +2403,7 @@ function InterventionAnswers() {
 
 /***/ }),
 
-/***/ 2648:
+/***/ 520:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -2414,9 +2413,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/IntvVariantPrompts.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/IntvVariantPrompts.js";
 
  // import { useScenarioEditor } from "./ScenarioEditorContext"
 
@@ -2716,7 +2715,7 @@ const IntvVariantPrompts = ({
 
 /***/ }),
 
-/***/ 1424:
+/***/ 8686:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -2728,7 +2727,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _data_contraindications_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1091);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/MedContraindications.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/MedContraindications.js";
 
 
 
@@ -2795,7 +2794,7 @@ function Contraindications({
 
 /***/ }),
 
-/***/ 6171:
+/***/ 629:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -2807,10 +2806,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1835);
-/* harmony import */ var _MedContraindications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1424);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3756);
+/* harmony import */ var _MedContraindications__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8686);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Medications.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Medications.js";
 
 
 
@@ -3067,7 +3066,7 @@ const Med = ({
 
 /***/ }),
 
-/***/ 1470:
+/***/ 4082:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -3077,12 +3076,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
-/* harmony import */ var _traumaScenario_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1070);
-/* harmony import */ var _SetScenarioNameForm_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6653);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
+/* harmony import */ var _traumaScenario_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9620);
+/* harmony import */ var _SetScenarioNameForm_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3518);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/NewScenario.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/NewScenario.js";
 
 
 
@@ -3112,7 +3111,7 @@ function NewScenario() {
 
 /***/ }),
 
-/***/ 3414:
+/***/ 337:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -3127,13 +3126,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1835);
-/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3724);
-/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5975);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3756);
+/* harmony import */ var _ScenarioEditorLayout__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6405);
+/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9177);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PatientStatus.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PatientStatus.js";
 
 
 
@@ -3519,7 +3518,7 @@ function PatientStatus() {
 
 /***/ }),
 
-/***/ 6462:
+/***/ 1755:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -3532,16 +3531,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7267);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioEditor_ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1835);
-/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8630);
-/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9934);
-/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2838);
-/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1681);
-/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
-/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioEditor_ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3756);
+/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4139);
+/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9818);
+/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5436);
+/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6944);
+/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8008);
+/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Problem2.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Problem2.js";
 
 
 
@@ -3997,7 +3996,7 @@ const Problem2 = () => {
 
 /***/ }),
 
-/***/ 8630:
+/***/ 4139:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4006,13 +4005,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* binding */ ProblemsLayout)
 /* harmony export */ });
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1835);
-/* harmony import */ var _ScenarioTypeEditor_Breadcrumbs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6378);
-/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6896);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3756);
+/* harmony import */ var _ScenarioTypeEditor_Breadcrumbs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(668);
+/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(191);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsLayout.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsLayout.js";
 
 
 
@@ -4075,7 +4074,7 @@ function ProblemsLayout({
 
 /***/ }),
 
-/***/ 9362:
+/***/ 7392:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4086,15 +4085,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7267);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1835);
-/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8630);
-/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9934);
-/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2838);
-/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1681);
-/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8286);
-/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8463);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3756);
+/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4139);
+/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9818);
+/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5436);
+/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6944);
+/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8008);
+/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ProblemsList.js";
 
 
 
@@ -4240,7 +4239,7 @@ const ProblemsList = () => {
 
 /***/ }),
 
-/***/ 7586:
+/***/ 5562:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4253,11 +4252,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7267);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
-/* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1070);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1657);
+/* harmony import */ var _traumaScenario__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9620);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PublishScenario.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/PublishScenario.js";
 
 
 
@@ -4579,7 +4578,7 @@ function PublishScenario(props) {
 
 /***/ }),
 
-/***/ 1835:
+/***/ 3756:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4606,7 +4605,7 @@ const useScenarioEditor = () => (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext
 
 /***/ }),
 
-/***/ 3724:
+/***/ 6405:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4614,9 +4613,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6896);
+/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(191);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioEditorLayout.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioEditorLayout.js";
 
 
 
@@ -4666,7 +4665,7 @@ const ScenarioEditorLayout = ({
 
 /***/ }),
 
-/***/ 8829:
+/***/ 366:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4676,9 +4675,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2774);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
+/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioItem.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenarioItem.js";
 
 
 
@@ -4763,7 +4762,7 @@ const ScenarioItem = ({
 
 /***/ }),
 
-/***/ 8034:
+/***/ 8300:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4774,10 +4773,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenariosList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/ScenariosList.js";
 
 
 
@@ -4937,7 +4936,7 @@ const ListItem = ({
 
 /***/ }),
 
-/***/ 6653:
+/***/ 3518:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -4950,11 +4949,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7267);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
-/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5975);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1657);
+/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9177);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/SetScenarioNameForm.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/SetScenarioNameForm.js";
 
 
 
@@ -5080,7 +5079,7 @@ function SetScenarioNameForm({
 
 /***/ }),
 
-/***/ 4297:
+/***/ 8928:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -5091,16 +5090,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1835);
-/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8630);
-/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9934);
-/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2838);
-/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1681);
-/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
-/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3756);
+/* harmony import */ var _ProblemsLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4139);
+/* harmony import */ var _admins__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9818);
+/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5436);
+/* harmony import */ var _ScenarioTypeEditor_InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6944);
+/* harmony import */ var _ScenarioTypeEditor_urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8008);
+/* harmony import */ var _ScenarioTypeEditor_utils__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Solution2.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Solution2.js";
 
 
 
@@ -5113,7 +5112,7 @@ var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components
 
 
 
-const PROT_REL_OPTS = [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.REQ, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.ALT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.OPT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.CONTRA, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.IR, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.UNN].map(e => ({
+const PROT_REL_OPTS = [_meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.REQ, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.ALT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.OPT, _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__.PROTOCOL_RELATIONSHIPS.NOTIND].map(e => ({
   id: e,
   label: e
 }));
@@ -5622,7 +5621,7 @@ const Solution2 = () => {
 
 /***/ }),
 
-/***/ 3517:
+/***/ 7873:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -5637,15 +5636,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5558);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1835);
-/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5975);
-/* harmony import */ var _ScenarioItem_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8829);
-/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6896);
+/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3811);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioEditorContext__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3756);
+/* harmony import */ var _formUtils__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9177);
+/* harmony import */ var _ScenarioItem_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(366);
+/* harmony import */ var _ScenarioTypeEditor_SaveButton__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(191);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Steplist.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioEditor/Steplist.js";
 
 
 
@@ -5819,7 +5818,7 @@ function Steplist() {
 
 /***/ }),
 
-/***/ 5975:
+/***/ 9177:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -5837,7 +5836,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2774);
 /* harmony import */ var dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(dot_prop_immutable__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 
 
 
@@ -6018,7 +6017,7 @@ function deepCopy(obj) {
 
 /***/ }),
 
-/***/ 1070:
+/***/ 9620:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6028,7 +6027,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6635);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
+/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
 
 
 const REC_TYPES_WITH_FINDINGS = [_meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__.MDB_TYPES.ASSESS, _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_1__.MDB_TYPES.ASSESS_OPTION];
@@ -6375,7 +6374,7 @@ const updateSchema = (scen, scenType) => {
 
 /***/ }),
 
-/***/ 9707:
+/***/ 6397:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6384,7 +6383,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddButton.js";
 
 
 const AddButton = ({
@@ -6405,7 +6404,7 @@ const AddButton = ({
 
 /***/ }),
 
-/***/ 29:
+/***/ 4639:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6415,10 +6414,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
-/* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
+/* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6397);
+/* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7455);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddEntity.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AddEntity.js";
  // import { useScenarioType } from "./ScenarioTypeContext"
 
 
@@ -6594,7 +6593,7 @@ const AddEntity = ({
 
 /***/ }),
 
-/***/ 4288:
+/***/ 2196:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6604,10 +6603,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
-/* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
+/* harmony import */ var _AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6397);
+/* harmony import */ var _InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7455);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AssociateEntity.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/AssociateEntity.js";
  // import { useScenarioType } from "./ScenarioTypeContext"
 
 
@@ -6810,7 +6809,7 @@ const AssociateEntity = ({
 
 /***/ }),
 
-/***/ 6378:
+/***/ 668:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6820,7 +6819,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6643);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Breadcrumbs.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Breadcrumbs.js";
 
 
 
@@ -6863,7 +6862,7 @@ const BreadCrumbs = ({
 
 /***/ }),
 
-/***/ 8020:
+/***/ 2341:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -6873,13 +6872,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1681);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5124);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _InterventionsEditor_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6944);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6468);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddCheckListItem.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddCheckListItem.js";
 
 
 
@@ -7067,7 +7066,7 @@ const AddCheckListItem = ({
 
 /***/ }),
 
-/***/ 7502:
+/***/ 6948:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7077,9 +7076,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddOption.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddOption.js";
  // import { MDB_TYPES } from "@meddbriefer/scenario-data/constants"
 
 
@@ -7208,7 +7207,7 @@ const AddOption = ({
 
 /***/ }),
 
-/***/ 4378:
+/***/ 6426:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7218,10 +7217,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5124);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddSubPhase.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/AddSubPhase.js";
 
 
 
@@ -7342,7 +7341,7 @@ const AddSubPhase = ({
 
 /***/ }),
 
-/***/ 1412:
+/***/ 2430:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7350,9 +7349,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ButtonBar.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ButtonBar.js";
 
 
 
@@ -7407,7 +7406,7 @@ const ButtonBar = ({
 
 /***/ }),
 
-/***/ 5342:
+/***/ 4522:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7415,11 +7414,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2459);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _Modal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6152);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2246);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _Modal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9282);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ChangesModal.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ChangesModal.js";
 
  // import { MDB_TYPES } from "@meddbriefer/scenario-data/constants"
 
@@ -7760,7 +7759,7 @@ const ChangesModal = ({
 
 /***/ }),
 
-/***/ 587:
+/***/ 4035:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7770,9 +7769,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckBoxField.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckBoxField.js";
 
 
 
@@ -7808,7 +7807,7 @@ function CheckBoxField({
 
 /***/ }),
 
-/***/ 527:
+/***/ 4550:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -7820,16 +7819,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6011);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2459);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5124);
-/* harmony import */ var _Phase__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(670);
-/* harmony import */ var _PhaseList__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3197);
-/* harmony import */ var _SubPhase__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6235);
-/* harmony import */ var _ChangesModal__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(5342);
+/* harmony import */ var _meddbriefer_mdb_auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7650);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2246);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6468);
+/* harmony import */ var _Phase__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1667);
+/* harmony import */ var _PhaseList__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6558);
+/* harmony import */ var _SubPhase__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8371);
+/* harmony import */ var _ChangesModal__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(4522);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckList.js";
 
 
 
@@ -8289,7 +8288,7 @@ const CheckListEditor = () => {
 
 /***/ }),
 
-/***/ 5124:
+/***/ 6468:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8324,7 +8323,7 @@ const useCheckList = () => (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(Che
 
 /***/ }),
 
-/***/ 3860:
+/***/ 1632:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8332,12 +8331,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5558);
-/* harmony import */ var _SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3310);
-/* harmony import */ var _CheckListItemWithOptions__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6033);
-/* harmony import */ var _NestedChecklist__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6136);
+/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3811);
+/* harmony import */ var _SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2710);
+/* harmony import */ var _CheckListItemWithOptions__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7017);
+/* harmony import */ var _NestedChecklist__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8330);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItem.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItem.js";
 
 
 
@@ -8422,7 +8421,7 @@ const CheckListItem = ({
 
 /***/ }),
 
-/***/ 6033:
+/***/ 7017:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8432,15 +8431,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _AddOption__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7502);
-/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1412);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8307);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9378);
-/* harmony import */ var _SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3310);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _AddOption__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6948);
+/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2430);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8500);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1500);
+/* harmony import */ var _SimpleCheckListItem__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2710);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4858);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItemWithOptions.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/CheckListItemWithOptions.js";
 
 
 
@@ -8799,7 +8798,7 @@ const CheckListItemWithOptions = ({
 
 /***/ }),
 
-/***/ 8307:
+/***/ 8500:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8807,9 +8806,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/DeleteButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/DeleteButton.js";
 
 
 
@@ -8844,7 +8843,7 @@ const DeleteButton = ({
 
 /***/ }),
 
-/***/ 6136:
+/***/ 8330:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -8854,15 +8853,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8020);
-/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1412);
-/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3860);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8307);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9378);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2341);
+/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2430);
+/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1632);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8500);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1500);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4858);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/NestedChecklist.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/NestedChecklist.js";
 
 
 
@@ -9286,7 +9285,7 @@ const NestedChecklist = ({
 
 /***/ }),
 
-/***/ 670:
+/***/ 1667:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -9298,19 +9297,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(6643);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8020);
-/* harmony import */ var _AddSubPhase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4378);
-/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6378);
-/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1412);
-/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3860);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8307);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9378);
-/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1647);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8283);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(8286);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2341);
+/* harmony import */ var _AddSubPhase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6426);
+/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(668);
+/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2430);
+/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1632);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8500);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1500);
+/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8934);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(4858);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/Phase.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/Phase.js";
 
  // import classnames from "classnames"
 
@@ -9925,7 +9924,7 @@ const Phase = props => {
 
 /***/ }),
 
-/***/ 3197:
+/***/ 6558:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -9937,18 +9936,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5124);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2459);
-/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6378);
-/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1412);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8307);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9378);
-/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1647);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8283);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8286);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6468);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2246);
+/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(668);
+/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2430);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8500);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1500);
+/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8934);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(4858);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/PhaseList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/PhaseList.js";
 
 
 
@@ -10277,7 +10276,7 @@ const PhaseList = () => {
 
 /***/ }),
 
-/***/ 9378:
+/***/ 1500:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -10286,7 +10285,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ReadOnlyField.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/ReadOnlyField.js";
 
 
 const ReadOnlyField = ({
@@ -10332,7 +10331,7 @@ const ReadOnlyField = ({
 
 /***/ }),
 
-/***/ 1647:
+/***/ 8934:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -10340,9 +10339,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SaveChecklistButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SaveChecklistButton.js";
  // import { useScenarioType } from "../ScenarioTypeContext"
 
 
@@ -10374,7 +10373,7 @@ const SaveChecklistButton = () => {
 
 /***/ }),
 
-/***/ 3310:
+/***/ 2710:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -10384,14 +10383,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1412);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8307);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9378);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8283);
-/* harmony import */ var _CheckBoxField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(587);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _ButtonBar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2430);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8500);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1500);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4858);
+/* harmony import */ var _CheckBoxField__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4035);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SimpleCheckListItem.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SimpleCheckListItem.js";
 
 
 
@@ -10627,7 +10626,7 @@ function SimpleCheckListItem({
 
 /***/ }),
 
-/***/ 6235:
+/***/ 8371:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -10638,16 +10637,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(7267);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5124);
-/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8020);
-/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6378);
-/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3860);
-/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9378);
-/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1647);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8283);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6468);
+/* harmony import */ var _AddCheckListItem__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2341);
+/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(668);
+/* harmony import */ var _CheckListItem__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1632);
+/* harmony import */ var _ReadOnlyField__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1500);
+/* harmony import */ var _SaveChecklistButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8934);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4858);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SubPhase.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/SubPhase.js";
 
  // import classnames from "classnames"
 
@@ -11017,7 +11016,7 @@ const SubPhase = props => {
 
 /***/ }),
 
-/***/ 8283:
+/***/ 4858:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11029,9 +11028,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5124);
+/* harmony import */ var _CheckListContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6468);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/TextInput.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/CheckListEditor/TextInput.js";
 
 
 
@@ -11145,7 +11144,7 @@ const TextInput = ({
 
 /***/ }),
 
-/***/ 2571:
+/***/ 228:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11154,7 +11153,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Checkbox.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/Checkbox.js";
 
 
 const Checkbox = ({
@@ -11188,7 +11187,7 @@ const Checkbox = ({
 
 /***/ }),
 
-/***/ 3856:
+/***/ 7518:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11197,7 +11196,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedField.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedField.js";
 
 
 const ComputedField = ({
@@ -11217,7 +11216,7 @@ const ComputedField = ({
 
 /***/ }),
 
-/***/ 3553:
+/***/ 3112:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11227,9 +11226,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5350);
+/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5296);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedSelect.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ComputedSelect.js";
 
 
 
@@ -11273,7 +11272,7 @@ const ComputedSelect = ({
 
 /***/ }),
 
-/***/ 1432:
+/***/ 2790:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11282,7 +11281,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DeleteButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DeleteButton.js";
 
 
 const DeleteButton = ({
@@ -11305,7 +11304,7 @@ const DeleteButton = ({
 
 /***/ }),
 
-/***/ 6755:
+/***/ 3854:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11313,12 +11312,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6951);
-/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5350);
-/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2571);
-/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5646);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1011);
+/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5296);
+/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(228);
+/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1142);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DetailsEditor.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DetailsEditor.js";
 
 
 
@@ -11456,7 +11455,7 @@ const DetailsEditor = ({
 
 /***/ }),
 
-/***/ 5350:
+/***/ 5296:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11465,7 +11464,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DropDown.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/DropDown.js";
 
 
 const DropDown = ({
@@ -11510,7 +11509,7 @@ const DropDown = ({
 
 /***/ }),
 
-/***/ 8989:
+/***/ 8640:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11519,7 +11518,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/IndentedText.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/IndentedText.js";
 
 
 const IndentedText = ({
@@ -11543,7 +11542,7 @@ const IndentedText = ({
 
 /***/ }),
 
-/***/ 4952:
+/***/ 3579:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11554,17 +11553,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(6643);
-/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1432);
-/* harmony import */ var _IndentedText__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8989);
-/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2571);
-/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5350);
-/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5646);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6951);
-/* harmony import */ var _ItemButtons__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6994);
-/* harmony import */ var _ComputedField__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(3856);
-/* harmony import */ var _ComputedSelect__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3553);
+/* harmony import */ var _DeleteButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2790);
+/* harmony import */ var _IndentedText__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8640);
+/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(228);
+/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5296);
+/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1142);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1011);
+/* harmony import */ var _ItemButtons__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(5880);
+/* harmony import */ var _ComputedField__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7518);
+/* harmony import */ var _ComputedSelect__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(3112);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InlineEditor.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InlineEditor.js";
 
 
 
@@ -11951,7 +11950,7 @@ const InlineEditor = ({
 
 /***/ }),
 
-/***/ 6533:
+/***/ 7455:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -11960,7 +11959,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InputWithErrorMessage.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InputWithErrorMessage.js";
 
 
 
@@ -12005,7 +12004,7 @@ const InputWithErrorMessage = ({
 
 /***/ }),
 
-/***/ 6160:
+/***/ 7485:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12016,15 +12015,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4952);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(29);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3579);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4639);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/DistPromptsList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/DistPromptsList.js";
  // import classNames from "classnames"
 
 
@@ -12136,7 +12135,7 @@ const DistPromptsList = () => {
 
 /***/ }),
 
-/***/ 4407:
+/***/ 9590:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12147,17 +12146,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6755);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4952);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(29);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3854);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3579);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4639);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8008);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditDistPrompt.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditDistPrompt.js";
 
 
 
@@ -12366,7 +12365,7 @@ const EditDistPrompt = () => {
 
 /***/ }),
 
-/***/ 4995:
+/***/ 7048:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12377,18 +12376,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6755);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4952);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(29);
-/* harmony import */ var _AssociateEntity__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4288);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8286);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3854);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3579);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4639);
+/* harmony import */ var _AssociateEntity__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2196);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8008);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditIntervention.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditIntervention.js";
 
 
 
@@ -12674,7 +12673,7 @@ const EditIntervention = () => {
 
 /***/ }),
 
-/***/ 6808:
+/***/ 9048:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12685,17 +12684,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6755);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4952);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(29);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8286);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3854);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3579);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4639);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8008);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditPrompt.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/EditPrompt.js";
 
 
 
@@ -12925,7 +12924,7 @@ const EditPrompt = () => {
 
 /***/ }),
 
-/***/ 1492:
+/***/ 3745:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12933,10 +12932,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6378);
-/* harmony import */ var _SaveInterventionsButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6282);
+/* harmony import */ var _Breadcrumbs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(668);
+/* harmony import */ var _SaveInterventionsButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3180);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionEditorLayout.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionEditorLayout.js";
 
 
 
@@ -12969,7 +12968,7 @@ const InterventionsEditorLayout = ({
 
 /***/ }),
 
-/***/ 1685:
+/***/ 2222:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -12977,20 +12976,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7267);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(29);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4952);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4639);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3579);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
 
 const _excluded = ["items"];
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsList.js";
 
 
 
@@ -13060,7 +13059,7 @@ const InterventionsList = () => {
         const {
           items
         } = cat,
-              newCat = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(cat, _excluded);
+              newCat = (0,_Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(cat, _excluded);
 
         const newCatItems = items.filter(itemID => !myMenuItemIDs.includes(itemID));
         newCat.items = newCatItems;
@@ -13141,7 +13140,7 @@ const InterventionsList = () => {
 
 /***/ }),
 
-/***/ 3192:
+/***/ 3534:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13150,15 +13149,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7267);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1492);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(29);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4952);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8286);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8463);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3745);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4639);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3579);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8008);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenu.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenu.js";
 
 
 
@@ -13245,7 +13244,7 @@ const InterventionsMenu = () => {
 
 /***/ }),
 
-/***/ 9878:
+/***/ 5914:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13256,18 +13255,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5558);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2459);
-/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1492);
-/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6755);
-/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4952);
-/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(29);
-/* harmony import */ var _AssociateEntity__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4288);
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1681);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8286);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3811);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2246);
+/* harmony import */ var _InterventionEditorLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3745);
+/* harmony import */ var _DetailsEditor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3854);
+/* harmony import */ var _InlineEditor__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3579);
+/* harmony import */ var _AddEntity__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4639);
+/* harmony import */ var _AssociateEntity__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2196);
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(6944);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8008);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenuCategory.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/InterventionsMenuCategory.js";
 
 
 
@@ -13500,7 +13499,7 @@ const InterventionsMenuCategory = () => {
 
 /***/ }),
 
-/***/ 6282:
+/***/ 3180:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13508,10 +13507,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2459);
-/* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6896);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2246);
+/* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(191);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/SaveInterventionsButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/SaveInterventionsButton.js";
 
 
 
@@ -13546,7 +13545,7 @@ const SaveInterventionsButton = () => {
 
 /***/ }),
 
-/***/ 7732:
+/***/ 5878:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13556,16 +13555,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(6643);
-/* harmony import */ var _DistPromptsList__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6160);
-/* harmony import */ var _EditDistPrompt__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4407);
-/* harmony import */ var _EditIntervention__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4995);
-/* harmony import */ var _EditPrompt__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6808);
-/* harmony import */ var _InterventionsList__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1685);
-/* harmony import */ var _InterventionsMenu__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3192);
-/* harmony import */ var _InterventionsMenuCategory__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9878);
-/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8286);
+/* harmony import */ var _DistPromptsList__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7485);
+/* harmony import */ var _EditDistPrompt__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9590);
+/* harmony import */ var _EditIntervention__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7048);
+/* harmony import */ var _EditPrompt__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9048);
+/* harmony import */ var _InterventionsList__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2222);
+/* harmony import */ var _InterventionsMenu__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3534);
+/* harmony import */ var _InterventionsMenuCategory__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5914);
+/* harmony import */ var _urls__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8008);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/index.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/InterventionsEditor/index.js";
 
 
 
@@ -13696,7 +13695,7 @@ const InterventionsEditor = () => {
 
 /***/ }),
 
-/***/ 1681:
+/***/ 6944:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13713,7 +13712,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "genProblemRec": () => (/* binding */ genProblemRec),
 /* harmony export */   "genSolutionRec": () => (/* binding */ genSolutionRec)
 /* harmony export */ });
-/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5558);
+/* harmony import */ var _meddbriefer_scenario_data_constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3811);
 
 const genCheckListItemRec = (id, type, label, phase, subPhase, parentID) => {
   return {
@@ -13827,7 +13826,7 @@ const genActionRec = (interventionID, solutionID, problemID) => {
 
 /***/ }),
 
-/***/ 6994:
+/***/ 5880:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13836,7 +13835,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ItemButtons.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ItemButtons.js";
 
 
 
@@ -13898,7 +13897,7 @@ const ItemButtons = ({
 
 /***/ }),
 
-/***/ 4406:
+/***/ 8542:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13910,7 +13909,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _data_contraindications_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1091);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Contraindications.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Contraindications.js";
 
 
 
@@ -13981,7 +13980,7 @@ function Contraindications({
 
 /***/ }),
 
-/***/ 756:
+/***/ 9532:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13992,7 +13991,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Indications.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Indications.js";
 
 
 function Indications({
@@ -14063,7 +14062,7 @@ function Indications({
 
 /***/ }),
 
-/***/ 6402:
+/***/ 1704:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14075,10 +14074,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _assets_expand_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(397);
 /* harmony import */ var _assets_collapse_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1781);
-/* harmony import */ var _Contraindications_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4406);
-/* harmony import */ var _Indications_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(756);
+/* harmony import */ var _Contraindications_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8542);
+/* harmony import */ var _Indications_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9532);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medication.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medication.js";
 
 
 
@@ -14563,7 +14562,7 @@ const Medication = ({
 
 /***/ }),
 
-/***/ 3049:
+/***/ 3942:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14573,12 +14572,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2459);
-/* harmony import */ var _scripts_custom_hooks_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5375);
-/* harmony import */ var _Medication__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6402);
-/* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2647);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2246);
+/* harmony import */ var _scripts_custom_hooks_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1680);
+/* harmony import */ var _Medication__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1704);
+/* harmony import */ var _SaveButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(434);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medications.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/Medications.js";
 
 
 
@@ -14702,7 +14701,7 @@ const Medications = () => {
 
 /***/ }),
 
-/***/ 2647:
+/***/ 434:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14711,7 +14710,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/SaveButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/MedicationsEditor/SaveButton.js";
 
 
 const SaveButton = ({
@@ -14733,7 +14732,7 @@ const SaveButton = ({
 
 /***/ }),
 
-/***/ 3301:
+/***/ 6545:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14744,10 +14743,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7267);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/NewScenarioType.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/NewScenarioType.js";
 
 
 
@@ -14837,7 +14836,7 @@ function NewScenarioType() {
 
 /***/ }),
 
-/***/ 6896:
+/***/ 191:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14846,7 +14845,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/SaveButton.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/SaveButton.js";
 
 
 const SaveButton = ({
@@ -14878,7 +14877,7 @@ const SaveButton = ({
 
 /***/ }),
 
-/***/ 3259:
+/***/ 3734:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -14890,17 +14889,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7267);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5558);
-/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8913);
-/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2459);
-/* harmony import */ var _HeaderContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1468);
-/* harmony import */ var _CheckListEditor_CheckList__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(527);
-/* harmony import */ var _MedicationsEditor_Medications__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3049);
-/* harmony import */ var _InterventionsEditor__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(7732);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(8463);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data_constants_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3811);
+/* harmony import */ var _meddbriefer_scenario_data_index_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1657);
+/* harmony import */ var _ScenarioTypeContext__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2246);
+/* harmony import */ var _HeaderContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2405);
+/* harmony import */ var _CheckListEditor_CheckList__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4550);
+/* harmony import */ var _MedicationsEditor_Medications__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(3942);
+/* harmony import */ var _InterventionsEditor__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(5878);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(1167);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioType.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioType.js";
 
  // import classnames from "classnames"
 
@@ -15165,7 +15164,7 @@ function ScenarioType(props) {
 
 /***/ }),
 
-/***/ 2459:
+/***/ 2246:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15216,7 +15215,7 @@ const useScenarioType = () => (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(
 
 /***/ }),
 
-/***/ 6542:
+/***/ 7824:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15227,10 +15226,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6643);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9526);
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4551);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1657);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioTypeList.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/ScenarioTypeList.js";
 
 
 
@@ -15348,7 +15347,7 @@ function ScenarioTypeList(props) {
 
 /***/ }),
 
-/***/ 5646:
+/***/ 1142:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15357,7 +15356,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextArea.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextArea.js";
 
 
 const TextArea = ({
@@ -15392,7 +15391,7 @@ const TextArea = ({
 
 /***/ }),
 
-/***/ 6951:
+/***/ 1011:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15403,7 +15402,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextInput.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/ScenarioTypeEditor/TextInput.js";
 
 
 
@@ -15483,7 +15482,7 @@ const TextInput = ({
 
 /***/ }),
 
-/***/ 8286:
+/***/ 8008:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15602,7 +15601,7 @@ const PATHS = {
 
 /***/ }),
 
-/***/ 8463:
+/***/ 1167:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15617,7 +15616,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "swapUp": () => (/* binding */ swapUp),
 /* harmony export */   "updateObjInArray": () => (/* binding */ updateObjInArray)
 /* harmony export */ });
-/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 
 
 function _toPropertyKey(arg) { var key = _toPrimitive(arg, "string"); return typeof key === "symbol" ? key : String(key); }
@@ -15630,7 +15629,7 @@ const immutableAddOrUpdateObjectKey = (prevState, key, value) => {
   });
 };
 const immutableRemoveObjectKey = (prevState, key) => {
-  const remainingProperties = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(prevState, [key].map(_toPropertyKey));
+  const remainingProperties = (0,_Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(prevState, [key].map(_toPropertyKey));
 
   return remainingProperties;
 };
@@ -15672,7 +15671,7 @@ const groupByKey = (list, key) => list.reduce((hash, obj) => Object.assign({}, h
 
 /***/ }),
 
-/***/ 592:
+/***/ 8221:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15692,7 +15691,7 @@ const UnauthedLayout = props => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_I
 
 /***/ }),
 
-/***/ 6591:
+/***/ 1610:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15702,10 +15701,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _ScenarioTypeEditor_AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
-/* harmony import */ var _ScenarioTypeEditor_InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6533);
+/* harmony import */ var _ScenarioTypeEditor_AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6397);
+/* harmony import */ var _ScenarioTypeEditor_InputWithErrorMessage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7455);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/AddModel.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/AddModel.js";
 
 
 
@@ -15910,7 +15909,7 @@ const AddModel = ({
 
 /***/ }),
 
-/***/ 8672:
+/***/ 1562:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -15920,11 +15919,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _ScenarioTypeEditor_AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9707);
-/* harmony import */ var _SearchEntity__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3196);
-/* harmony import */ var _SelectEntity__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5513);
+/* harmony import */ var _ScenarioTypeEditor_AddButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6397);
+/* harmony import */ var _SearchEntity__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7119);
+/* harmony import */ var _SelectEntity__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8346);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/AssociateModel.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/AssociateModel.js";
 
 
 
@@ -16051,7 +16050,7 @@ const AssociateModel = ({
 
 /***/ }),
 
-/***/ 7931:
+/***/ 1266:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16062,11 +16061,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6643);
-/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2838);
-/* harmony import */ var _ScenarioTypeEditor_ItemButtons__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6994);
-/* harmony import */ var _ScenarioTypeEditor_DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1432);
+/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5436);
+/* harmony import */ var _ScenarioTypeEditor_ItemButtons__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5880);
+/* harmony import */ var _ScenarioTypeEditor_DeleteButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2790);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/InlineModelAdmin.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/InlineModelAdmin.js";
 
 
 
@@ -16350,7 +16349,7 @@ const InlineModelAdmin = ({
 
 /***/ }),
 
-/***/ 8557:
+/***/ 7719:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16358,9 +16357,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2838);
+/* harmony import */ var _widgets__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5436);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/ModelAdmin.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/ModelAdmin.js";
 
 
 
@@ -16455,7 +16454,7 @@ const ModelAdmin = ({
 
 /***/ }),
 
-/***/ 3196:
+/***/ 7119:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16464,7 +16463,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/SearchEntity.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/SearchEntity.js";
 
 
 
@@ -16506,7 +16505,7 @@ const SearchEntity = ({
 
 /***/ }),
 
-/***/ 5513:
+/***/ 8346:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16515,7 +16514,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/admins/SelectEntity.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/admins/SelectEntity.js";
 
 
 const SelectEntity = ({
@@ -16551,7 +16550,7 @@ const SelectEntity = ({
 
 /***/ }),
 
-/***/ 9934:
+/***/ 9818:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16562,10 +16561,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "InlineModelAdmin": () => (/* reexport safe */ _InlineModelAdmin__WEBPACK_IMPORTED_MODULE_1__["default"]),
 /* harmony export */   "ModelAdmin": () => (/* reexport safe */ _ModelAdmin__WEBPACK_IMPORTED_MODULE_0__["default"])
 /* harmony export */ });
-/* harmony import */ var _ModelAdmin__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8557);
-/* harmony import */ var _InlineModelAdmin__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7931);
-/* harmony import */ var _AddModel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6591);
-/* harmony import */ var _AssociateModel__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8672);
+/* harmony import */ var _ModelAdmin__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7719);
+/* harmony import */ var _InlineModelAdmin__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1266);
+/* harmony import */ var _AddModel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1610);
+/* harmony import */ var _AssociateModel__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1562);
 
 
 
@@ -16573,7 +16572,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 5844:
+/***/ 259:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16582,7 +16581,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Checkbox.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/Checkbox.js";
 
 
 const Checkbox = ({
@@ -16612,7 +16611,7 @@ const Checkbox = ({
 
 /***/ }),
 
-/***/ 3186:
+/***/ 9209:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16621,7 +16620,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/DropDown.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/DropDown.js";
 
 
 const DropDown = ({
@@ -16667,7 +16666,7 @@ const DropDown = ({
 
 /***/ }),
 
-/***/ 888:
+/***/ 6083:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16675,11 +16674,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9663);
 
 const _excluded = ["widget"];
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Field.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/Field.js";
 
 
 const Field = ({
@@ -16689,7 +16688,7 @@ const Field = ({
   const {
     widget: Component
   } = fld,
-        rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(fld, _excluded);
+        rest = (0,_Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(fld, _excluded);
 
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)(Component, Object.assign({
     entity: entity
@@ -16704,7 +16703,7 @@ const Field = ({
 
 /***/ }),
 
-/***/ 6292:
+/***/ 8786:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16717,7 +16716,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/Text.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/Text.js";
 
 
 
@@ -16786,7 +16785,7 @@ const Text = ({
 
 /***/ }),
 
-/***/ 3858:
+/***/ 4250:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16795,7 +16794,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/TextArea.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/TextArea.js";
 
 
 const TextArea = ({
@@ -16829,7 +16828,7 @@ const TextArea = ({
 
 /***/ }),
 
-/***/ 6075:
+/***/ 5021:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16838,7 +16837,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/components/widgets/TextInput.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/components/widgets/TextInput.js";
 
 
 const TextInput = ({
@@ -16875,7 +16874,7 @@ const TextInput = ({
 
 /***/ }),
 
-/***/ 2838:
+/***/ 5436:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16888,12 +16887,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "TextArea": () => (/* reexport safe */ _TextArea__WEBPACK_IMPORTED_MODULE_4__["default"]),
 /* harmony export */   "TextInput": () => (/* reexport safe */ _TextInput__WEBPACK_IMPORTED_MODULE_5__["default"])
 /* harmony export */ });
-/* harmony import */ var _Field__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(888);
-/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5844);
-/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3186);
-/* harmony import */ var _Text__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6292);
-/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3858);
-/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6075);
+/* harmony import */ var _Field__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6083);
+/* harmony import */ var _Checkbox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(259);
+/* harmony import */ var _DropDown__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9209);
+/* harmony import */ var _Text__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8786);
+/* harmony import */ var _TextArea__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4250);
+/* harmony import */ var _TextInput__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5021);
 
 
 
@@ -16903,7 +16902,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 3015:
+/***/ 7216:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16915,12 +16914,12 @@ __webpack_require__.r(__webpack_exports__);
 // When building for production, this file is replaced with `environment.prod.ts`.
 const environment = {
   production: false,
-  firebaseProject: "MedDBrieferDev"
+  firebaseProject: "ScottDev" || 0
 };
 
 /***/ }),
 
-/***/ 7645:
+/***/ 9782:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16928,9 +16927,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_dom_client__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7029);
-/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7295);
+/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6619);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/apps/data-entry/src/main.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/apps/data-entry/src/main.js";
 
 
 
@@ -16950,7 +16949,7 @@ root.render( /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.
 
 /***/ }),
 
-/***/ 5375:
+/***/ 1680:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16979,7 +16978,7 @@ function useDebug(callback) {
 
 /***/ }),
 
-/***/ 6011:
+/***/ 7650:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -16991,10 +16990,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "PrivateRoute": () => (/* reexport safe */ _lib_routes_PrivateRoute__WEBPACK_IMPORTED_MODULE_2__["default"]),
 /* harmony export */   "StaffRoute": () => (/* reexport safe */ _lib_routes_StaffRoute__WEBPACK_IMPORTED_MODULE_3__["default"])
 /* harmony export */ });
-/* harmony import */ var _lib_contexts_Auth__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5600);
-/* harmony import */ var _lib_components_AuthFlow__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2956);
-/* harmony import */ var _lib_routes_PrivateRoute__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9585);
-/* harmony import */ var _lib_routes_StaffRoute__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(609);
+/* harmony import */ var _lib_contexts_Auth__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4532);
+/* harmony import */ var _lib_components_AuthFlow__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3302);
+/* harmony import */ var _lib_routes_PrivateRoute__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(532);
+/* harmony import */ var _lib_routes_StaffRoute__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8669);
 
 
 
@@ -17003,7 +17002,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 2956:
+/***/ 3302:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17013,14 +17012,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5600);
-/* harmony import */ var _LoginForm__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9907);
-/* harmony import */ var _RegistrationForm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5032);
-/* harmony import */ var _ForgotPasswordForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4516);
-/* harmony import */ var _EmailVerification__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7650);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4532);
+/* harmony import */ var _LoginForm__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2581);
+/* harmony import */ var _RegistrationForm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9499);
+/* harmony import */ var _ForgotPasswordForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6548);
+/* harmony import */ var _EmailVerification__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3142);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/AuthFlow.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/AuthFlow.js";
 
 
 
@@ -17090,7 +17089,7 @@ const AuthFlow = ({
 
 /***/ }),
 
-/***/ 7650:
+/***/ 3142:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17102,9 +17101,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7122);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(4292);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5600);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4532);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/EmailVerification.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/EmailVerification.js";
  // useCallback, 
 
  // import cn from "classnames"
@@ -17294,7 +17293,7 @@ const EmailVerification = () => {
 
 /***/ }),
 
-/***/ 4516:
+/***/ 6548:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17306,10 +17305,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5600);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4532);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/ForgotPasswordForm.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/ForgotPasswordForm.js";
 
 
 
@@ -17455,7 +17454,7 @@ const ForgotPasswordForm = () => {
 
 /***/ }),
 
-/***/ 9907:
+/***/ 2581:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17471,11 +17470,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2779);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5600);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4532);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(4292);
-/* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3391);
+/* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7450);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/LoginForm.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/LoginForm.js";
 
 
 
@@ -17681,7 +17680,7 @@ const LoginForm = () => {
 
 /***/ }),
 
-/***/ 5032:
+/***/ 9499:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17693,15 +17692,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6886);
 /* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2784);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2779);
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4292);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5600);
-/* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3391);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/RegistrationForm.js";
+/* harmony import */ var core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3439);
+/* harmony import */ var core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9529);
+/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1235);
+/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2784);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2779);
+/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4292);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(4532);
+/* harmony import */ var _icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(7450);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(9663);
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/RegistrationForm.js";
+
+
+
 
 
 
@@ -17712,99 +17720,133 @@ var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/componen
 
 
 const RegistrationForm = () => {
-  const [passwordVisible, setPasswordVisible] = (0,react__WEBPACK_IMPORTED_MODULE_2__.useState)(false);
-  const [confirmPasswordVisible, setConfirmPasswordVisible] = (0,react__WEBPACK_IMPORTED_MODULE_2__.useState)(false);
+  const [passwordVisible, setPasswordVisible] = (0,react__WEBPACK_IMPORTED_MODULE_5__.useState)(false);
+  const [confirmPasswordVisible, setConfirmPasswordVisible] = (0,react__WEBPACK_IMPORTED_MODULE_5__.useState)(false);
+  const [validClassCode, setIsValidClassCode] = (0,react__WEBPACK_IMPORTED_MODULE_5__.useState)(true);
 
   const togglePasswordVisibility = () => setPasswordVisible(!passwordVisible);
 
   const toggleConfirmPasswordVisibility = () => setConfirmPasswordVisible(!confirmPasswordVisible);
 
   const {
+    getClassCodes,
     setCurrAuthComponent,
     registerErrorMsg,
     registerUserWithEmailAndPassword
-  } = (0,react__WEBPACK_IMPORTED_MODULE_2__.useContext)(_contexts_Auth__WEBPACK_IMPORTED_MODULE_5__.AuthContext);
+  } = (0,react__WEBPACK_IMPORTED_MODULE_5__.useContext)(_contexts_Auth__WEBPACK_IMPORTED_MODULE_8__.AuthContext);
 
   const alreadyHaveAccount = event => {
     event.preventDefault();
-    setCurrAuthComponent(_contexts_Auth__WEBPACK_IMPORTED_MODULE_5__.AUTH_FLOW_COMPONENTS.LOGIN); // console.log("I already have an account")
+    setCurrAuthComponent(_contexts_Auth__WEBPACK_IMPORTED_MODULE_8__.AUTH_FLOW_COMPONENTS.LOGIN); // console.log("I already have an account")
   };
 
-  const handleSignUp = event => {
+  const handleSignUp = async event => {
     event.preventDefault();
+    const validClassCodes = await getClassCodes();
     const {
       classCode,
       email,
       password
     } = event.target.elements;
-    registerUserWithEmailAndPassword(email.value, password.value, classCode.value);
+
+    if (validClassCodes.includes(classCode.value)) {
+      registerUserWithEmailAndPassword(email.value, password.value, classCode.value);
+    } else {
+      setIsValidClassCode(false);
+    }
   };
 
-  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("form", {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("form", {
       onSubmit: handleSignUp,
-      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-        className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].container,
-        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("h3", {
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+        className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].container,
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("h3", {
             children: "Sign up for MedDBriefer"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 42,
+            lineNumber: 48,
             columnNumber: 25
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 41,
+          lineNumber: 47,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("label", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("label", {
             htmlFor: "classCode",
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-form-label"]),
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-form-label"]),
             children: "Class Code"
-          }, void 0, false, {
-            fileName: _jsxFileName,
-            lineNumber: 45,
-            columnNumber: 25
-          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-9"],
-            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("input", {
-              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["form-control"],
-              id: "classCode",
-              name: "classCode",
-              type: "text",
-              placeholder: "example: demo",
-              required: true
-            }, void 0, false, {
-              fileName: _jsxFileName,
-              lineNumber: 52,
-              columnNumber: 29
-            }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 51,
             columnNumber: 25
+          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-9"],
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("input", {
+              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["form-control"],
+              id: "classCode",
+              name: "classCode",
+              type: "text",
+              placeholder: "example: demo",
+              autoComplete: "off",
+              onInput: () => setIsValidClassCode(true),
+              required: true
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 58,
+              columnNumber: 29
+            }, undefined)
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 57,
+            columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 44,
+          lineNumber: 50,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("label", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          style: {
+            display: validClassCode ? "none" : "block"
+          },
+          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-12"],
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("span", {
+              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["text-danger"],
+              children: "Invalid class code, if you are here for an experiment, type 'trial1', otherwise enter 'demo'"
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 72,
+              columnNumber: 29
+            }, undefined)
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 71,
+            columnNumber: 25
+          }, undefined)
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 70,
+          columnNumber: 21
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row),
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("label", {
             htmlFor: "emailAddress",
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-form-label"]),
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-form-label"]),
             children: "Email"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 63,
+            lineNumber: 78,
             columnNumber: 25
-          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-9"],
-            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("input", {
-              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["form-control"],
+          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-9"],
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("input", {
+              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["form-control"],
               id: "emailAddress",
               name: "email",
               type: "email",
@@ -17812,72 +17854,72 @@ const RegistrationForm = () => {
               required: true
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 70,
+              lineNumber: 85,
               columnNumber: 29
             }, undefined)
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 69,
+            lineNumber: 84,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 62,
+          lineNumber: 77,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("label", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("label", {
             htmlFor: "password",
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-form-label"]),
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-form-label"]),
             children: "Password"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 81,
+            lineNumber: 96,
             columnNumber: 25
-          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-9"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["input-group"]),
-            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("input", {
+          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-9"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["input-group"]),
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("input", {
               id: "password",
               name: "password",
               type: passwordVisible ? "text" : "password",
-              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["form-control"],
+              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["form-control"],
               placeholder: "Enter password",
               required: true
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 88,
+              lineNumber: 103,
               columnNumber: 29
-            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__["default"], {
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)(_icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_9__["default"], {
               visible: passwordVisible,
               stateToggler: togglePasswordVisibility
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 96,
+              lineNumber: 111,
               columnNumber: 29
             }, undefined)]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 87,
+            lineNumber: 102,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 80,
+          lineNumber: 95,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("label", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("label", {
             htmlFor: "confirmPassword",
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-form-label"]),
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-3"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-form-label"]),
             children: "Confirm Password"
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 103,
+            lineNumber: 118,
             columnNumber: 25
-          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-            className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["col-sm-9"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["input-group"]),
-            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("input", {
-              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["form-control"],
+          }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+            className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-9"], _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["input-group"]),
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("input", {
+              className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["form-control"],
               id: "confirmPassword",
               name: "confirmPassword",
               type: confirmPasswordVisible ? "text" : "password",
@@ -17885,70 +17927,70 @@ const RegistrationForm = () => {
               required: true
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 110,
+              lineNumber: 125,
               columnNumber: 29
-            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)(_icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_6__["default"], {
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)(_icons_PasswordVisibilityIcon__WEBPACK_IMPORTED_MODULE_9__["default"], {
               visible: confirmPasswordVisible,
               stateToggler: toggleConfirmPasswordVisibility
             }, void 0, false, {
               fileName: _jsxFileName,
-              lineNumber: 118,
+              lineNumber: 133,
               columnNumber: 29
             }, undefined)]
           }, void 0, true, {
             fileName: _jsxFileName,
-            lineNumber: 109,
+            lineNumber: 124,
             columnNumber: 25
           }, undefined)]
         }, void 0, true, {
           fileName: _jsxFileName,
-          lineNumber: 102,
+          lineNumber: 117,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("div", {
-          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].row,
-          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("p", {
-            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["text-danger"],
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("div", {
+          className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].row,
+          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("p", {
+            className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["text-danger"],
             children: registerErrorMsg
           }, void 0, false, {
             fileName: _jsxFileName,
-            lineNumber: 125,
+            lineNumber: 140,
             columnNumber: 25
           }, undefined)
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 124,
+          lineNumber: 139,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("button", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("button", {
           type: "submit",
-          className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].btn, _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["btn-primary"]),
+          className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].btn, _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["btn-primary"]),
           children: "Sign Up"
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 130,
+          lineNumber: 145,
           columnNumber: 21
-        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_7__.jsxDEV)("button", {
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("button", {
           type: "button",
-          className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"].btn, _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_4__["default"]["btn-link"]),
+          className: classnames__WEBPACK_IMPORTED_MODULE_6___default()(_styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"].btn, _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["btn-link"]),
           onClick: alreadyHaveAccount,
           children: "I already have an account."
         }, void 0, false, {
           fileName: _jsxFileName,
-          lineNumber: 136,
+          lineNumber: 151,
           columnNumber: 21
         }, undefined)]
       }, void 0, true, {
         fileName: _jsxFileName,
-        lineNumber: 40,
+        lineNumber: 46,
         columnNumber: 17
       }, undefined)
     }, void 0, false, {
       fileName: _jsxFileName,
-      lineNumber: 39,
+      lineNumber: 45,
       columnNumber: 13
     }, undefined)
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 44,
     columnNumber: 9
   }, undefined);
 };
@@ -17957,7 +17999,7 @@ const RegistrationForm = () => {
 
 /***/ }),
 
-/***/ 3391:
+/***/ 7450:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -17971,7 +18013,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4292);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/components/icons/PasswordVisibilityIcon.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/components/icons/PasswordVisibilityIcon.js";
 
 
 
@@ -17996,7 +18038,7 @@ const PasswordVisibilityIcon = ({
 
 /***/ }),
 
-/***/ 5600:
+/***/ 4532:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18014,9 +18056,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9526);
+/* harmony import */ var _meddbriefer_mdb_firebase__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4551);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/contexts/Auth.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/contexts/Auth.js";
 
 
 
@@ -18222,6 +18264,15 @@ function AuthProvider({
     return data.data();
   };
 
+  const getClassCodes = async () => {
+    const ccSnapShot = await db.collection("class-codes").get();
+    const classCodes = ccSnapShot.docs.map(doc => {
+      const data = doc.data();
+      return data.name;
+    });
+    return classCodes;
+  };
+
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxDEV)(AuthContext.Provider, {
     value: {
       auth,
@@ -18248,19 +18299,20 @@ function AuthProvider({
       userPrefs,
       setUserPrefs,
       saveUserData,
-      getUserData
+      getUserData,
+      getClassCodes
     },
     children: children
   }, void 0, false, {
     fileName: _jsxFileName,
-    lineNumber: 218,
+    lineNumber: 227,
     columnNumber: 5
   }, this);
 }
 
 /***/ }),
 
-/***/ 9585:
+/***/ 532:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18268,18 +18320,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3105);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7267);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5600);
-/* harmony import */ var _components_AuthFlow__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2956);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4532);
+/* harmony import */ var _components_AuthFlow__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3302);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
 
 const _excluded = ["component", "authFlowLayout"];
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/routes/PrivateRoute.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/routes/PrivateRoute.js";
 
 
 /* eslint-disable no-extra-boolean-cast */
@@ -18294,7 +18346,7 @@ const PrivateRoute = _ref => {
     component: RouteComponent,
     authFlowLayout: Layout
   } = _ref,
-      rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
+      rest = (0,_Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
 
   const {
     emailVerified
@@ -18360,7 +18412,7 @@ const PrivateRoute = _ref => {
 
 /***/ }),
 
-/***/ 609:
+/***/ 8669:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18368,18 +18420,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
+/* harmony import */ var _Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1461);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3105);
 /* harmony import */ var core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7267);
-/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5600);
-/* harmony import */ var _components_AuthFlow__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2956);
+/* harmony import */ var _contexts_Auth__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4532);
+/* harmony import */ var _components_AuthFlow__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3302);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9663);
 
 const _excluded = ["component", "authFlowLayout"];
-var _jsxFileName = "/Users/user/Projects/monorepo/libs/mdb-auth/src/lib/routes/StaffRoute.js";
+var _jsxFileName = "/Users/sts125/projects/monorepo/libs/mdb-auth/src/lib/routes/StaffRoute.js";
 
 
 
@@ -18406,7 +18458,7 @@ const StaffRoute = _ref => {
     component: RouteComponent,
     authFlowLayout: Layout
   } = _ref,
-      rest = (0,_Users_user_Projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
+      rest = (0,_Users_sts125_projects_monorepo_node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js__WEBPACK_IMPORTED_MODULE_0__["default"])(_ref, _excluded);
 
   const {
     isAuthenticated,
@@ -18496,59 +18548,59 @@ const StaffRoute = _ref => {
 
 /***/ }),
 
-/***/ 4781:
+/***/ 8940:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.checklist-editor {\n  /*button:disabled {\n      background-color: lightgray;\n      pointer-events: none;\n  }*/\n}\n.checklist-editor hr {\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor b {\n  font-weight: bold;\n}\n.checklist-editor a {\n  color: purple;\n}\n.checklist-editor colgroup {\n  width: 100%;\n}\n.checklist-editor fieldset {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  margin-left: 45px;\n}\n.checklist-editor fieldset.top-level {\n  margin-left: 5px;\n}\n.checklist-editor legend {\n  padding-left: 5px;\n}\n.checklist-editor div.changed-ids {\n  margin-top: 20px;\n}\n.checklist-editor table {\n  width: 100%;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.checklist-editor label {\n  padding-left: 5px;\n}\n.checklist-editor button {\n  background-color: white;\n}\n.checklist-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.delete-btn {\n  margin-left: 10px;\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.checklist-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.checklist-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.checklist-editor .has-error {\n  border: 1 px solid red;\n  background-color: pink;\n}\n.checklist-editor .error-message {\n  color: red;\n}\n.checklist-editor .phase {\n  border: 1px solid black;\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .sub-phase {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .assessment-with-options {\n  border: 1px solid red;\n}\n.checklist-editor .decision {\n  border: 1px solid blue;\n}\n.checklist-editor .add-item {\n  margin-top: 10px;\n  margin-bottom: 4px;\n}\n.checklist-editor .indent-1 {\n  margin-left: 20px;\n}\n.checklist-editor .indent-2 {\n  margin-left: 40px;\n}\n.checklist-editor .indent-3 {\n  margin-left: 60px;\n}\n.checklist-editor .indent-4 {\n  margin-left: 80px;\n}\n.scenario-type-selector {\n  padding: 1.5rem;\n}\n.scenario-type-selector a {\n  display: inline-block;\n  padding: 2rem 3rem;\n  border: 1px solid #333;\n  border-radius: 0.5rem;\n  font-size: 1.25rem;\n  margin: 0.5rem 0;\n}\n.scenario-type-selector a:hover {\n  background-color: #ddd;\n}\n.hidden {\n  display: none;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/checklist-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AASA;EAoDI;;;IAAA;AAtDJ;AAII;EACI,eAAA;EACA,kBAAA;AAFR;AAKI;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;AALR;AAQI;EACI,gBAAA;EACA,mBAAA;EACA,iBAAA;AANR;AAQI;EACI,gBAAA;AANR;AASI;EACI,iBAAA;AAPR;AAUI;EACI,gBAAA;AARR;AAWI;EACI,WAAA;EACA,eAAA;EACA,kBAAA;AATR;AAWI;EACI,gBAAA;EACA,iBAAA;AATR;AAWI;EACI,iBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAgBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EACA,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EAEA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAiBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAhBR;AAkBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAhBR;AAmBI;EACI,sBAAA;EACA,sBAAA;AAjBR;AAoBI;EACI,UAAA;AAlBR;AAoBI;EACI,uBAAA;EACA,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAnBR;AAsBI;EACI,qBAAA;AApBR;AAsBI;EACI,sBAAA;AApBR;AAuBI;EACI,gBAAA;EACA,kBAAA;AArBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAkCA;EACI,eAAA;AA/BJ;AAiCI;EACI,qBAAA;EACA,kBAAA;EACA,sBAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;AA/BR;AAiCQ;EACI,sBAAA;AA/BZ;AAoCA;EACI,aAAA;AAjCJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.checklist-editor {\n\n    hr {\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    colgroup {\n        width: 100%;\n    }\n\n    fieldset {\n        padding-top: 5px;\n        padding-bottom: 5px;\n        margin-left: 45px;\n    }\n    fieldset.top-level {\n        margin-left: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n    }\n\n    div.changed-ids {\n        margin-top: 20px;\n    }\n\n    table {\n        width: 100%;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n    label {\n        padding-left: 5px;\n    }\n\n    button {\n        background-color: white;\n    }\n    /*button:disabled {\n        background-color: lightgray;\n        pointer-events: none;\n    }*/\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.delete-btn {\n        margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.add-btn {\n        margin-left: 10px;\n        // font-size: smaller;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .has-error {\n        border: 1 px solid red;\n        background-color: pink;\n    }\n\n    .error-message {\n        color: red;\n    }\n    .phase {\n        border: 1px solid black;\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .sub-phase {\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .assessment-with-options {\n        border: 1px solid red;\n    }\n    .decision {\n        border: 1px solid blue;\n    }\n\n    .add-item {\n        margin-top: 10px;\n        margin-bottom: 4px;\n    }\n\n    .indent-1 {\n        margin-left: 20px;\n    }\n    .indent-2 {\n        margin-left: 40px\n    }\n    .indent-3 {\n        margin-left: 60px;\n    }\n    .indent-4 {\n        margin-left: 80px;\n    }\n\n    // .save-button-wrapper {\n    //     display: flex;\n    //     flex-flow: row-reverse;\n    // }\n\n}\n\n\n\n.scenario-type-selector {\n    padding: 1.5rem;\n\n    a {\n        display: inline-block;\n        padding: 2rem 3rem;\n        border: 1px solid #333;\n        border-radius: 0.5rem;\n        font-size: 1.25rem;\n        margin: 0.5rem 0;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}\n\n.hidden {\n    display: none;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.checklist-editor {\n  /*button:disabled {\n      background-color: lightgray;\n      pointer-events: none;\n  }*/\n}\n.checklist-editor hr {\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor b {\n  font-weight: bold;\n}\n.checklist-editor a {\n  color: purple;\n}\n.checklist-editor colgroup {\n  width: 100%;\n}\n.checklist-editor fieldset {\n  padding-top: 5px;\n  padding-bottom: 5px;\n  margin-left: 45px;\n}\n.checklist-editor fieldset.top-level {\n  margin-left: 5px;\n}\n.checklist-editor legend {\n  padding-left: 5px;\n}\n.checklist-editor div.changed-ids {\n  margin-top: 20px;\n}\n.checklist-editor table {\n  width: 100%;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.checklist-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.checklist-editor label {\n  padding-left: 5px;\n}\n.checklist-editor button {\n  background-color: white;\n}\n.checklist-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.delete-btn {\n  margin-left: 10px;\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.checklist-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.checklist-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.checklist-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.checklist-editor .has-error {\n  border: 1 px solid red;\n  background-color: pink;\n}\n.checklist-editor .error-message {\n  color: red;\n}\n.checklist-editor .phase {\n  border: 1px solid black;\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .sub-phase {\n  padding-top: 10px;\n  padding-bottom: 10px;\n  margin-top: 2px;\n  margin-bottom: 2px;\n}\n.checklist-editor .assessment-with-options {\n  border: 1px solid red;\n}\n.checklist-editor .decision {\n  border: 1px solid blue;\n}\n.checklist-editor .add-item {\n  margin-top: 10px;\n  margin-bottom: 4px;\n}\n.checklist-editor .indent-1 {\n  margin-left: 20px;\n}\n.checklist-editor .indent-2 {\n  margin-left: 40px;\n}\n.checklist-editor .indent-3 {\n  margin-left: 60px;\n}\n.checklist-editor .indent-4 {\n  margin-left: 80px;\n}\n.scenario-type-selector {\n  padding: 1.5rem;\n}\n.scenario-type-selector a {\n  display: inline-block;\n  padding: 2rem 3rem;\n  border: 1px solid #333;\n  border-radius: 0.5rem;\n  font-size: 1.25rem;\n  margin: 0.5rem 0;\n}\n.scenario-type-selector a:hover {\n  background-color: #ddd;\n}\n.hidden {\n  display: none;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/checklist-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AASA;EAoDI;;;IAAA;AAtDJ;AAII;EACI,eAAA;EACA,kBAAA;AAFR;AAKI;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;AALR;AAQI;EACI,gBAAA;EACA,mBAAA;EACA,iBAAA;AANR;AAQI;EACI,gBAAA;AANR;AASI;EACI,iBAAA;AAPR;AAUI;EACI,gBAAA;AARR;AAWI;EACI,WAAA;EACA,eAAA;EACA,kBAAA;AATR;AAWI;EACI,gBAAA;EACA,iBAAA;AATR;AAWI;EACI,iBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAgBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EACA,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAgBI;EACI,iBAAA;EAEA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAiBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAhBR;AAkBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAhBR;AAmBI;EACI,sBAAA;EACA,sBAAA;AAjBR;AAoBI;EACI,UAAA;AAlBR;AAoBI;EACI,uBAAA;EACA,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,oBAAA;EACA,eAAA;EACA,kBAAA;AAnBR;AAsBI;EACI,qBAAA;AApBR;AAsBI;EACI,sBAAA;AApBR;AAuBI;EACI,gBAAA;EACA,kBAAA;AArBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAwBI;EACI,iBAAA;AAtBR;AAkCA;EACI,eAAA;AA/BJ;AAiCI;EACI,qBAAA;EACA,kBAAA;EACA,sBAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;AA/BR;AAiCQ;EACI,sBAAA;AA/BZ;AAoCA;EACI,aAAA;AAjCJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.checklist-editor {\n\n    hr {\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    colgroup {\n        width: 100%;\n    }\n\n    fieldset {\n        padding-top: 5px;\n        padding-bottom: 5px;\n        margin-left: 45px;\n    }\n    fieldset.top-level {\n        margin-left: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n    }\n\n    div.changed-ids {\n        margin-top: 20px;\n    }\n\n    table {\n        width: 100%;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n    label {\n        padding-left: 5px;\n    }\n\n    button {\n        background-color: white;\n    }\n    /*button:disabled {\n        background-color: lightgray;\n        pointer-events: none;\n    }*/\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.delete-btn {\n        margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n    button.add-btn {\n        margin-left: 10px;\n        // font-size: smaller;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .has-error {\n        border: 1 px solid red;\n        background-color: pink;\n    }\n\n    .error-message {\n        color: red;\n    }\n    .phase {\n        border: 1px solid black;\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .sub-phase {\n        padding-top: 10px;\n        padding-bottom: 10px;\n        margin-top: 2px;\n        margin-bottom: 2px;\n    }\n\n    .assessment-with-options {\n        border: 1px solid red;\n    }\n    .decision {\n        border: 1px solid blue;\n    }\n\n    .add-item {\n        margin-top: 10px;\n        margin-bottom: 4px;\n    }\n\n    .indent-1 {\n        margin-left: 20px;\n    }\n    .indent-2 {\n        margin-left: 40px\n    }\n    .indent-3 {\n        margin-left: 60px;\n    }\n    .indent-4 {\n        margin-left: 80px;\n    }\n\n    // .save-button-wrapper {\n    //     display: flex;\n    //     flex-flow: row-reverse;\n    // }\n\n}\n\n\n\n.scenario-type-selector {\n    padding: 1.5rem;\n\n    a {\n        display: inline-block;\n        padding: 2rem 3rem;\n        border: 1px solid #333;\n        border-radius: 0.5rem;\n        font-size: 1.25rem;\n        margin: 0.5rem 0;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}\n\n.hidden {\n    display: none;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 4912:
+/***/ 3271:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".scenario-assignment {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  gap: 1rem;\n  margin: 1rem 0;\n  padding: 1rem;\n}\n.scenario-assignment * input {\n  margin-left: 0.5rem;\n}\n.scenario-assignment .assignment-list {\n  display: flex;\n  flex-direction: column;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label {\n  display: flex;\n  align-items: center;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label input[type=number] {\n  width: 5em;\n}\n.scenario-assignment .assignment-list label span {\n  margin-left: auto;\n  white-space: nowrap;\n}\n.scenario-assignment button {\n  background-color: rgb(150, 150, 255);\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/class-codes-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;EACA,cAAA;EACA,aAAA;AADJ;AAGI;EACI,mBAAA;AADR;AAII;EACI,aAAA;EACA,sBAAA;EACA,SAAA;AAFR;AAIQ;EACI,aAAA;EACA,mBAAA;EACA,SAAA;AAFZ;AAIY;EACI,UAAA;AAFhB;AAKY;EACI,iBAAA;EACA,mBAAA;AAHhB;AAQI;EACI,oCClCK;AD4Bb","sourcesContent":["@import 'variables';\n\n.scenario-assignment {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    margin: 1rem 0;\n    padding: 1rem;\n\n    * input {\n        margin-left: 0.5rem;\n    }\n\n    .assignment-list {\n        display: flex;\n        flex-direction: column;\n        gap: 1rem;\n\n        label {\n            display: flex;\n            align-items: center;\n            gap: 1rem;\n\n            input[type=\"number\"] {\n                width: 5em;\n            }\n\n            span {\n                margin-left: auto;\n                white-space: nowrap;\n            }\n        }\n    }\n\n    button {\n        background-color: $light-blue;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".scenario-assignment {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  gap: 1rem;\n  margin: 1rem 0;\n  padding: 1rem;\n}\n.scenario-assignment * input {\n  margin-left: 0.5rem;\n}\n.scenario-assignment .assignment-list {\n  display: flex;\n  flex-direction: column;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label {\n  display: flex;\n  align-items: center;\n  gap: 1rem;\n}\n.scenario-assignment .assignment-list label input[type=number] {\n  width: 5em;\n}\n.scenario-assignment .assignment-list label span {\n  margin-left: auto;\n  white-space: nowrap;\n}\n.scenario-assignment button {\n  background-color: rgb(150, 150, 255);\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/class-codes-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;EACA,cAAA;EACA,aAAA;AADJ;AAGI;EACI,mBAAA;AADR;AAII;EACI,aAAA;EACA,sBAAA;EACA,SAAA;AAFR;AAIQ;EACI,aAAA;EACA,mBAAA;EACA,SAAA;AAFZ;AAIY;EACI,UAAA;AAFhB;AAKY;EACI,iBAAA;EACA,mBAAA;AAHhB;AAQI;EACI,oCClCK;AD4Bb","sourcesContent":["@import 'variables';\n\n.scenario-assignment {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 1rem;\n    margin: 1rem 0;\n    padding: 1rem;\n\n    * input {\n        margin-left: 0.5rem;\n    }\n\n    .assignment-list {\n        display: flex;\n        flex-direction: column;\n        gap: 1rem;\n\n        label {\n            display: flex;\n            align-items: center;\n            gap: 1rem;\n\n            input[type=\"number\"] {\n                width: 5em;\n            }\n\n            span {\n                margin-left: auto;\n                white-space: nowrap;\n            }\n        }\n    }\n\n    button {\n        background-color: $light-blue;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 5943:
+/***/ 4430:
 /***/ ((module) => {
 
-module.exports = [[module.id, "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  font-family: \"Noto Sans JP\", sans-serif;\n  text-decoration: none;\n  color: #333;\n}\n\n#root {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n}\n\nbutton {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n}\n\nbutton:disabled {\n  opacity: 50%;\n  pointer-events: none;\n}\n\ninput[type=text],\ninput[type=number],\ninput[type=password],\ntextarea {\n  padding: 0.25em;\n}\n\nheader {\n  background-color: #353535;\n  display: flex;\n  align-items: center;\n  padding: 1rem;\n  gap: 1rem;\n}\n\nheader h1 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2.5em;\n}\n\nheader h2 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2em;\n}\n\nheader nav {\n  margin-left: auto;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1em;\n}\n\nheader nav button {\n  color: #353535;\n  background-color: #ddd;\n  margin-left: auto;\n  border: none;\n}\n\nheader nav .sign-out-bttn {\n  color: #ddd;\n  background-color: rgb(150, 0, 0);\n}\n\n.hint-text {\n  font-style: italic;\n  color: #999;\n}\n\n.db-list {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  margin: 1rem 0;\n  gap: 1rem;\n  padding: 0 5rem 2rem 5rem;\n}\n\n.db-list .new-bttn {\n  font-style: italic;\n}\n\n.db-list .new-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item {\n  display: flex;\n  border: 2px solid #353535;\n  border-radius: 0.5rem;\n  align-items: center;\n  flex-wrap: wrap;\n  gap: 1rem;\n  padding: 1rem;\n  width: 100%;\n  min-width: min-content;\n}\n\n.db-list .db-list-item .list-button-wrapper {\n  display: flex;\n  gap: 0.5rem;\n  margin-left: auto;\n}\n\n.db-list .db-list-item .list-button-wrapper button {\n  all: unset;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n  border: 1px solid #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn {\n  border-color: rgb(150, 0, 0);\n  color: rgb(150, 0, 0);\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn:hover {\n  background-color: rgb(150, 0, 0);\n  color: #fff;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/default-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uCAAA;EACA,qBAAA;EACA,WAAA;AADJ;;AAIA;EACI,aAAA;EACA,sBAAA;EACA,aAAA;AADJ;;AAeA;EAVI,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;AADJ;;AAOA;EACI,YAAA;EACA,oBAAA;AAJJ;;AAMA;;;;EAII,eAAA;AAHJ;;AAOA;EACI,yBC5CW;ED6CX,aAAA;EACA,mBAAA;EACA,aAAA;EACA,SAAA;AAJJ;;AAMI;EACI,WAAA;EACA,eAAA;EACA,gBAAA;AAJR;;AAOI;EACI,WAAA;EACA,eAAA;EACA,cAAA;AALR;;AAQI;EACI,iBAAA;EACA,aAAA;EACA,eAAA;EACA,QAAA;AANR;;AAQQ;EACI,cCrEG;EDsEH,sBAAA;EACA,iBAAA;EACA,YAAA;AANZ;;AASQ;EACI,WAAA;EACA,gCAAA;AAPZ;;AAYA;EACI,kBAAA;EACA,WAAA;AATJ;;AAYA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EAEA,cAAA;EACA,SAAA;EACA,yBAAA;AAVJ;;AAYI;EACI,kBAAA;AAVR;;AAYQ;EACI,sBAAA;AAVZ;;AAcI;EACI,aAAA;EACA,yBAAA;EACA,qBAAA;EACA,mBAAA;EACA,eAAA;EACA,SAAA;EACA,aAAA;EACA,WAAA;EACA,sBAAA;AAZR;;AAcQ;EACI,aAAA;EACA,WAAA;EACA,iBAAA;AAZZ;;AAcY;EACI,UAAA;AAZhB;;AAeY;EA3GR,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;EAsGY,sBAAA;AANhB;;AAQgB;EACI,sBAAA;AANpB;;AAUY;EACI,4BAAA;EACA,qBAAA;AARhB;;AAUgB;EACI,gCAAA;EACA,WAAA;AARpB","sourcesContent":["@import 'variables';\n\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: 'Noto Sans JP', sans-serif;\n    text-decoration: none;\n    color: #333;\n}\n\n#root {\n    display: flex;\n    flex-direction: column;\n    height: 100vh;\n}\n\n@mixin bttn {\n    display: inline-block;\n    border: 1px solid;\n    border-radius: 5px;\n    padding: 0.6em 1em;\n    cursor: pointer;\n    font-size: 1em;\n    white-space: nowrap;\n    background-color: #fff;\n}\n\nbutton {\n    @include bttn;\n}\nbutton:disabled {\n    opacity: 50%;\n    pointer-events: none;\n}\ninput[type=\"text\"],\ninput[type=\"number\"],\ninput[type=\"password\"],\ntextarea {\n    padding: 0.25em;\n}\n\n\nheader {\n    background-color: $header-color;\n    display: flex;\n    align-items: center;\n    padding: 1rem;\n    gap: 1rem;\n\n    h1 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2.5em;\n    }\n\n    h2 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2em;\n    }\n\n    nav {\n        margin-left: auto;\n        display: flex;\n        flex-wrap: wrap;\n        gap: 1em;\n\n        button {\n            color: $header-color;\n            background-color: #ddd;\n            margin-left: auto;\n            border: none;\n        }\n\n        .sign-out-bttn {\n            color: #ddd;\n            background-color: rgb(150, 0, 0);\n        }\n    }\n}\n\n.hint-text {\n    font-style: italic;\n    color: #999;\n}\n\n.db-list {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n\n    margin: 1rem 0;\n    gap: 1rem;\n    padding: 0 5rem 2rem 5rem;\n\n    .new-bttn {\n        font-style: italic;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n\n    .db-list-item {\n        display: flex;\n        border: 2px solid $header-color;\n        border-radius: 0.5rem;\n        align-items: center;\n        flex-wrap: wrap;\n        gap: 1rem;\n        padding: 1rem;\n        width: 100%;\n        min-width: min-content;\n\n        .list-button-wrapper {\n            display: flex;\n            gap: 0.5rem;\n            margin-left: auto;\n\n            button {\n                all: unset;\n            }\n\n            .action-bttn {\n                @include bttn;\n                border: 1px solid #ddd;\n\n                &:hover {\n                    background-color: #ddd;\n                }\n            }\n\n            .delete-bttn {\n                border-color: rgb(150, 0, 0);\n                color: rgb(150, 0, 0);\n\n                &:hover {\n                    background-color: rgb(150, 0, 0);\n                    color: #fff;\n                }\n            }\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, "* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  font-family: \"Noto Sans JP\", sans-serif;\n  text-decoration: none;\n  color: #333;\n}\n\n#root {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n}\n\nbutton {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n}\n\nbutton:disabled {\n  opacity: 50%;\n  pointer-events: none;\n}\n\ninput[type=text],\ninput[type=number],\ninput[type=password],\ntextarea {\n  padding: 0.25em;\n}\n\nheader {\n  background-color: #353535;\n  display: flex;\n  align-items: center;\n  padding: 1rem;\n  gap: 1rem;\n}\n\nheader h1 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2.5em;\n}\n\nheader h2 {\n  color: #ddd;\n  cursor: pointer;\n  font-size: 2em;\n}\n\nheader nav {\n  margin-left: auto;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1em;\n}\n\nheader nav button {\n  color: #353535;\n  background-color: #ddd;\n  margin-left: auto;\n  border: none;\n}\n\nheader nav .sign-out-bttn {\n  color: #ddd;\n  background-color: rgb(150, 0, 0);\n}\n\n.hint-text {\n  font-style: italic;\n  color: #999;\n}\n\n.db-list {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  margin: 1rem 0;\n  gap: 1rem;\n  padding: 0 5rem 2rem 5rem;\n}\n\n.db-list .new-bttn {\n  font-style: italic;\n}\n\n.db-list .new-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item {\n  display: flex;\n  border: 2px solid #353535;\n  border-radius: 0.5rem;\n  align-items: center;\n  flex-wrap: wrap;\n  gap: 1rem;\n  padding: 1rem;\n  width: 100%;\n  min-width: min-content;\n}\n\n.db-list .db-list-item .list-button-wrapper {\n  display: flex;\n  gap: 0.5rem;\n  margin-left: auto;\n}\n\n.db-list .db-list-item .list-button-wrapper button {\n  all: unset;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn {\n  display: inline-block;\n  border: 1px solid;\n  border-radius: 5px;\n  padding: 0.6em 1em;\n  cursor: pointer;\n  font-size: 1em;\n  white-space: nowrap;\n  background-color: #fff;\n  border: 1px solid #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .action-bttn:hover {\n  background-color: #ddd;\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn {\n  border-color: rgb(150, 0, 0);\n  color: rgb(150, 0, 0);\n}\n\n.db-list .db-list-item .list-button-wrapper .delete-bttn:hover {\n  background-color: rgb(150, 0, 0);\n  color: #fff;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/default-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uCAAA;EACA,qBAAA;EACA,WAAA;AADJ;;AAIA;EACI,aAAA;EACA,sBAAA;EACA,aAAA;AADJ;;AAeA;EAVI,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;AADJ;;AAOA;EACI,YAAA;EACA,oBAAA;AAJJ;;AAMA;;;;EAII,eAAA;AAHJ;;AAOA;EACI,yBC5CW;ED6CX,aAAA;EACA,mBAAA;EACA,aAAA;EACA,SAAA;AAJJ;;AAMI;EACI,WAAA;EACA,eAAA;EACA,gBAAA;AAJR;;AAOI;EACI,WAAA;EACA,eAAA;EACA,cAAA;AALR;;AAQI;EACI,iBAAA;EACA,aAAA;EACA,eAAA;EACA,QAAA;AANR;;AAQQ;EACI,cCrEG;EDsEH,sBAAA;EACA,iBAAA;EACA,YAAA;AANZ;;AASQ;EACI,WAAA;EACA,gCAAA;AAPZ;;AAYA;EACI,kBAAA;EACA,WAAA;AATJ;;AAYA;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EAEA,cAAA;EACA,SAAA;EACA,yBAAA;AAVJ;;AAYI;EACI,kBAAA;AAVR;;AAYQ;EACI,sBAAA;AAVZ;;AAcI;EACI,aAAA;EACA,yBAAA;EACA,qBAAA;EACA,mBAAA;EACA,eAAA;EACA,SAAA;EACA,aAAA;EACA,WAAA;EACA,sBAAA;AAZR;;AAcQ;EACI,aAAA;EACA,WAAA;EACA,iBAAA;AAZZ;;AAcY;EACI,UAAA;AAZhB;;AAeY;EA3GR,qBAAA;EACA,iBAAA;EACA,kBAAA;EACA,kBAAA;EACA,eAAA;EACA,cAAA;EACA,mBAAA;EACA,sBAAA;EAsGY,sBAAA;AANhB;;AAQgB;EACI,sBAAA;AANpB;;AAUY;EACI,4BAAA;EACA,qBAAA;AARhB;;AAUgB;EACI,gCAAA;EACA,WAAA;AARpB","sourcesContent":["@import 'variables';\n\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: 'Noto Sans JP', sans-serif;\n    text-decoration: none;\n    color: #333;\n}\n\n#root {\n    display: flex;\n    flex-direction: column;\n    height: 100vh;\n}\n\n@mixin bttn {\n    display: inline-block;\n    border: 1px solid;\n    border-radius: 5px;\n    padding: 0.6em 1em;\n    cursor: pointer;\n    font-size: 1em;\n    white-space: nowrap;\n    background-color: #fff;\n}\n\nbutton {\n    @include bttn;\n}\nbutton:disabled {\n    opacity: 50%;\n    pointer-events: none;\n}\ninput[type=\"text\"],\ninput[type=\"number\"],\ninput[type=\"password\"],\ntextarea {\n    padding: 0.25em;\n}\n\n\nheader {\n    background-color: $header-color;\n    display: flex;\n    align-items: center;\n    padding: 1rem;\n    gap: 1rem;\n\n    h1 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2.5em;\n    }\n\n    h2 {\n        color: #ddd;\n        cursor: pointer;\n        font-size: 2em;\n    }\n\n    nav {\n        margin-left: auto;\n        display: flex;\n        flex-wrap: wrap;\n        gap: 1em;\n\n        button {\n            color: $header-color;\n            background-color: #ddd;\n            margin-left: auto;\n            border: none;\n        }\n\n        .sign-out-bttn {\n            color: #ddd;\n            background-color: rgb(150, 0, 0);\n        }\n    }\n}\n\n.hint-text {\n    font-style: italic;\n    color: #999;\n}\n\n.db-list {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n\n    margin: 1rem 0;\n    gap: 1rem;\n    padding: 0 5rem 2rem 5rem;\n\n    .new-bttn {\n        font-style: italic;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n\n    .db-list-item {\n        display: flex;\n        border: 2px solid $header-color;\n        border-radius: 0.5rem;\n        align-items: center;\n        flex-wrap: wrap;\n        gap: 1rem;\n        padding: 1rem;\n        width: 100%;\n        min-width: min-content;\n\n        .list-button-wrapper {\n            display: flex;\n            gap: 0.5rem;\n            margin-left: auto;\n\n            button {\n                all: unset;\n            }\n\n            .action-bttn {\n                @include bttn;\n                border: 1px solid #ddd;\n\n                &:hover {\n                    background-color: #ddd;\n                }\n            }\n\n            .delete-bttn {\n                border-color: rgb(150, 0, 0);\n                color: rgb(150, 0, 0);\n\n                &:hover {\n                    background-color: rgb(150, 0, 0);\n                    color: #fff;\n                }\n            }\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 4846:
+/***/ 2996:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".home-nav-wrapper {\n  padding: 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 2rem;\n}\n.home-nav-wrapper .home-nav-link {\n  border-color: #353535;\n  border-width: 2px 2px 2px 0.75em;\n  border-style: solid;\n  border-radius: 0.25rem;\n  padding: 0.3em 0.6em;\n  font-size: 3em;\n}\n.home-nav-wrapper .home-nav-link:hover {\n  background-color: #ddd;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/home-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,aAAA;EACA,sBAAA;EACA,SAAA;AADJ;AAGI;EACI,qBCTO;EDUP,gCAAA;EACA,mBAAA;EACA,sBAAA;EACA,oBAAA;EACA,cAAA;AADR;AAGQ;EACI,sBAAA;AADZ","sourcesContent":["@import 'variables';\n\n.home-nav-wrapper {\n    padding: 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 2rem;\n    \n    .home-nav-link {\n        border-color: $header-color;\n        border-width: 2px 2px 2px 0.75em;\n        border-style: solid;\n        border-radius: 0.25rem;\n        padding: 0.3em 0.6em;\n        font-size: 3em;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".home-nav-wrapper {\n  padding: 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 2rem;\n}\n.home-nav-wrapper .home-nav-link {\n  border-color: #353535;\n  border-width: 2px 2px 2px 0.75em;\n  border-style: solid;\n  border-radius: 0.25rem;\n  padding: 0.3em 0.6em;\n  font-size: 3em;\n}\n.home-nav-wrapper .home-nav-link:hover {\n  background-color: #ddd;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/home-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,aAAA;EACA,sBAAA;EACA,SAAA;AADJ;AAGI;EACI,qBCTO;EDUP,gCAAA;EACA,mBAAA;EACA,sBAAA;EACA,oBAAA;EACA,cAAA;AADR;AAGQ;EACI,sBAAA;AADZ","sourcesContent":["@import 'variables';\n\n.home-nav-wrapper {\n    padding: 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 2rem;\n    \n    .home-nav-link {\n        border-color: $header-color;\n        border-width: 2px 2px 2px 0.75em;\n        border-style: solid;\n        border-radius: 0.25rem;\n        padding: 0.3em 0.6em;\n        font-size: 3em;\n\n        &:hover {\n            background-color: #ddd;\n        }\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 5848:
+/***/ 3080:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".medications-form {\n  padding: 1rem 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .main-area {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication h3 {\n  color: rgb(90, 90, 195);\n  text-align: center;\n  min-width: 10rem;\n  width: 13rem;\n}\n.medications-form .medication .expanded-area {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data {\n  display: flex;\n  gap: 1rem;\n  margin-top: 1rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications, .medications-form .medication .expanded-area .generic-data .indications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .hidden, .medications-form .medication .expanded-area .generic-data .indications .hidden {\n  display: none !important;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .dropdown, .medications-form .medication .expanded-area .generic-data .indications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist, .medications-form .medication .expanded-area .generic-data .indications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication {\n  padding: 0.2rem;\n  white-space: nowrap;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n  padding: 0 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label input[type=checkbox] {\n  margin-top: 0.5em;\n}\n.medications-form .medication .expanded-area .headings {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 1rem;\n  align-items: center;\n  justify-items: center;\n  padding: 0.25rem 0;\n}\n.medications-form .medication .expanded-area .headings p {\n  font-weight: bold;\n  text-align: center;\n}\n.medications-form .medication .expanded-area .adult-data, .medications-form .medication .expanded-area .pediatric-data {\n  display: flex;\n  flex-direction: column;\n  background: #f5f5f5;\n  padding: 0.5rem;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info, .medications-form .medication .expanded-area .pediatric-data .basic-info {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=number], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .pediatric-data .basic-info input[type=number] {\n  width: 100%;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=checkbox], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=checkbox] {\n  margin: 0 auto;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info p, .medications-form .medication .expanded-area .pediatric-data .basic-info p {\n  font-weight: bold;\n  text-decoration: underline;\n}\n.medications-form .medication .expanded-area .administration-routes {\n  display: flex;\n  gap: 1rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .administration-routes p {\n  font-weight: bold;\n}\n.medications-form .medication .expanded-area .administration-routes label {\n  display: flex;\n  gap: 0.25rem;\n  align-items: center;\n}\n.medications-form .expand-bttn {\n  border: none;\n  display: flex;\n  align-items: center;\n}\n.medications-form .expand-bttn:hover {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn svg {\n  height: 1rem;\n  width: 1rem;\n}\n.medications-form .expand-bttn.expanded {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn.expanded:hover {\n  background-color: #999;\n}\n.medications-form .expanded-area.collapsed {\n  display: none;\n}\n.medications-form .delete-bttn {\n  all: unset;\n  background-color: #ddd;\n  padding: 0 1rem;\n  max-width: min-content;\n  cursor: pointer;\n}\n.medications-form .delete-bttn:hover {\n  background-color: aquamarine;\n}\n.medications-form button {\n  margin: 0;\n  align-self: flex-start;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/medications-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,kBAAA;EACA,aAAA;EACA,sBAAA;EACA,WAAA;AADJ;AAIQ;EACI,aAAA;EACA,WAAA;EACA,mBAAA;AAFZ;AAKQ;EACI,uBCdE;EDeF,kBAAA;EACA,gBAAA;EACA,YAAA;AAHZ;AAMQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAJZ;AAOY;EACI,aAAA;EACA,SAAA;EACA,gBAAA;AALhB;AAOgB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;AALpB;AAOoB;EAAU,wBAAA;AAJ9B;AAMoB;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AALxB;AAQoB;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;AANxB;AAQwB;EACI,eAAA;EACA,mBAAA;AAN5B;AAQ4B;EACI,aAAA;EACA,WAAA;EACA,mBAAA;EACA,iBAAA;AANhC;AAQgC;EACI,iBAAA;AANpC;AAcY;EACI,aAAA;EACA,sDAtDM;EAuDN,SAAA;EACA,mBAAA;EACA,qBAAA;EACA,kBAAA;AAZhB;AAcgB;EACI,iBAAA;EACA,kBAAA;AAZpB;AAgBY;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,eAAA;EACA,WAAA;AAdhB;AAgBgB;EACI,aAAA;EACA,sDA3EE;EA4EF,WAAA;EACA,mBAAA;AAdpB;AAgBoB;;;EAEI,WAAA;AAbxB;AAgBoB;EACI,cAAA;AAdxB;AAiBoB;EACI,iBAAA;EACA,0BAAA;AAfxB;AAoBY;EACI,aAAA;EACA,SAAA;EACA,mBAAA;AAlBhB;AAoBgB;EACI,iBAAA;AAlBpB;AAqBgB;EACI,aAAA;EACA,YAAA;EACA,mBAAA;AAnBpB;AAyBI;EACI,YAAA;EACA,aAAA;EACA,mBAAA;AAvBR;AAyBQ;EACI,sBAAA;AAvBZ;AA0BQ;EACI,YAAA;EACA,WAAA;AAxBZ;AA4BI;EACI,sBAAA;AA1BR;AA4BQ;EACI,sBAAA;AA1BZ;AA8BI;EACI,aAAA;AA5BR;AA+BI;EACI,UAAA;EACA,sBAAA;EACA,eAAA;EACA,sBAAA;EACA,eAAA;AA7BR;AA+BQ;EACI,4BAAA;AA7BZ;AAiCI;EACI,SAAA;EACA,sBAAA;AA/BR","sourcesContent":["@import 'variables';\n\n.medications-form {\n    padding: 1rem 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 0.5rem;\n\n    .medication {\n        .main-area {\n            display: flex;\n            gap: 0.5rem;\n            align-items: center;\n        }\n\n        h3 {\n            color: $pastel-blue;\n            text-align: center;\n            min-width: 10rem;\n            width: 13rem;\n        }\n\n        .expanded-area {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n            $columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n\n            .generic-data {\n                display: flex;\n                gap: 1rem;\n                margin-top: 1rem;\n\n                .contraindications, .indications {\n                    position: relative;\n                    user-select: none;\n\n                    .hidden { display: none !important; }\n\n                    .dropdown {\n                        background: #eee;\n                        border-radius: 0.5rem;\n                        padding: 0.25rem 0.5rem;\n                        cursor: pointer;\n                        width: min-content;\n                        white-space: nowrap;\n\n                        box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                    }\n\n                    .checklist {\n                        position: absolute;\n                        background-color: #fff;\n                        border: 1px solid #999;\n                        border-radius: 0.5rem;\n                        max-height: 15rem;\n                        overflow-y: auto;\n                        z-index: 99;\n\n                        .contraindication, .indication {\n                            padding: 0.2rem;\n                            white-space: nowrap;\n                            \n                            label {\n                                display: flex;\n                                gap: 0.5rem;\n                                align-items: center;\n                                padding: 0 0.5rem;\n\n                                input[type=checkbox] {\n                                    margin-top: 0.5em;\n                                }\n                            }\n                        }\n                    }\n                }\n            }\n\n            .headings {\n                display: grid;\n                grid-template-columns: $columns;\n                gap: 1rem;\n                align-items: center;\n                justify-items: center;\n                padding: 0.25rem 0;\n                \n                p {\n                    font-weight: bold;\n                    text-align: center;\n                }\n            }\n            \n            .adult-data, .pediatric-data {\n                display: flex;\n                flex-direction: column;\n                background: #f5f5f5;\n                padding: 0.5rem;\n                gap: 0.5rem;\n                \n                .basic-info {\n                    display: grid;\n                    grid-template-columns: $columns;\n                    gap: 0.5rem;\n                    align-items: center;\n\n                    input[type=text],\n                    input[type=number] {\n                        width: 100%;\n                    }\n\n                    input[type=checkbox] {\n                        margin: 0 auto;\n                    }\n\n                    p {\n                        font-weight: bold;\n                        text-decoration: underline;\n                    }\n                }\n            }\n\n            .administration-routes {\n                display: flex;\n                gap: 1rem;\n                align-items: center;\n\n                p {\n                    font-weight: bold;\n                }\n    \n                label {\n                    display: flex;\n                    gap: 0.25rem;\n                    align-items: center;\n                }\n            }\n        }\n    }\n\n    .expand-bttn {\n        border: none;\n        display: flex;\n        align-items: center;\n\n        &:hover {\n            background-color: #ddd;\n        }\n\n        svg {\n            height: 1rem;\n            width: 1rem;\n        }\n    }\n\n    .expand-bttn.expanded {\n        background-color: #ddd;\n\n        &:hover {\n            background-color: #999;\n        }\n    }\n\n    .expanded-area.collapsed {\n        display: none;\n    }\n\n    .delete-bttn {\n        all: unset;\n        background-color: #ddd;\n        padding: 0 1rem;\n        max-width: min-content;\n        cursor: pointer;\n\n        &:hover {\n            background-color: aquamarine;\n        }\n    }\n\n    button {\n        margin: 0;\n        align-self: flex-start;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".medications-form {\n  padding: 1rem 2rem;\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .main-area {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication h3 {\n  color: rgb(90, 90, 195);\n  text-align: center;\n  min-width: 10rem;\n  width: 13rem;\n}\n.medications-form .medication .expanded-area {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data {\n  display: flex;\n  gap: 1rem;\n  margin-top: 1rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications, .medications-form .medication .expanded-area .generic-data .indications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .hidden, .medications-form .medication .expanded-area .generic-data .indications .hidden {\n  display: none !important;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .dropdown, .medications-form .medication .expanded-area .generic-data .indications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist, .medications-form .medication .expanded-area .generic-data .indications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication {\n  padding: 0.2rem;\n  white-space: nowrap;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label, .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label {\n  display: flex;\n  gap: 0.5rem;\n  align-items: center;\n  padding: 0 0.5rem;\n}\n.medications-form .medication .expanded-area .generic-data .contraindications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .contraindications .checklist .indication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .contraindication label input[type=checkbox], .medications-form .medication .expanded-area .generic-data .indications .checklist .indication label input[type=checkbox] {\n  margin-top: 0.5em;\n}\n.medications-form .medication .expanded-area .headings {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 1rem;\n  align-items: center;\n  justify-items: center;\n  padding: 0.25rem 0;\n}\n.medications-form .medication .expanded-area .headings p {\n  font-weight: bold;\n  text-align: center;\n}\n.medications-form .medication .expanded-area .adult-data, .medications-form .medication .expanded-area .pediatric-data {\n  display: flex;\n  flex-direction: column;\n  background: #f5f5f5;\n  padding: 0.5rem;\n  gap: 0.5rem;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info, .medications-form .medication .expanded-area .pediatric-data .basic-info {\n  display: grid;\n  grid-template-columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n  gap: 0.5rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=number], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=text],\n.medications-form .medication .expanded-area .pediatric-data .basic-info input[type=number] {\n  width: 100%;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info input[type=checkbox], .medications-form .medication .expanded-area .pediatric-data .basic-info input[type=checkbox] {\n  margin: 0 auto;\n}\n.medications-form .medication .expanded-area .adult-data .basic-info p, .medications-form .medication .expanded-area .pediatric-data .basic-info p {\n  font-weight: bold;\n  text-decoration: underline;\n}\n.medications-form .medication .expanded-area .administration-routes {\n  display: flex;\n  gap: 1rem;\n  align-items: center;\n}\n.medications-form .medication .expanded-area .administration-routes p {\n  font-weight: bold;\n}\n.medications-form .medication .expanded-area .administration-routes label {\n  display: flex;\n  gap: 0.25rem;\n  align-items: center;\n}\n.medications-form .expand-bttn {\n  border: none;\n  display: flex;\n  align-items: center;\n}\n.medications-form .expand-bttn:hover {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn svg {\n  height: 1rem;\n  width: 1rem;\n}\n.medications-form .expand-bttn.expanded {\n  background-color: #ddd;\n}\n.medications-form .expand-bttn.expanded:hover {\n  background-color: #999;\n}\n.medications-form .expanded-area.collapsed {\n  display: none;\n}\n.medications-form .delete-bttn {\n  all: unset;\n  background-color: #ddd;\n  padding: 0 1rem;\n  max-width: min-content;\n  cursor: pointer;\n}\n.medications-form .delete-bttn:hover {\n  background-color: aquamarine;\n}\n.medications-form button {\n  margin: 0;\n  align-self: flex-start;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/medications-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,kBAAA;EACA,aAAA;EACA,sBAAA;EACA,WAAA;AADJ;AAIQ;EACI,aAAA;EACA,WAAA;EACA,mBAAA;AAFZ;AAKQ;EACI,uBCdE;EDeF,kBAAA;EACA,gBAAA;EACA,YAAA;AAHZ;AAMQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAJZ;AAOY;EACI,aAAA;EACA,SAAA;EACA,gBAAA;AALhB;AAOgB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;AALpB;AAOoB;EAAU,wBAAA;AAJ9B;AAMoB;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AALxB;AAQoB;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;AANxB;AAQwB;EACI,eAAA;EACA,mBAAA;AAN5B;AAQ4B;EACI,aAAA;EACA,WAAA;EACA,mBAAA;EACA,iBAAA;AANhC;AAQgC;EACI,iBAAA;AANpC;AAcY;EACI,aAAA;EACA,sDAtDM;EAuDN,SAAA;EACA,mBAAA;EACA,qBAAA;EACA,kBAAA;AAZhB;AAcgB;EACI,iBAAA;EACA,kBAAA;AAZpB;AAgBY;EACI,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,eAAA;EACA,WAAA;AAdhB;AAgBgB;EACI,aAAA;EACA,sDA3EE;EA4EF,WAAA;EACA,mBAAA;AAdpB;AAgBoB;;;EAEI,WAAA;AAbxB;AAgBoB;EACI,cAAA;AAdxB;AAiBoB;EACI,iBAAA;EACA,0BAAA;AAfxB;AAoBY;EACI,aAAA;EACA,SAAA;EACA,mBAAA;AAlBhB;AAoBgB;EACI,iBAAA;AAlBpB;AAqBgB;EACI,aAAA;EACA,YAAA;EACA,mBAAA;AAnBpB;AAyBI;EACI,YAAA;EACA,aAAA;EACA,mBAAA;AAvBR;AAyBQ;EACI,sBAAA;AAvBZ;AA0BQ;EACI,YAAA;EACA,WAAA;AAxBZ;AA4BI;EACI,sBAAA;AA1BR;AA4BQ;EACI,sBAAA;AA1BZ;AA8BI;EACI,aAAA;AA5BR;AA+BI;EACI,UAAA;EACA,sBAAA;EACA,eAAA;EACA,sBAAA;EACA,eAAA;AA7BR;AA+BQ;EACI,4BAAA;AA7BZ;AAiCI;EACI,SAAA;EACA,sBAAA;AA/BR","sourcesContent":["@import 'variables';\n\n.medications-form {\n    padding: 1rem 2rem;\n    display: flex;\n    flex-direction: column;\n    gap: 0.5rem;\n\n    .medication {\n        .main-area {\n            display: flex;\n            gap: 0.5rem;\n            align-items: center;\n        }\n\n        h3 {\n            color: $pastel-blue;\n            text-align: center;\n            min-width: 10rem;\n            width: 13rem;\n        }\n\n        .expanded-area {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n            $columns: 1fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;\n\n            .generic-data {\n                display: flex;\n                gap: 1rem;\n                margin-top: 1rem;\n\n                .contraindications, .indications {\n                    position: relative;\n                    user-select: none;\n\n                    .hidden { display: none !important; }\n\n                    .dropdown {\n                        background: #eee;\n                        border-radius: 0.5rem;\n                        padding: 0.25rem 0.5rem;\n                        cursor: pointer;\n                        width: min-content;\n                        white-space: nowrap;\n\n                        box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                    }\n\n                    .checklist {\n                        position: absolute;\n                        background-color: #fff;\n                        border: 1px solid #999;\n                        border-radius: 0.5rem;\n                        max-height: 15rem;\n                        overflow-y: auto;\n                        z-index: 99;\n\n                        .contraindication, .indication {\n                            padding: 0.2rem;\n                            white-space: nowrap;\n                            \n                            label {\n                                display: flex;\n                                gap: 0.5rem;\n                                align-items: center;\n                                padding: 0 0.5rem;\n\n                                input[type=checkbox] {\n                                    margin-top: 0.5em;\n                                }\n                            }\n                        }\n                    }\n                }\n            }\n\n            .headings {\n                display: grid;\n                grid-template-columns: $columns;\n                gap: 1rem;\n                align-items: center;\n                justify-items: center;\n                padding: 0.25rem 0;\n                \n                p {\n                    font-weight: bold;\n                    text-align: center;\n                }\n            }\n            \n            .adult-data, .pediatric-data {\n                display: flex;\n                flex-direction: column;\n                background: #f5f5f5;\n                padding: 0.5rem;\n                gap: 0.5rem;\n                \n                .basic-info {\n                    display: grid;\n                    grid-template-columns: $columns;\n                    gap: 0.5rem;\n                    align-items: center;\n\n                    input[type=text],\n                    input[type=number] {\n                        width: 100%;\n                    }\n\n                    input[type=checkbox] {\n                        margin: 0 auto;\n                    }\n\n                    p {\n                        font-weight: bold;\n                        text-decoration: underline;\n                    }\n                }\n            }\n\n            .administration-routes {\n                display: flex;\n                gap: 1rem;\n                align-items: center;\n\n                p {\n                    font-weight: bold;\n                }\n    \n                label {\n                    display: flex;\n                    gap: 0.25rem;\n                    align-items: center;\n                }\n            }\n        }\n    }\n\n    .expand-bttn {\n        border: none;\n        display: flex;\n        align-items: center;\n\n        &:hover {\n            background-color: #ddd;\n        }\n\n        svg {\n            height: 1rem;\n            width: 1rem;\n        }\n    }\n\n    .expand-bttn.expanded {\n        background-color: #ddd;\n\n        &:hover {\n            background-color: #999;\n        }\n    }\n\n    .expanded-area.collapsed {\n        display: none;\n    }\n\n    .delete-bttn {\n        all: unset;\n        background-color: #ddd;\n        padding: 0 1rem;\n        max-width: min-content;\n        cursor: pointer;\n\n        &:hover {\n            background-color: aquamarine;\n        }\n    }\n\n    button {\n        margin: 0;\n        align-self: flex-start;\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 7032:
+/***/ 9557:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.scenario-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n  font-size: x-large;\n}\n.scenario-editor button {\n  background-color: white;\n}\n.scenario-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-editor .details-editor table {\n  border: 0;\n}\n.scenario-editor .inline-editor {\n  padding-top: 20px;\n}\n.scenario-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-editor .add-entity {\n  padding: 20px;\n}\n.scenario-editor .add-entity table {\n  border: 0;\n}\n.scenario-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-editor .err-msg {\n  color: red;\n}\n.scenario-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-editor #tab-selector button {\n  all: unset;\n}\n.scenario-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}\n.scenario-form-wrapper {\n  border-top: 1px solid #222;\n  width: 100%;\n  height: 100% -106px;\n  overflow-y: scroll;\n}\n.scenario-form-wrapper .scenario-form {\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form.scenario-view-hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form .save-changes {\n  float: right;\n}\n.scenario-form-wrapper .scenario-form .info-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #basic-info h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info label {\n  display: flex;\n  flex-direction: column;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form #sample,\n.scenario-form-wrapper .scenario-form #opqrst {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #sample label,\n.scenario-form-wrapper .scenario-form #opqrst label {\n  display: flex;\n}\n.scenario-form-wrapper .scenario-form #sample label input,\n.scenario-form-wrapper .scenario-form #opqrst label input {\n  display: inline-block;\n  margin: 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody tr {\n  outline: 1px solid #333;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody td {\n  padding: 0.35rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody input[type=text] {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .value-hint {\n  font-size: 0.9rem;\n  color: #bbb;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .route-dropdown {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n  margin: auto;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n  text-align: left;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication {\n  white-space: nowrap;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication label {\n  display: block;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication input[type=checkbox] {\n  vertical-align: middle;\n  margin-right: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label {\n  border: 1px solid #ddd;\n  border-style: none none solid none;\n  padding: 0.5em;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label input {\n  max-width: 15em;\n  margin-left: auto;\n  margin-right: 3em;\n}\n.scenario-form-wrapper .scenario-form .vitals table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form .vitals table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form .vitals table tbody input {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper {\n  border: 1px solid #353535;\n  border-radius: 0.5rem;\n  padding: 0.5rem;\n  max-width: calc(100vw - 1rem);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 1rem;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label {\n  display: flex;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label input {\n  display: inline-block;\n  margin: 0 0 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps {\n  display: flex;\n  flex-direction: column;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .header-item h2 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item {\n  border: 1px solid #333;\n  border-style: none none solid none;\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item:nth-child(odd) {\n  background-color: #eee;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label {\n  display: flex;\n  align-items: center;\n  white-space: nowrap;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label input {\n  display: inline-block;\n  max-height: min-content;\n  align-self: flex-end;\n  margin-left: 1em;\n  width: 100%;\n}\n.scenario-form-wrapper #submit-next {\n  background-color: rgb(90, 90, 195);\n  padding: 0.75em 1.25em;\n  color: #ddd;\n  margin-left: auto;\n  cursor: pointer;\n}\n.hidden {\n  display: none;\n}\n.error {\n  color: red;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/scenario-editor-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AAWI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AARR;AAWI;EACI,iBAAA;EACA,iBAAA;EACA,kBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAkBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAhBR;AAmBI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAnBR;AAsBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AArBR;AAwBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAtBR;AA0BQ;EACI,SAAA;AAxBZ;AA4BI;EACI,iBAAA;AA1BR;AA4BQ;EACI,gBAAA;AA1BZ;AA6BQ;EACI,2BAAA;AA3BZ;AA8BQ;EACI,8BAAA;AA5BZ;AAgCI;EACI,aAAA;AA9BR;AAgCQ;EACI,SAAA;AA9BZ;AAiCQ;EACI,uBAAA;AA/BZ;AAkCQ;EACI,gBAAA;AAhCZ;AAmCQ;EACI,mBAAA;AAjCZ;AAqCI;EACI,UAAA;AAnCR;AAsCI;EACI,aAAA;EACA,mBAAA;EACA,yBC9KO;AD0If;AAsCQ;EACI,UAAA;AApCZ;AAuCQ;EACI,sBCpLE;AD+Id;AAwCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AAtCZ;AAwCY;EACI,sBC7LF;ADuJd;AA8CA;EACI,0BAAA;EACA,WAAA;EACA,mBAAA;EACA,kBAAA;AA3CJ;AA6CI;EACI,eAAA;AA3CR;AA6CQ;EACY,wBAAA;AA3CpB;AA8CQ;EACI,YAAA;AA5CZ;AAgDY;EACI,uBCvNF;ADyKd;AAkDQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAhDZ;AAkDY;EACI,uBCjOF;ADiLd;AAmDY;EACI,aAAA;EACA,sBAAA;EACA,gBAAA;AAjDhB;AAqDQ;;EAEI,aAAA;EACA,sBAAA;EACA,WAAA;AAnDZ;AAqDY;;EACI,aAAA;AAlDhB;AAoDgB;;EACI,qBAAA;EACA,cAAA;EACA,WAAA;AAjDpB;AA+DgB;EACI,WAAA;AA7DpB;AA8DoB;EACI,iBAAA;AA5DxB;AA+DwB;EACI,kBAAA;AA7D5B;AAiEwB;EACI,uBAAA;AA/D5B;AAkEwB;EACI,gBAAA;AAhE5B;AAmEwB;EACI,WAAA;AAjE5B;AAoEwB;EACI,iBAAA;EACA,WAAA;AAlE5B;AAqEwB;EACI,aAAA;EACA,mBAAA;EACA,uBAAA;AAnE5B;AAsEwB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;EACA,YAAA;AApE5B;AAsE4B;EAAU,wBAAA;AAnEtC;AAqE4B;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AApEhC;AAuE4B;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;AArEhC;AAuEgC;EACI,mBAAA;EACA,WAAA;AArEpC;AAuEoC;EACI,cAAA;EACA,WAAA;AArExC;AAwEoC;EACI,sBAAA;EACA,oBAAA;AAtExC;AA8EgB;EACI,sBAAA;EACA,kCAAA;EACA,cAAA;AA5EpB;AA8EoB;EACI,eAAA;EACA,iBAAA;EACA,iBAAA;AA5ExB;AAsFY;EACI,WAAA;AApFhB;AAqFiB;EACO,iBAAA;AAnFxB;AAsFoB;EACI,kBAAA;AApFxB;AAwFoB;EACI,WAAA;AAtFxB;AA0FY;EACI,yBAAA;EACA,qBAAA;EACA,eAAA;EACA,6BAAA;AAxFhB;AA0FgB;EACI,uBC/XN;ADuSd;AA2FgB;EACI,aAAA;EACA,8BAAA;EACA,SAAA;AAzFpB;AA2FoB;EACI,aAAA;EACA,gBAAA;AAzFxB;AA2FwB;EACI,qBAAA;EACA,kBAAA;EACA,WAAA;AAzF5B;AAgGQ;EACI,aAAA;EACA,sBAAA;AA9FZ;AAgGY;EACI,uBC1ZF;AD4Td;AAkGgB;EACI,uBC/ZN;AD+Td;AAoGY;EACI,sBAAA;EACA,kCAAA;EACA,eAAA;AAlGhB;AAoGgB;EACI,sBAAA;AAlGpB;AAqGgB;EACI,aAAA;EACA,mBAAA;EACA,mBAAA;AAnGpB;AAqGoB;EACI,qBAAA;EACA,uBAAA;EACA,oBAAA;EACA,gBAAA;EACA,WAAA;AAnGxB;AAyGO;EACK,kCC7bE;ED8bF,sBAAA;EACA,WAAA;EACA,iBAAA;EACA,eAAA;AAvGZ;AA4GA;EACI,aAAA;AAzGJ;AA4GA;EACI,UAAA;AAzGJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.scenario-editor {\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n        font-size: x-large;\n    }\n\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n\n    .inline-editor {\n        padding-top: 20px;\n        // padding-bottom: 20px;\n        table {\n            border-bottom: 0;\n        }\n\n        thead {\n            background-color: lightgray;\n        }\n\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n\n    .add-entity {\n        padding: 20px;\n\n        table {\n            border: 0;\n        }\n\n        thead {\n            background-color: white;\n        }\n\n        th {\n            border-bottom: 0;\n        }\n\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n\n}\n\n.scenario-form-wrapper {\n    border-top: 1px solid #222;\n    width: 100%;\n    height: 100% -58px - 48px; //subtract header and tab heights\n    overflow-y: scroll;\n\n    .scenario-form {\n        padding: 0.5rem;\n\n        &.scenario-view-hidden {\n                    display: none !important;\n            }\n\n        .save-changes {\n            float: right;\n        }\n\n        .info-wrapper {\n            h1 {\n                color: $pastel-blue;\n            }\n        }\n\n        #basic-info {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            label {\n                display: flex;\n                flex-direction: column;\n                font-weight: 500;\n            }\n        }\n\n        #sample,\n        #opqrst {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            label {\n                display: flex;\n\n                input {\n                    display: inline-block;\n                    margin: 0 1rem;\n                    width: 100%;\n                }\n            }\n        }\n\n        #medications {\n            // display: flex;\n            // flex-direction: column;\n            // gap: 0.5rem;\n\n            .meds-wrapper {\n                // display: grid;\n                // grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));\n                // gap: 0.5rem;\n                table {\n                    width: 100%;\n                    th {\n                        font-weight: bold;\n                    }\n                    thead {\n                        th {\n                            text-align: center;\n                        }\n                    }\n                    tbody {\n                        tr {\n                            outline: 1px solid #333;\n                        }\n\n                        td {\n                            padding: 0.35rem;\n                        }\n\n                        input[type=text] {\n                            width: 100%;\n                        }\n\n                        .value-hint {\n                            font-size: 0.9rem;\n                            color: #bbb;\n                        }\n\n                        .route-dropdown {\n                            display: flex;\n                            align-items: center;\n                            justify-content: center;\n                        }\n\n                        .contraindications {\n                            position: relative;\n                            user-select: none;\n                            margin: auto;\n\n                            .hidden { display: none !important; }\n\n                            .dropdown {\n                                background: #eee;\n                                border-radius: 0.5rem;\n                                padding: 0.25rem 0.5rem;\n                                cursor: pointer;\n                                width: min-content;\n                                white-space: nowrap;\n\n                                box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                            }\n\n                            .checklist {\n                                position: absolute;\n                                background-color: #fff;\n                                border: 1px solid #999;\n                                border-radius: 0.5rem;\n                                max-height: 15rem;\n                                overflow-y: auto;\n                                z-index: 99;\n                                text-align: left;\n\n                                .contraindication {\n                                    white-space: nowrap;\n                                    width: 100%;\n\n                                    label {\n                                        display: block;\n                                        width: 100%;\n                                    }\n\n                                    input[type=checkbox] {\n                                        vertical-align: middle;\n                                        margin-right: 0.5rem;\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n\n                label {\n                    border: 1px solid #ddd;\n                    border-style: none none solid none;\n                    padding: 0.5em;\n\n                    input {\n                        max-width: 15em;\n                        margin-left: auto;\n                        margin-right: 3em;\n                    }\n                }\n            }\n        }\n\n        .vitals {\n            // display: grid;\n            // grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));\n            // gap: 1rem;\n            table {\n                width: 100%;\n                 th {\n                        font-weight: bold;\n                    }\n                thead {\n                    th {\n                        text-align: center;\n                    }\n                }\n                tbody {\n                    input {\n                        width: 100%;\n                    }\n                }\n            }\n            .vital-wrapper {\n                border: 1px solid $header-color;\n                border-radius: 0.5rem;\n                padding: 0.5rem;\n                max-width: calc(100vw - 1rem);\n\n                h1 {\n                    color: $pastel-blue;\n                }\n\n                .vitals-box {\n                    display: grid;\n                    grid-template-columns: 1fr 1fr;\n                    gap: 1rem;\n\n                    label {\n                        display: flex;\n                        font-weight: 500;\n\n                        input {\n                            display: inline-block;\n                            margin: 0 0 0 1rem;\n                            width: 100%;\n                        }\n                    }\n                }\n            }\n        }\n\n        #scenario-steps {\n            display: flex;\n            flex-direction: column;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            .header-item {\n                h2 {\n                    color: $pastel-blue;\n                }\n            }\n\n            .step-item {\n                border: 1px solid #333;\n                border-style: none none solid none;\n                padding: 0.5rem;\n\n                &:nth-child(odd) {\n                    background-color: #eee;\n                }\n\n                label {\n                    display: flex;\n                    align-items: center;\n                    white-space: nowrap;\n\n                    input {\n                        display: inline-block;\n                        max-height: min-content;\n                        align-self: flex-end;\n                        margin-left: 1em;\n                        width: 100%;\n                    }\n                }\n            }\n        }\n    }\n       #submit-next {\n            background-color: $pastel-blue;\n            padding: 0.75em 1.25em;\n            color: #ddd;\n            margin-left: auto;\n            cursor: pointer;\n        }\n}\n\n\n.hidden {\n    display: none;\n}\n\n.error {\n    color: red;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".modal {\n  display: block;\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */\n  z-index: 1;\n  overflow: auto;\n}\n.modal p {\n  padding-top: 7px;\n  padding-bottom: 7px;\n}\n.modal ul {\n  list-style: inside;\n}\n.modal.hidden {\n  display: none;\n}\n.modal .modal-dialog {\n  margin: 15% auto; /* 15% from the top and centered */\n  border: 1px solid #888;\n  background-color: white;\n  width: 80%; /* Could be more or less, depending on screen size */\n}\n.modal .modal-dialog .modal-header {\n  font-size: larger;\n  background-color: #353535;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .close-button {\n  float: right;\n  padding: 1px;\n}\n.modal .modal-dialog .modal-header .modal-title {\n  color: white;\n  text-align: center;\n  margin-left: auto;\n  width: 100%;\n}\n.modal .modal-dialog .modal-header .modal-body {\n  padding: 40px;\n}\n.scenario-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n  font-size: x-large;\n}\n.scenario-editor button {\n  background-color: white;\n}\n.scenario-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-editor .details-editor table {\n  border: 0;\n}\n.scenario-editor .inline-editor {\n  padding-top: 20px;\n}\n.scenario-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-editor .add-entity {\n  padding: 20px;\n}\n.scenario-editor .add-entity table {\n  border: 0;\n}\n.scenario-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-editor .err-msg {\n  color: red;\n}\n.scenario-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-editor #tab-selector button {\n  all: unset;\n}\n.scenario-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}\n.scenario-form-wrapper {\n  border-top: 1px solid #222;\n  width: 100%;\n  height: 100% -106px;\n  overflow-y: scroll;\n}\n.scenario-form-wrapper .scenario-form {\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form.scenario-view-hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form .save-changes {\n  float: right;\n}\n.scenario-form-wrapper .scenario-form .info-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #basic-info h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #basic-info label {\n  display: flex;\n  flex-direction: column;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form #sample,\n.scenario-form-wrapper .scenario-form #opqrst {\n  display: flex;\n  flex-direction: column;\n  gap: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #sample label,\n.scenario-form-wrapper .scenario-form #opqrst label {\n  display: flex;\n}\n.scenario-form-wrapper .scenario-form #sample label input,\n.scenario-form-wrapper .scenario-form #opqrst label input {\n  display: inline-block;\n  margin: 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody tr {\n  outline: 1px solid #333;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody td {\n  padding: 0.35rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody input[type=text] {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .value-hint {\n  font-size: 0.9rem;\n  color: #bbb;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .route-dropdown {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications {\n  position: relative;\n  -webkit-user-select: none;\n          user-select: none;\n  margin: auto;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .hidden {\n  display: none !important;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .dropdown {\n  background: #eee;\n  border-radius: 0.5rem;\n  padding: 0.25rem 0.5rem;\n  cursor: pointer;\n  width: min-content;\n  white-space: nowrap;\n  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist {\n  position: absolute;\n  background-color: #fff;\n  border: 1px solid #999;\n  border-radius: 0.5rem;\n  max-height: 15rem;\n  overflow-y: auto;\n  z-index: 99;\n  text-align: left;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication {\n  white-space: nowrap;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication label {\n  display: block;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper table tbody .contraindications .checklist .contraindication input[type=checkbox] {\n  vertical-align: middle;\n  margin-right: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label {\n  border: 1px solid #ddd;\n  border-style: none none solid none;\n  padding: 0.5em;\n}\n.scenario-form-wrapper .scenario-form #medications .meds-wrapper label input {\n  max-width: 15em;\n  margin-left: auto;\n  margin-right: 3em;\n}\n.scenario-form-wrapper .scenario-form .vitals table {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals table th {\n  font-weight: bold;\n}\n.scenario-form-wrapper .scenario-form .vitals table thead th {\n  text-align: center;\n}\n.scenario-form-wrapper .scenario-form .vitals table tbody input {\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper {\n  border: 1px solid #353535;\n  border-radius: 0.5rem;\n  padding: 0.5rem;\n  max-width: calc(100vw - 1rem);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 1rem;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label {\n  display: flex;\n  font-weight: 500;\n}\n.scenario-form-wrapper .scenario-form .vitals .vital-wrapper .vitals-box label input {\n  display: inline-block;\n  margin: 0 0 0 1rem;\n  width: 100%;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps {\n  display: flex;\n  flex-direction: column;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps h1 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .header-item h2 {\n  color: rgb(90, 90, 195);\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item {\n  border: 1px solid #333;\n  border-style: none none solid none;\n  padding: 0.5rem;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item:nth-child(odd) {\n  background-color: #eee;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label {\n  display: flex;\n  align-items: center;\n  white-space: nowrap;\n}\n.scenario-form-wrapper .scenario-form #scenario-steps .step-item label input {\n  display: inline-block;\n  max-height: min-content;\n  align-self: flex-end;\n  margin-left: 1em;\n  width: 100%;\n}\n.scenario-form-wrapper #submit-next {\n  background-color: rgb(90, 90, 195);\n  padding: 0.75em 1.25em;\n  color: #ddd;\n  margin-left: auto;\n  cursor: pointer;\n}\n.hidden {\n  display: none;\n}\n.error {\n  color: red;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/scenario-editor-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,cAAA;EACA,eAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,oCAAA,EAAA,qBAAA;EACA,UAAA;EACA,cAAA;AADJ;AAGI;EACI,gBAAA;EACA,mBAAA;AADR;AAGI;EACI,kBAAA;AADR;AAGI;EACI,aAAA;AADR;AAII;EACI,gBAAA,EAAA,kCAAA;EAEA,sBAAA;EACA,uBAAA;EACA,UAAA,EAAA,oDAAA;AAHR;AAKQ;EACI,iBAAA;EACA,yBCjCG;EDkCH,WAAA;AAHZ;AAKY;EACI,YAAA;EACA,YAAA;AAHhB;AAKY;EACI,YAAA;EACA,kBAAA;EACA,iBAAA;EACA,WAAA;AAHhB;AAKY;EACI,aAAA;AAHhB;AAWI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AARR;AAWI;EACI,iBAAA;EACA,iBAAA;EACA,kBAAA;AATR;AAYI;EACI,uBAAA;AAVR;AAkBI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAhBR;AAmBI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAlBR;AAqBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAnBR;AAsBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AArBR;AAwBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAtBR;AA0BQ;EACI,SAAA;AAxBZ;AA4BI;EACI,iBAAA;AA1BR;AA4BQ;EACI,gBAAA;AA1BZ;AA6BQ;EACI,2BAAA;AA3BZ;AA8BQ;EACI,8BAAA;AA5BZ;AAgCI;EACI,aAAA;AA9BR;AAgCQ;EACI,SAAA;AA9BZ;AAiCQ;EACI,uBAAA;AA/BZ;AAkCQ;EACI,gBAAA;AAhCZ;AAmCQ;EACI,mBAAA;AAjCZ;AAqCI;EACI,UAAA;AAnCR;AAsCI;EACI,aAAA;EACA,mBAAA;EACA,yBC9KO;AD0If;AAsCQ;EACI,UAAA;AApCZ;AAuCQ;EACI,sBCpLE;AD+Id;AAwCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AAtCZ;AAwCY;EACI,sBC7LF;ADuJd;AA8CA;EACI,0BAAA;EACA,WAAA;EACA,mBAAA;EACA,kBAAA;AA3CJ;AA6CI;EACI,eAAA;AA3CR;AA6CQ;EACY,wBAAA;AA3CpB;AA8CQ;EACI,YAAA;AA5CZ;AAgDY;EACI,uBCvNF;ADyKd;AAkDQ;EACI,aAAA;EACA,sBAAA;EACA,WAAA;AAhDZ;AAkDY;EACI,uBCjOF;ADiLd;AAmDY;EACI,aAAA;EACA,sBAAA;EACA,gBAAA;AAjDhB;AAqDQ;;EAEI,aAAA;EACA,sBAAA;EACA,WAAA;AAnDZ;AAqDY;;EACI,aAAA;AAlDhB;AAoDgB;;EACI,qBAAA;EACA,cAAA;EACA,WAAA;AAjDpB;AA+DgB;EACI,WAAA;AA7DpB;AA8DoB;EACI,iBAAA;AA5DxB;AA+DwB;EACI,kBAAA;AA7D5B;AAiEwB;EACI,uBAAA;AA/D5B;AAkEwB;EACI,gBAAA;AAhE5B;AAmEwB;EACI,WAAA;AAjE5B;AAoEwB;EACI,iBAAA;EACA,WAAA;AAlE5B;AAqEwB;EACI,aAAA;EACA,mBAAA;EACA,uBAAA;AAnE5B;AAsEwB;EACI,kBAAA;EACA,yBAAA;UAAA,iBAAA;EACA,YAAA;AApE5B;AAsE4B;EAAU,wBAAA;AAnEtC;AAqE4B;EACI,gBAAA;EACA,qBAAA;EACA,uBAAA;EACA,eAAA;EACA,kBAAA;EACA,mBAAA;EAEA,0CAAA;AApEhC;AAuE4B;EACI,kBAAA;EACA,sBAAA;EACA,sBAAA;EACA,qBAAA;EACA,iBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;AArEhC;AAuEgC;EACI,mBAAA;EACA,WAAA;AArEpC;AAuEoC;EACI,cAAA;EACA,WAAA;AArExC;AAwEoC;EACI,sBAAA;EACA,oBAAA;AAtExC;AA8EgB;EACI,sBAAA;EACA,kCAAA;EACA,cAAA;AA5EpB;AA8EoB;EACI,eAAA;EACA,iBAAA;EACA,iBAAA;AA5ExB;AAsFY;EACI,WAAA;AApFhB;AAqFiB;EACO,iBAAA;AAnFxB;AAsFoB;EACI,kBAAA;AApFxB;AAwFoB;EACI,WAAA;AAtFxB;AA0FY;EACI,yBAAA;EACA,qBAAA;EACA,eAAA;EACA,6BAAA;AAxFhB;AA0FgB;EACI,uBC/XN;ADuSd;AA2FgB;EACI,aAAA;EACA,8BAAA;EACA,SAAA;AAzFpB;AA2FoB;EACI,aAAA;EACA,gBAAA;AAzFxB;AA2FwB;EACI,qBAAA;EACA,kBAAA;EACA,WAAA;AAzF5B;AAgGQ;EACI,aAAA;EACA,sBAAA;AA9FZ;AAgGY;EACI,uBC1ZF;AD4Td;AAkGgB;EACI,uBC/ZN;AD+Td;AAoGY;EACI,sBAAA;EACA,kCAAA;EACA,eAAA;AAlGhB;AAoGgB;EACI,sBAAA;AAlGpB;AAqGgB;EACI,aAAA;EACA,mBAAA;EACA,mBAAA;AAnGpB;AAqGoB;EACI,qBAAA;EACA,uBAAA;EACA,oBAAA;EACA,gBAAA;EACA,WAAA;AAnGxB;AAyGO;EACK,kCC7bE;ED8bF,sBAAA;EACA,WAAA;EACA,iBAAA;EACA,eAAA;AAvGZ;AA4GA;EACI,aAAA;AAzGJ;AA4GA;EACI,UAAA;AAzGJ","sourcesContent":["@import 'variables';\n\n.modal {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */\n    z-index: 1;\n    overflow: auto;\n\n    p {\n        padding-top: 7px;\n        padding-bottom: 7px;\n    }\n    ul {\n        list-style: inside;\n    }\n    &.hidden {\n        display: none;\n    }\n\n    .modal-dialog {\n        margin: 15% auto; /* 15% from the top and centered */\n        // padding: 20px;\n        border: 1px solid #888;\n        background-color: white;\n        width: 80%; /* Could be more or less, depending on screen size */\n\n        .modal-header {\n            font-size: larger;\n            background-color: $header-color;\n            width: 100%;\n\n            .close-button {\n                float: right;\n                padding: 1px;\n            }\n            .modal-title {\n                color: white;\n                text-align: center;\n                margin-left: auto;\n                width: 100%;\n            }\n            .modal-body {\n                padding: 40px;\n            }\n        }\n    }\n}\n\n.scenario-editor {\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n        font-size: x-large;\n    }\n\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n\n    .inline-editor {\n        padding-top: 20px;\n        // padding-bottom: 20px;\n        table {\n            border-bottom: 0;\n        }\n\n        thead {\n            background-color: lightgray;\n        }\n\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n\n    .add-entity {\n        padding: 20px;\n\n        table {\n            border: 0;\n        }\n\n        thead {\n            background-color: white;\n        }\n\n        th {\n            border-bottom: 0;\n        }\n\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n\n}\n\n.scenario-form-wrapper {\n    border-top: 1px solid #222;\n    width: 100%;\n    height: 100% -58px - 48px; //subtract header and tab heights\n    overflow-y: scroll;\n\n    .scenario-form {\n        padding: 0.5rem;\n\n        &.scenario-view-hidden {\n                    display: none !important;\n            }\n\n        .save-changes {\n            float: right;\n        }\n\n        .info-wrapper {\n            h1 {\n                color: $pastel-blue;\n            }\n        }\n\n        #basic-info {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            label {\n                display: flex;\n                flex-direction: column;\n                font-weight: 500;\n            }\n        }\n\n        #sample,\n        #opqrst {\n            display: flex;\n            flex-direction: column;\n            gap: 0.5rem;\n\n            label {\n                display: flex;\n\n                input {\n                    display: inline-block;\n                    margin: 0 1rem;\n                    width: 100%;\n                }\n            }\n        }\n\n        #medications {\n            // display: flex;\n            // flex-direction: column;\n            // gap: 0.5rem;\n\n            .meds-wrapper {\n                // display: grid;\n                // grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));\n                // gap: 0.5rem;\n                table {\n                    width: 100%;\n                    th {\n                        font-weight: bold;\n                    }\n                    thead {\n                        th {\n                            text-align: center;\n                        }\n                    }\n                    tbody {\n                        tr {\n                            outline: 1px solid #333;\n                        }\n\n                        td {\n                            padding: 0.35rem;\n                        }\n\n                        input[type=text] {\n                            width: 100%;\n                        }\n\n                        .value-hint {\n                            font-size: 0.9rem;\n                            color: #bbb;\n                        }\n\n                        .route-dropdown {\n                            display: flex;\n                            align-items: center;\n                            justify-content: center;\n                        }\n\n                        .contraindications {\n                            position: relative;\n                            user-select: none;\n                            margin: auto;\n\n                            .hidden { display: none !important; }\n\n                            .dropdown {\n                                background: #eee;\n                                border-radius: 0.5rem;\n                                padding: 0.25rem 0.5rem;\n                                cursor: pointer;\n                                width: min-content;\n                                white-space: nowrap;\n\n                                box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);\n                            }\n\n                            .checklist {\n                                position: absolute;\n                                background-color: #fff;\n                                border: 1px solid #999;\n                                border-radius: 0.5rem;\n                                max-height: 15rem;\n                                overflow-y: auto;\n                                z-index: 99;\n                                text-align: left;\n\n                                .contraindication {\n                                    white-space: nowrap;\n                                    width: 100%;\n\n                                    label {\n                                        display: block;\n                                        width: 100%;\n                                    }\n\n                                    input[type=checkbox] {\n                                        vertical-align: middle;\n                                        margin-right: 0.5rem;\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n\n                label {\n                    border: 1px solid #ddd;\n                    border-style: none none solid none;\n                    padding: 0.5em;\n\n                    input {\n                        max-width: 15em;\n                        margin-left: auto;\n                        margin-right: 3em;\n                    }\n                }\n            }\n        }\n\n        .vitals {\n            // display: grid;\n            // grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));\n            // gap: 1rem;\n            table {\n                width: 100%;\n                 th {\n                        font-weight: bold;\n                    }\n                thead {\n                    th {\n                        text-align: center;\n                    }\n                }\n                tbody {\n                    input {\n                        width: 100%;\n                    }\n                }\n            }\n            .vital-wrapper {\n                border: 1px solid $header-color;\n                border-radius: 0.5rem;\n                padding: 0.5rem;\n                max-width: calc(100vw - 1rem);\n\n                h1 {\n                    color: $pastel-blue;\n                }\n\n                .vitals-box {\n                    display: grid;\n                    grid-template-columns: 1fr 1fr;\n                    gap: 1rem;\n\n                    label {\n                        display: flex;\n                        font-weight: 500;\n\n                        input {\n                            display: inline-block;\n                            margin: 0 0 0 1rem;\n                            width: 100%;\n                        }\n                    }\n                }\n            }\n        }\n\n        #scenario-steps {\n            display: flex;\n            flex-direction: column;\n\n            h1 {\n                color: $pastel-blue;\n            }\n\n            .header-item {\n                h2 {\n                    color: $pastel-blue;\n                }\n            }\n\n            .step-item {\n                border: 1px solid #333;\n                border-style: none none solid none;\n                padding: 0.5rem;\n\n                &:nth-child(odd) {\n                    background-color: #eee;\n                }\n\n                label {\n                    display: flex;\n                    align-items: center;\n                    white-space: nowrap;\n\n                    input {\n                        display: inline-block;\n                        max-height: min-content;\n                        align-self: flex-end;\n                        margin-left: 1em;\n                        width: 100%;\n                    }\n                }\n            }\n        }\n    }\n       #submit-next {\n            background-color: $pastel-blue;\n            padding: 0.75em 1.25em;\n            color: #ddd;\n            margin-left: auto;\n            cursor: pointer;\n        }\n}\n\n\n.hidden {\n    display: none;\n}\n\n.error {\n    color: red;\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 8881:
+/***/ 3565:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".scenario-type-editor b {\n  font-weight: bold;\n}\n.scenario-type-editor a {\n  color: purple;\n}\n.scenario-type-editor table {\n  width: 100%;\n  border: 1px solid black;\n  border-spacing: 0;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.scenario-type-editor colgroup {\n  width: 100%;\n}\n.scenario-type-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.scenario-type-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-type-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n}\n.scenario-type-editor button {\n  background-color: white;\n}\n.scenario-type-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-type-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-type-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-type-editor .details-editor table {\n  border: 0;\n}\n.scenario-type-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-type-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-type-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-type-editor .add-entity table {\n  border: 0;\n}\n.scenario-type-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-type-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-type-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-type-editor .err-msg {\n  color: red;\n}\n.scenario-type-editor .save-button-wrapper {\n  display: flex;\n  flex-flow: row-reverse;\n}\n.scenario-type-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-type-editor #tab-selector button {\n  all: unset;\n}\n.scenario-type-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-type-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-type-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/scenario-type.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAII;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;EACA,uBAAA;EACA,iBAAA;EACA,eAAA;EACA,kBAAA;AALR;AAOI;EACI,WAAA;AALR;AAOI;EACI,gBAAA;EACA,iBAAA;AALR;AAQI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AANR;AAQI;EACI,iBAAA;EACA,iBAAA;AANR;AAQI;EACI,uBAAA;AANR;AAcI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAZR;AAeI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAiBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAkBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAjBR;AAoBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAlBR;AAsBQ;EACI,SAAA;AApBZ;AAwBQ;EACI,gBAAA;AAtBZ;AAwBQ;EACI,2BAAA;AAtBZ;AAwBQ;EACI,8BAAA;AAtBZ;AA0BQ;EACI,SAAA;AAxBZ;AA0BQ;EACI,uBAAA;AAxBZ;AA0BQ;EACI,gBAAA;AAxBZ;AA0BQ;EACI,mBAAA;AAxBZ;AA4BI;EACI,UAAA;AA1BR;AA6BI;EACI,aAAA;EACA,sBAAA;AA3BR;AA8BI;EACI,aAAA;EACA,mBAAA;EACA,yBCzIO;AD6Gf;AA8BQ;EACI,UAAA;AA5BZ;AA+BQ;EACI,sBC/IE;ADkHd;AAgCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AA9BZ;AAgCY;EACI,sBCxJF;AD0Hd","sourcesContent":["@import 'variables';\n\n.scenario-type-editor {\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    table {\n        width: 100%;\n        border: 1px solid black;\n        border-spacing: 0;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    colgroup {\n        width: 100%;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n    }\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n    .inline-editor {\n        table {\n            border-bottom: 0;\n        }\n        thead {\n            background-color: lightgray;\n        }\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n    .add-entity {\n        table {\n            border: 0;\n        }\n        thead {\n            background-color: white;\n        }\n        th {\n            border-bottom: 0;\n        }\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    .save-button-wrapper {\n        display: flex;\n        flex-flow: row-reverse;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".scenario-type-editor b {\n  font-weight: bold;\n}\n.scenario-type-editor a {\n  color: purple;\n}\n.scenario-type-editor table {\n  width: 100%;\n  border: 1px solid black;\n  border-spacing: 0;\n  margin-top: 5px;\n  margin-bottom: 5px;\n}\n.scenario-type-editor colgroup {\n  width: 100%;\n}\n.scenario-type-editor th {\n  text-align: left;\n  font-weight: bold;\n}\n.scenario-type-editor fieldset {\n  margin: 5px;\n  margin-bottom: 15px;\n  padding: 5px;\n}\n.scenario-type-editor legend {\n  padding-left: 5px;\n  font-weight: bold;\n}\n.scenario-type-editor button {\n  background-color: white;\n}\n.scenario-type-editor button.swap-btn {\n  font-size: smaller;\n  padding-top: 2px;\n  padding-bottom: 2px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.delete-btn {\n  background-color: red;\n  color: white;\n  border: 1px solid red;\n  font-size: smaller;\n  padding-top: 1px;\n  padding-bottom: 1px;\n  padding-left: 3px;\n  padding-right: 3px;\n  border-radius: 0;\n}\n.scenario-type-editor button.add-btn {\n  margin-left: 10px;\n  color: white;\n  background-color: green;\n  padding-top: 0;\n  padding-bottom: 0;\n  padding-left: 3px;\n  padding-right: 3px;\n  border: 1px solid green;\n  border-radius: 0;\n}\n.scenario-type-editor button.save-btn {\n  background-color: red;\n  color: white;\n  flex: 1;\n  justify-content: flex-end;\n  flex-grow: 0;\n}\n.scenario-type-editor .breadcrumbs {\n  border: 1px solid black;\n  padding: 2px;\n  margin-bottom: 20px;\n}\n.scenario-type-editor .details-editor table {\n  border: 0;\n}\n.scenario-type-editor .inline-editor table {\n  border-bottom: 0;\n}\n.scenario-type-editor .inline-editor thead {\n  background-color: lightgray;\n}\n.scenario-type-editor .inline-editor th {\n  border-bottom: 1px solid black;\n}\n.scenario-type-editor .add-entity table {\n  border: 0;\n}\n.scenario-type-editor .add-entity thead {\n  background-color: white;\n}\n.scenario-type-editor .add-entity th {\n  border-bottom: 0;\n}\n.scenario-type-editor .add-entity td {\n  vertical-align: top;\n}\n.scenario-type-editor .err-msg {\n  color: red;\n}\n.scenario-type-editor .save-button-wrapper {\n  display: flex;\n  flex-flow: row-reverse;\n}\n.scenario-type-editor #tab-selector {\n  display: flex;\n  flex-flow: row wrap;\n  background-color: #353535;\n}\n.scenario-type-editor #tab-selector button {\n  all: unset;\n}\n.scenario-type-editor #tab-selector .active-tab {\n  background-color: #222;\n}\n.scenario-type-editor #tab-selector .tab-button {\n  color: #ddd;\n  cursor: pointer;\n  padding: 0.75em 1.25em;\n}\n.scenario-type-editor #tab-selector .tab-button:hover {\n  background-color: #222;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/scenario-type.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAII;EACI,iBAAA;AAHR;AAMI;EACI,aAAA;AAJR;AAOI;EACI,WAAA;EACA,uBAAA;EACA,iBAAA;EACA,eAAA;EACA,kBAAA;AALR;AAOI;EACI,WAAA;AALR;AAOI;EACI,gBAAA;EACA,iBAAA;AALR;AAQI;EACI,WAAA;EACA,mBAAA;EACA,YAAA;AANR;AAQI;EACI,iBAAA;EACA,iBAAA;AANR;AAQI;EACI,uBAAA;AANR;AAcI;EACI,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAZR;AAeI;EAEI,qBAAA;EACA,YAAA;EACA,qBAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,iBAAA;EACA,kBAAA;EACA,gBAAA;AAdR;AAiBI;EACI,iBAAA;EACA,YAAA;EACA,uBAAA;EACA,cAAA;EACA,iBAAA;EACA,iBAAA;EACA,kBAAA;EACA,uBAAA;EACA,gBAAA;AAfR;AAkBI;EACI,qBAAA;EACA,YAAA;EACA,OAAA;EACA,yBAAA;EAEA,YAAA;AAjBR;AAoBI;EACI,uBAAA;EACA,YAAA;EACA,mBAAA;AAlBR;AAsBQ;EACI,SAAA;AApBZ;AAwBQ;EACI,gBAAA;AAtBZ;AAwBQ;EACI,2BAAA;AAtBZ;AAwBQ;EACI,8BAAA;AAtBZ;AA0BQ;EACI,SAAA;AAxBZ;AA0BQ;EACI,uBAAA;AAxBZ;AA0BQ;EACI,gBAAA;AAxBZ;AA0BQ;EACI,mBAAA;AAxBZ;AA4BI;EACI,UAAA;AA1BR;AA6BI;EACI,aAAA;EACA,sBAAA;AA3BR;AA8BI;EACI,aAAA;EACA,mBAAA;EACA,yBCzIO;AD6Gf;AA8BQ;EACI,UAAA;AA5BZ;AA+BQ;EACI,sBC/IE;ADkHd;AAgCQ;EACI,WAAA;EACA,eAAA;EACA,sBAAA;AA9BZ;AAgCY;EACI,sBCxJF;AD0Hd","sourcesContent":["@import 'variables';\n\n.scenario-type-editor {\n\n    b {\n        font-weight: bold;\n    }\n\n    a {\n        color: purple;\n    }\n\n    table {\n        width: 100%;\n        border: 1px solid black;\n        border-spacing: 0;\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n    colgroup {\n        width: 100%;\n    }\n    th {\n        text-align: left;\n        font-weight: bold;\n    }\n\n    fieldset {\n        margin: 5px;\n        margin-bottom: 15px;\n        padding: 5px;\n    }\n    legend {\n        padding-left: 5px;\n        font-weight: bold;\n    }\n    button {\n        background-color: white;\n    }\n\n    // button:disabled {\n    //     background-color: lightgray;\n    //     pointer-events: none;\n    // }\n\n    button.swap-btn {\n        font-size: smaller;\n        padding-top: 2px;\n        padding-bottom: 2px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.delete-btn {\n        // margin-left: 10px;\n        background-color: red;\n        color: white;\n        border: 1px solid red;\n        font-size: smaller;\n        padding-top: 1px;\n        padding-bottom: 1px;\n        padding-left: 3px;\n        padding-right: 3px;\n        border-radius: 0;\n    }\n\n    button.add-btn {\n        margin-left: 10px;\n        color: white;\n        background-color: green;\n        padding-top: 0;\n        padding-bottom: 0;\n        padding-left: 3px;\n        padding-right: 3px;\n        border: 1px solid green;\n        border-radius: 0;\n    }\n\n    button.save-btn {\n        background-color: red;\n        color: white;\n        flex: 1;\n        justify-content: flex-end;\n        // width: 60px;\n        flex-grow: 0;\n    }\n\n    .breadcrumbs {\n        border: 1px solid black;\n        padding: 2px;\n        margin-bottom: 20px;\n    }\n\n    .details-editor {\n        table {\n            border: 0;\n        }\n    }\n    .inline-editor {\n        table {\n            border-bottom: 0;\n        }\n        thead {\n            background-color: lightgray;\n        }\n        th {\n            border-bottom: 1px solid black;\n        }\n    }\n    .add-entity {\n        table {\n            border: 0;\n        }\n        thead {\n            background-color: white;\n        }\n        th {\n            border-bottom: 0;\n        }\n        td {\n            vertical-align: top;\n        }\n    }\n\n    .err-msg {\n        color: red;\n    }\n\n    .save-button-wrapper {\n        display: flex;\n        flex-flow: row-reverse;\n    }\n\n    #tab-selector {\n        display: flex;\n        flex-flow: row wrap;\n        background-color: $header-color;\n\n        button {\n            all: unset;\n        }\n\n        .active-tab {\n            background-color: $header-dark;\n        }\n\n        .tab-button {\n            color: #ddd;\n            cursor: pointer;\n            padding: 0.75em 1.25em;\n\n            &:hover {\n                background-color: $header-dark;\n            }\n        }\n    }\n\n}\n","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
-/***/ 2165:
+/***/ 6512:
 /***/ ((module) => {
 
-module.exports = [[module.id, ".tab-notebook {\n  background-color: #222;\n  width: 100%;\n  height: 100%;\n}\n.tab-notebook .tab-list {\n  width: 100%;\n  height: 50px;\n}\n.tab-notebook .tab-list .tab-button {\n  position: relative;\n  background-color: darkgray;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button .change-indicator {\n  position: absolute;\n  top: -15px;\n  right: 5px;\n  font-size: xx-large;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button.active {\n  background-color: royalblue;\n}\n.tab-notebook .tabs-content {\n  display: block;\n  width: 100%;\n  height: calc(100% - 50px);\n  background-color: white;\n}\n.tab-notebook .tabs-content .tab-pane {\n  width: 100%;\n  height: 100%;\n  padding: 10px;\n}", '', {"version":3,"sources":["/Users/user/Projects/monorepo/apps/data-entry/src/styles/tab-styles.scss","/Users/user/Projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,sBCFU;EDGV,WAAA;EACA,YAAA;AADJ;AAGI;EACI,WAAA;EACA,YAAA;AADR;AAGQ;EACI,kBAAA;EACA,0BAAA;EACA,YAAA;AADZ;AAGY;EACI,kBAAA;EACA,UAAA;EACA,UAAA;EACA,mBAAA;EACA,YAAA;AADhB;AAGY;EACI,2BAAA;AADhB;AAMI;EACI,cAAA;EACA,WAAA;EACA,yBAAA;EACA,uBAAA;AAJR;AAMQ;EACI,WAAA;EACA,YAAA;EACA,aAAA;AAJZ","sourcesContent":["@import 'variables';\n\n.tab-notebook {\n    background-color: $header-dark;\n    width: 100%;\n    height: 100%;\n\n    .tab-list {\n        width: 100%;\n        height: 50px;\n\n        .tab-button {\n            position: relative;\n            background-color: darkgray;\n            color: white;\n\n            .change-indicator {\n                position: absolute;\n                top: -15px;\n                right: 5px;\n                font-size: xx-large;\n                color: white;\n            }\n            &.active {\n                background-color: royalblue;\n            }\n        }\n\n    }\n    .tabs-content {\n        display: block;\n        width: 100%;\n        height: calc(100% - 50px);\n        background-color: white;\n\n        .tab-pane {\n            width: 100%;\n            height: 100%;\n            padding: 10px;\n        }\n\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
+module.exports = [[module.id, ".tab-notebook {\n  background-color: #222;\n  width: 100%;\n  height: 100%;\n}\n.tab-notebook .tab-list {\n  width: 100%;\n  height: 50px;\n}\n.tab-notebook .tab-list .tab-button {\n  position: relative;\n  background-color: darkgray;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button .change-indicator {\n  position: absolute;\n  top: -15px;\n  right: 5px;\n  font-size: xx-large;\n  color: white;\n}\n.tab-notebook .tab-list .tab-button.active {\n  background-color: royalblue;\n}\n.tab-notebook .tabs-content {\n  display: block;\n  width: 100%;\n  height: calc(100% - 50px);\n  background-color: white;\n}\n.tab-notebook .tabs-content .tab-pane {\n  width: 100%;\n  height: 100%;\n  padding: 10px;\n}", '', {"version":3,"sources":["/Users/sts125/projects/monorepo/apps/data-entry/src/styles/tab-styles.scss","/Users/sts125/projects/monorepo/apps/data-entry/src/styles/_variables.scss"],"names":[],"mappings":"AAEA;EACI,sBCFU;EDGV,WAAA;EACA,YAAA;AADJ;AAGI;EACI,WAAA;EACA,YAAA;AADR;AAGQ;EACI,kBAAA;EACA,0BAAA;EACA,YAAA;AADZ;AAGY;EACI,kBAAA;EACA,UAAA;EACA,UAAA;EACA,mBAAA;EACA,YAAA;AADhB;AAGY;EACI,2BAAA;AADhB;AAMI;EACI,cAAA;EACA,WAAA;EACA,yBAAA;EACA,uBAAA;AAJR;AAMQ;EACI,WAAA;EACA,YAAA;EACA,aAAA;AAJZ","sourcesContent":["@import 'variables';\n\n.tab-notebook {\n    background-color: $header-dark;\n    width: 100%;\n    height: 100%;\n\n    .tab-list {\n        width: 100%;\n        height: 50px;\n\n        .tab-button {\n            position: relative;\n            background-color: darkgray;\n            color: white;\n\n            .change-indicator {\n                position: absolute;\n                top: -15px;\n                right: 5px;\n                font-size: xx-large;\n                color: white;\n            }\n            &.active {\n                background-color: royalblue;\n            }\n        }\n\n    }\n    .tabs-content {\n        display: block;\n        width: 100%;\n        height: calc(100% - 50px);\n        background-color: white;\n\n        .tab-pane {\n            width: 100%;\n            height: 100%;\n            padding: 10px;\n        }\n\n    }\n}","$header-color: #353535;\n$header-dark: #222;\n$pastel-blue: rgb(90, 90, 195);\n$light-blue: rgb(150, 150, 255);"],"sourceRoot":""}]]
 
 /***/ }),
 
@@ -18564,23 +18616,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _g;
-
 var _excluded = ["title", "titleId"];
-
 function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
-
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
-
 function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
-
-
 
 
 var SvgCollapse = function SvgCollapse(_ref, ref) {
   var title = _ref.title,
-      titleId = _ref.titleId,
-      props = _objectWithoutProperties(_ref, _excluded);
-
+    titleId = _ref.titleId,
+    props = _objectWithoutProperties(_ref, _excluded);
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", _extends({
     id: "Layer_1",
     xmlns: "http://www.w3.org/2000/svg",
@@ -18597,7 +18642,6 @@ var SvgCollapse = function SvgCollapse(_ref, ref) {
     points: "163.595,176.022 41.672,176.022 91.924,226.275 0,318.198 21.213,339.411 113.137,247.488 163.596,297.947  "
   }))));
 };
-
 var ForwardRef = /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.forwardRef)(SvgCollapse);
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/svg+xml;base64,PHN2ZwoJdmVyc2lvbj0iMS4xIgoJaWQ9IkxheWVyXzEiCgl4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCgl4PSIwcHgiCgl5PSIwcHgiCgl2aWV3Qm94PSIwIDAgMzM5LjQxMSAzMzkuNDExIgo+Cgk8Zz4KCQk8cG9seWdvbiBwb2ludHM9IjMzOS40MTEsMjEuMjEzIDMxOC4xOTgsMCAyMjYuMjc0LDkxLjkyNCAxNzYuMDIyLDQxLjY3MiAxNzYuMDIyLDE2My41OTYgMjk3Ljk0NiwxNjMuNTk2IDI0Ny40ODcsMTEzLjEzNyAJIi8+CgkJPHBvbHlnb24gcG9pbnRzPSIxNjMuNTk1LDE3Ni4wMjIgNDEuNjcyLDE3Ni4wMjIgOTEuOTI0LDIyNi4yNzUgMCwzMTguMTk4IDIxLjIxMywzMzkuNDExIDExMy4xMzcsMjQ3LjQ4OCAxNjMuNTk2LDI5Ny45NDcgCSIvPgoJPC9nPgo8L3N2Zz4=");
@@ -18616,23 +18660,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2784);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _g;
-
 var _excluded = ["title", "titleId"];
-
 function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
-
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
-
 function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
-
-
 
 
 var SvgExpand = function SvgExpand(_ref, ref) {
   var title = _ref.title,
-      titleId = _ref.titleId,
-      props = _objectWithoutProperties(_ref, _excluded);
-
+    titleId = _ref.titleId,
+    props = _objectWithoutProperties(_ref, _excluded);
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("svg", _extends({
     id: "Layer_1",
     xmlns: "http://www.w3.org/2000/svg",
@@ -18649,7 +18686,6 @@ var SvgExpand = function SvgExpand(_ref, ref) {
     points: "238.059,0 238.059,30 300.84,30 186.633,144.208 207.846,165.42 322.054,51.213 322.054,113.995 352.054,113.995 352.054,0"
   }))));
 };
-
 var ForwardRef = /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.forwardRef)(SvgExpand);
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/svg+xml;base64,PHN2ZwoJdmVyc2lvbj0iMS4xIgoJaWQ9IkxheWVyXzEiCgl4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCgl4PSIwcHgiCgl5PSIwcHgiCgl2aWV3Qm94PSIwIDAgMzUyLjA1NCAzNTIuMDU0Igo+Cgk8Zz4KCQk8cG9seWdvbgoJCQlwb2ludHM9IjE0NC4yMDYsMTg2LjYzNCAzMCwzMDAuODQgMzAsMjM4LjA1OSAwLDIzOC4wNTkgMCwzNTIuMDU0IDExMy45OTUsMzUyLjA1NCAxMTMuOTk1LDMyMi4wNTQgNTEuMjEyLDMyMi4wNTQgMTY1LjQxOSwyMDcuODQ3IgoJCS8+CgkJPHBvbHlnb24KCQkJcG9pbnRzPSIyMzguMDU5LDAgMjM4LjA1OSwzMCAzMDAuODQsMzAgMTg2LjYzMywxNDQuMjA4IDIwNy44NDYsMTY1LjQyIDMyMi4wNTQsNTEuMjEzIDMyMi4wNTQsMTEzLjk5NSAzNTIuMDU0LDExMy45OTUgMzUyLjA1NCwwIgoJCS8+Cgk8L2c+Cjwvc3ZnPg==");
@@ -18665,11 +18701,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"container":"auth-styles_container__10AGD","container-fluid":"auth-styles_container-fluid__fwIkl","container-xl":"auth-styles_container-xl__3ys0F","container-lg":"auth-styles_container-lg__5IrFs","container-md":"auth-styles_container-md__30y2c","container-sm":"auth-styles_container-sm__3rV-I","row":"auth-styles_row__2mDwO","no-gutters":"auth-styles_no-gutters__2JKk5","col":"auth-styles_col__3ldCj","col-xl":"auth-styles_col-xl__2Y9VE","col-xl-auto":"auth-styles_col-xl-auto__1NU79","col-xl-12":"auth-styles_col-xl-12__2cHm3","col-xl-11":"auth-styles_col-xl-11__3NJtT","col-xl-10":"auth-styles_col-xl-10__2KsYU","col-xl-9":"auth-styles_col-xl-9__1xLiS","col-xl-8":"auth-styles_col-xl-8__3erd8","col-xl-7":"auth-styles_col-xl-7__2fcIl","col-xl-6":"auth-styles_col-xl-6__1sdz8","col-xl-5":"auth-styles_col-xl-5__3RtO0","col-xl-4":"auth-styles_col-xl-4__1Tdlx","col-xl-3":"auth-styles_col-xl-3__1eyqY","col-xl-2":"auth-styles_col-xl-2__3Q8G3","col-xl-1":"auth-styles_col-xl-1__2L8ID","col-lg":"auth-styles_col-lg__27OgK","col-lg-auto":"auth-styles_col-lg-auto__37EzL","col-lg-12":"auth-styles_col-lg-12__1UdqO","col-lg-11":"auth-styles_col-lg-11__WDNJE","col-lg-10":"auth-styles_col-lg-10__1Q9Mt","col-lg-9":"auth-styles_col-lg-9__1sq-o","col-lg-8":"auth-styles_col-lg-8__3Opus","col-lg-7":"auth-styles_col-lg-7__2bxn2","col-lg-6":"auth-styles_col-lg-6__1R-_o","col-lg-5":"auth-styles_col-lg-5__keq_w","col-lg-4":"auth-styles_col-lg-4__BOl7q","col-lg-3":"auth-styles_col-lg-3__c4ose","col-lg-2":"auth-styles_col-lg-2__2Ldvo","col-lg-1":"auth-styles_col-lg-1__2eOCB","col-md":"auth-styles_col-md__280Kr","col-md-auto":"auth-styles_col-md-auto__3b9B1","col-md-12":"auth-styles_col-md-12__1d6nc","col-md-11":"auth-styles_col-md-11__3dcqK","col-md-10":"auth-styles_col-md-10__rLZ-p","col-md-9":"auth-styles_col-md-9__OvPfP","col-md-8":"auth-styles_col-md-8__3WMD0","col-md-7":"auth-styles_col-md-7__2oSlY","col-md-6":"auth-styles_col-md-6__3peJd","col-md-5":"auth-styles_col-md-5__31sX_","col-md-4":"auth-styles_col-md-4__2J1-h","col-md-3":"auth-styles_col-md-3__1KjCA","col-md-2":"auth-styles_col-md-2__-yWxg","col-md-1":"auth-styles_col-md-1__VXFTn","col-sm":"auth-styles_col-sm__2ySNy","col-sm-auto":"auth-styles_col-sm-auto__1qooL","col-sm-12":"auth-styles_col-sm-12__2oSEw","col-sm-11":"auth-styles_col-sm-11__1GFbu","col-sm-10":"auth-styles_col-sm-10__3xeeR","col-sm-9":"auth-styles_col-sm-9__2G2BH","col-sm-8":"auth-styles_col-sm-8__16wvo","col-sm-7":"auth-styles_col-sm-7__8Gwhq","col-sm-6":"auth-styles_col-sm-6__2PLpR","col-sm-5":"auth-styles_col-sm-5__3FYYp","col-sm-4":"auth-styles_col-sm-4__vU45W","col-sm-3":"auth-styles_col-sm-3__2rUc2","col-sm-2":"auth-styles_col-sm-2__3tlGJ","col-sm-1":"auth-styles_col-sm-1__1gSFk","col-auto":"auth-styles_col-auto__mOtLf","col-12":"auth-styles_col-12__HkJhz","col-11":"auth-styles_col-11__1TZkf","col-10":"auth-styles_col-10__2PHE5","col-9":"auth-styles_col-9__3upp1","col-8":"auth-styles_col-8__3OMmH","col-7":"auth-styles_col-7__3y0BG","col-6":"auth-styles_col-6__z2OvX","col-5":"auth-styles_col-5__1bmv4","col-4":"auth-styles_col-4__ooaUD","col-3":"auth-styles_col-3__3md1A","col-2":"auth-styles_col-2__ZG0mP","col-1":"auth-styles_col-1__3vw5D","row-cols-1":"auth-styles_row-cols-1__1FgYA","row-cols-2":"auth-styles_row-cols-2__T22x2","row-cols-3":"auth-styles_row-cols-3__33SFY","row-cols-4":"auth-styles_row-cols-4__1Upyr","row-cols-5":"auth-styles_row-cols-5__3s0l2","row-cols-6":"auth-styles_row-cols-6__195mx","order-first":"auth-styles_order-first__32Xyg","order-last":"auth-styles_order-last__1gpEV","order-0":"auth-styles_order-0__37anm","order-1":"auth-styles_order-1__1cYTz","order-2":"auth-styles_order-2__2WgEu","order-3":"auth-styles_order-3__1c1Ge","order-4":"auth-styles_order-4__7ses6","order-5":"auth-styles_order-5__OPIHT","order-6":"auth-styles_order-6__2EExL","order-7":"auth-styles_order-7__-LNNy","order-8":"auth-styles_order-8__17xHi","order-9":"auth-styles_order-9__3KedA","order-10":"auth-styles_order-10__2Rcp7","order-11":"auth-styles_order-11__1ldSL","order-12":"auth-styles_order-12__QYXvE","offset-1":"auth-styles_offset-1__S_yky","offset-2":"auth-styles_offset-2__3L8fT","offset-3":"auth-styles_offset-3__1R6FV","offset-4":"auth-styles_offset-4__1uA9L","offset-5":"auth-styles_offset-5__2pHj2","offset-6":"auth-styles_offset-6__1WM7j","offset-7":"auth-styles_offset-7__2l8T6","offset-8":"auth-styles_offset-8__2PX1q","offset-9":"auth-styles_offset-9__NHkNE","offset-10":"auth-styles_offset-10__3A8Zk","offset-11":"auth-styles_offset-11__q7vhc","row-cols-sm-1":"auth-styles_row-cols-sm-1__2IW8N","row-cols-sm-2":"auth-styles_row-cols-sm-2__2TmMR","row-cols-sm-3":"auth-styles_row-cols-sm-3__1Bcpm","row-cols-sm-4":"auth-styles_row-cols-sm-4__2Jgca","row-cols-sm-5":"auth-styles_row-cols-sm-5__1wTaB","row-cols-sm-6":"auth-styles_row-cols-sm-6__N7dM_","order-sm-first":"auth-styles_order-sm-first__1LHjA","order-sm-last":"auth-styles_order-sm-last__1OG2P","order-sm-0":"auth-styles_order-sm-0__3VAGC","order-sm-1":"auth-styles_order-sm-1__3zlDN","order-sm-2":"auth-styles_order-sm-2__2Id98","order-sm-3":"auth-styles_order-sm-3__15b2I","order-sm-4":"auth-styles_order-sm-4__170Pr","order-sm-5":"auth-styles_order-sm-5__1TtxJ","order-sm-6":"auth-styles_order-sm-6__9pb2G","order-sm-7":"auth-styles_order-sm-7__SIm6q","order-sm-8":"auth-styles_order-sm-8__2t0hf","order-sm-9":"auth-styles_order-sm-9__17vw7","order-sm-10":"auth-styles_order-sm-10__31bMw","order-sm-11":"auth-styles_order-sm-11__2ReIr","order-sm-12":"auth-styles_order-sm-12__1ViJl","offset-sm-0":"auth-styles_offset-sm-0__UP_Ye","offset-sm-1":"auth-styles_offset-sm-1__3svSJ","offset-sm-2":"auth-styles_offset-sm-2__3POI4","offset-sm-3":"auth-styles_offset-sm-3__1w0kW","offset-sm-4":"auth-styles_offset-sm-4__3JWGY","offset-sm-5":"auth-styles_offset-sm-5__2EEPf","offset-sm-6":"auth-styles_offset-sm-6__22GCC","offset-sm-7":"auth-styles_offset-sm-7__2q_3d","offset-sm-8":"auth-styles_offset-sm-8__2HZtt","offset-sm-9":"auth-styles_offset-sm-9__2Y-bk","offset-sm-10":"auth-styles_offset-sm-10__3jNcV","offset-sm-11":"auth-styles_offset-sm-11__3Q0ul","row-cols-md-1":"auth-styles_row-cols-md-1__xFmDr","row-cols-md-2":"auth-styles_row-cols-md-2__qZ_pn","row-cols-md-3":"auth-styles_row-cols-md-3__3uzyG","row-cols-md-4":"auth-styles_row-cols-md-4__1xY6o","row-cols-md-5":"auth-styles_row-cols-md-5__ir_PD","row-cols-md-6":"auth-styles_row-cols-md-6__37Dx8","order-md-first":"auth-styles_order-md-first__PXmJ9","order-md-last":"auth-styles_order-md-last__18UQ7","order-md-0":"auth-styles_order-md-0__RcECW","order-md-1":"auth-styles_order-md-1__3Ixnl","order-md-2":"auth-styles_order-md-2__m1tAM","order-md-3":"auth-styles_order-md-3__QDe0k","order-md-4":"auth-styles_order-md-4__31o0n","order-md-5":"auth-styles_order-md-5__3WXPf","order-md-6":"auth-styles_order-md-6__3ULOf","order-md-7":"auth-styles_order-md-7__3VjfE","order-md-8":"auth-styles_order-md-8__3u3G9","order-md-9":"auth-styles_order-md-9__20_DE","order-md-10":"auth-styles_order-md-10__3nlP7","order-md-11":"auth-styles_order-md-11__21LDw","order-md-12":"auth-styles_order-md-12__k3d-a","offset-md-0":"auth-styles_offset-md-0__328EE","offset-md-1":"auth-styles_offset-md-1__1Pv38","offset-md-2":"auth-styles_offset-md-2__EkZRk","offset-md-3":"auth-styles_offset-md-3__1QwfK","offset-md-4":"auth-styles_offset-md-4__2qkvS","offset-md-5":"auth-styles_offset-md-5__2-1Sl","offset-md-6":"auth-styles_offset-md-6__1foUV","offset-md-7":"auth-styles_offset-md-7__1lT_G","offset-md-8":"auth-styles_offset-md-8__3LqIe","offset-md-9":"auth-styles_offset-md-9__2NZK4","offset-md-10":"auth-styles_offset-md-10__1-I-n","offset-md-11":"auth-styles_offset-md-11__30FC1","row-cols-lg-1":"auth-styles_row-cols-lg-1__2BeEB","row-cols-lg-2":"auth-styles_row-cols-lg-2__1-duX","row-cols-lg-3":"auth-styles_row-cols-lg-3__1Ppur","row-cols-lg-4":"auth-styles_row-cols-lg-4__vslwG","row-cols-lg-5":"auth-styles_row-cols-lg-5__34Bqy","row-cols-lg-6":"auth-styles_row-cols-lg-6__17nYq","order-lg-first":"auth-styles_order-lg-first__2KPTW","order-lg-last":"auth-styles_order-lg-last__sd62e","order-lg-0":"auth-styles_order-lg-0__14g0P","order-lg-1":"auth-styles_order-lg-1__1-Fi6","order-lg-2":"auth-styles_order-lg-2__1UeSK","order-lg-3":"auth-styles_order-lg-3__2Bnqq","order-lg-4":"auth-styles_order-lg-4__3wLF4","order-lg-5":"auth-styles_order-lg-5__3BWET","order-lg-6":"auth-styles_order-lg-6__22vzu","order-lg-7":"auth-styles_order-lg-7__1q4YC","order-lg-8":"auth-styles_order-lg-8__2Wn2X","order-lg-9":"auth-styles_order-lg-9__2zwR0","order-lg-10":"auth-styles_order-lg-10__3S5Kf","order-lg-11":"auth-styles_order-lg-11__3lViv","order-lg-12":"auth-styles_order-lg-12__1HbM4","offset-lg-0":"auth-styles_offset-lg-0__3vXRO","offset-lg-1":"auth-styles_offset-lg-1__1qpeE","offset-lg-2":"auth-styles_offset-lg-2__2VlLm","offset-lg-3":"auth-styles_offset-lg-3__29oiZ","offset-lg-4":"auth-styles_offset-lg-4__3zPy2","offset-lg-5":"auth-styles_offset-lg-5__3NNON","offset-lg-6":"auth-styles_offset-lg-6__14HL7","offset-lg-7":"auth-styles_offset-lg-7__fw7as","offset-lg-8":"auth-styles_offset-lg-8__26zm0","offset-lg-9":"auth-styles_offset-lg-9__3lGAr","offset-lg-10":"auth-styles_offset-lg-10__1jr81","offset-lg-11":"auth-styles_offset-lg-11__SABrM","row-cols-xl-1":"auth-styles_row-cols-xl-1__2KEIY","row-cols-xl-2":"auth-styles_row-cols-xl-2__2Q9jD","row-cols-xl-3":"auth-styles_row-cols-xl-3__serpJ","row-cols-xl-4":"auth-styles_row-cols-xl-4__17lXh","row-cols-xl-5":"auth-styles_row-cols-xl-5__se3PY","row-cols-xl-6":"auth-styles_row-cols-xl-6__3Dv0I","order-xl-first":"auth-styles_order-xl-first__2cXN7","order-xl-last":"auth-styles_order-xl-last__3Bu_n","order-xl-0":"auth-styles_order-xl-0__QNT-4","order-xl-1":"auth-styles_order-xl-1__2uJW9","order-xl-2":"auth-styles_order-xl-2__1urQz","order-xl-3":"auth-styles_order-xl-3__HrnTR","order-xl-4":"auth-styles_order-xl-4__lqyBd","order-xl-5":"auth-styles_order-xl-5__1boyL","order-xl-6":"auth-styles_order-xl-6__2ljrn","order-xl-7":"auth-styles_order-xl-7__sAp62","order-xl-8":"auth-styles_order-xl-8__3QIeu","order-xl-9":"auth-styles_order-xl-9__30U3w","order-xl-10":"auth-styles_order-xl-10__1ST15","order-xl-11":"auth-styles_order-xl-11__pbkTF","order-xl-12":"auth-styles_order-xl-12__1s6HJ","offset-xl-0":"auth-styles_offset-xl-0__1BSft","offset-xl-1":"auth-styles_offset-xl-1__2paww","offset-xl-2":"auth-styles_offset-xl-2__6PmLy","offset-xl-3":"auth-styles_offset-xl-3__3Z-Tv","offset-xl-4":"auth-styles_offset-xl-4__2FFWB","offset-xl-5":"auth-styles_offset-xl-5__31OSu","offset-xl-6":"auth-styles_offset-xl-6__3s_gh","offset-xl-7":"auth-styles_offset-xl-7__uzLWG","offset-xl-8":"auth-styles_offset-xl-8__MUIfK","offset-xl-9":"auth-styles_offset-xl-9__3FedX","offset-xl-10":"auth-styles_offset-xl-10__6N_6d","offset-xl-11":"auth-styles_offset-xl-11__jdWF2","form-control":"auth-styles_form-control__TWWjx","form-control-file":"auth-styles_form-control-file__2hM0e","form-control-range":"auth-styles_form-control-range__1L_5t","col-form-label":"auth-styles_col-form-label__nwIeC","col-form-label-lg":"auth-styles_col-form-label-lg__3_NoG","col-form-label-sm":"auth-styles_col-form-label-sm__30gfe","form-control-plaintext":"auth-styles_form-control-plaintext__35RzL","form-control-sm":"auth-styles_form-control-sm__2XZXA","form-control-lg":"auth-styles_form-control-lg__3X3MG","form-group":"auth-styles_form-group__11rq4","form-text":"auth-styles_form-text__2dVxs","form-row":"auth-styles_form-row__kAOLu","form-check":"auth-styles_form-check__2OFdL","form-check-input":"auth-styles_form-check-input__3P2bC","form-check-label":"auth-styles_form-check-label__1v1JV","form-check-inline":"auth-styles_form-check-inline__3rsW7","valid-feedback":"auth-styles_valid-feedback__1_T7-","valid-tooltip":"auth-styles_valid-tooltip__dSCQM","was-validated":"auth-styles_was-validated__1foJB","is-valid":"auth-styles_is-valid__30FJs","custom-select":"auth-styles_custom-select__EDd2g","custom-control-input":"auth-styles_custom-control-input__34O46","custom-control-label":"auth-styles_custom-control-label__3M8RN","custom-file-input":"auth-styles_custom-file-input__24wnE","custom-file-label":"auth-styles_custom-file-label__b7a1j","invalid-feedback":"auth-styles_invalid-feedback__mhQo-","invalid-tooltip":"auth-styles_invalid-tooltip__DQUyl","is-invalid":"auth-styles_is-invalid__2jvIP","form-inline":"auth-styles_form-inline__2VVKx","input-group":"auth-styles_input-group__1a2ep","custom-control":"auth-styles_custom-control__1rlbV","btn":"auth-styles_btn__2MeMF","focus":"auth-styles_focus__3tRPo","disabled":"auth-styles_disabled__3SfTf","btn-primary":"auth-styles_btn-primary__2kI78","active":"auth-styles_active__j6Q1A","show":"auth-styles_show__1auI0","dropdown-toggle":"auth-styles_dropdown-toggle__BJr6U","btn-secondary":"auth-styles_btn-secondary__3c7Cl","btn-success":"auth-styles_btn-success__3k5kU","btn-info":"auth-styles_btn-info__1Jo-l","btn-warning":"auth-styles_btn-warning__kZ8UD","btn-danger":"auth-styles_btn-danger__3hHi0","btn-light":"auth-styles_btn-light__35KKO","btn-dark":"auth-styles_btn-dark__2qjsW","btn-outline-primary":"auth-styles_btn-outline-primary__l7U0o","btn-outline-secondary":"auth-styles_btn-outline-secondary__1Y7Jb","btn-outline-success":"auth-styles_btn-outline-success__bORqD","btn-outline-info":"auth-styles_btn-outline-info__3xoZY","btn-outline-warning":"auth-styles_btn-outline-warning__2yk0b","btn-outline-danger":"auth-styles_btn-outline-danger__2lsp0","btn-outline-light":"auth-styles_btn-outline-light__PFtsK","btn-outline-dark":"auth-styles_btn-outline-dark__26zGm","btn-link":"auth-styles_btn-link__2ucDw","btn-lg":"auth-styles_btn-lg__2IBeZ","btn-sm":"auth-styles_btn-sm__YTkcH","btn-block":"auth-styles_btn-block__3afcY","custom-file":"auth-styles_custom-file__3ftOJ","has-validation":"auth-styles_has-validation__2_Ce9","input-group-prepend":"auth-styles_input-group-prepend__1qaRA","input-group-append":"auth-styles_input-group-append__3pS8K","input-group-text":"auth-styles_input-group-text__1Qb29","input-group-lg":"auth-styles_input-group-lg__1wXEc","input-group-sm":"auth-styles_input-group-sm__18rhn","text-monospace":"auth-styles_text-monospace__1X9A_","text-justify":"auth-styles_text-justify__10_Ve","text-wrap":"auth-styles_text-wrap__1WwEN","text-nowrap":"auth-styles_text-nowrap__1brBE","text-truncate":"auth-styles_text-truncate__2sYj6","text-left":"auth-styles_text-left__2Svts","text-right":"auth-styles_text-right__2_2vI","text-center":"auth-styles_text-center__1z62y","text-sm-left":"auth-styles_text-sm-left__rDHNS","text-sm-right":"auth-styles_text-sm-right__2Q3uT","text-sm-center":"auth-styles_text-sm-center__14hl_","text-md-left":"auth-styles_text-md-left__3qN5c","text-md-right":"auth-styles_text-md-right__2_J53","text-md-center":"auth-styles_text-md-center__35czq","text-lg-left":"auth-styles_text-lg-left__2hmZb","text-lg-right":"auth-styles_text-lg-right__3ow46","text-lg-center":"auth-styles_text-lg-center__1c_KS","text-xl-left":"auth-styles_text-xl-left__GAexL","text-xl-right":"auth-styles_text-xl-right__1lwhB","text-xl-center":"auth-styles_text-xl-center__1Y5yA","text-lowercase":"auth-styles_text-lowercase__2WcMH","text-uppercase":"auth-styles_text-uppercase__EUzPY","text-capitalize":"auth-styles_text-capitalize__2JLp5","font-weight-light":"auth-styles_font-weight-light__OLEh9","font-weight-lighter":"auth-styles_font-weight-lighter__sWCNg","font-weight-normal":"auth-styles_font-weight-normal__229q5","font-weight-bold":"auth-styles_font-weight-bold__1pMRf","font-weight-bolder":"auth-styles_font-weight-bolder__95d11","font-italic":"auth-styles_font-italic__2jtAw","text-white":"auth-styles_text-white__1N8Wd","text-primary":"auth-styles_text-primary__1qUwM","text-secondary":"auth-styles_text-secondary__2B2Ge","text-success":"auth-styles_text-success__3b9Jf","text-info":"auth-styles_text-info__jr8Pv","text-warning":"auth-styles_text-warning__3P8Kl","text-danger":"auth-styles_text-danger__eLgOG","text-light":"auth-styles_text-light__33Ovy","text-dark":"auth-styles_text-dark__RWLO_","text-body":"auth-styles_text-body__3rlQl","text-muted":"auth-styles_text-muted__20KiX","text-black-50":"auth-styles_text-black-50__3ivKm","text-white-50":"auth-styles_text-white-50__1hVag","text-hide":"auth-styles_text-hide__3xzc6","text-decoration-none":"auth-styles_text-decoration-none__3NGqL","text-break":"auth-styles_text-break__2ghoE","text-reset":"auth-styles_text-reset__2elij"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"container":"auth-styles_container__wmY9N","container-fluid":"auth-styles_container-fluid__HMOzV","container-xl":"auth-styles_container-xl__OTeiG","container-lg":"auth-styles_container-lg__nQdmU","container-md":"auth-styles_container-md__7Da6o","container-sm":"auth-styles_container-sm__R4ama","row":"auth-styles_row__H72kq","no-gutters":"auth-styles_no-gutters__IhTZl","col":"auth-styles_col__C8xKr","col-xl":"auth-styles_col-xl__rmYjV","col-xl-auto":"auth-styles_col-xl-auto__CDlGz","col-xl-12":"auth-styles_col-xl-12__FOqus","col-xl-11":"auth-styles_col-xl-11__33za8","col-xl-10":"auth-styles_col-xl-10__iKvUs","col-xl-9":"auth-styles_col-xl-9__yaxQK","col-xl-8":"auth-styles_col-xl-8__uChAZ","col-xl-7":"auth-styles_col-xl-7__++iRV","col-xl-6":"auth-styles_col-xl-6__Dd9hp","col-xl-5":"auth-styles_col-xl-5__9RjFa","col-xl-4":"auth-styles_col-xl-4__1QSIP","col-xl-3":"auth-styles_col-xl-3__LulTv","col-xl-2":"auth-styles_col-xl-2__Q2A+Q","col-xl-1":"auth-styles_col-xl-1__f5CS6","col-lg":"auth-styles_col-lg__bduT+","col-lg-auto":"auth-styles_col-lg-auto__QlGp8","col-lg-12":"auth-styles_col-lg-12__EyCVi","col-lg-11":"auth-styles_col-lg-11__6Coaa","col-lg-10":"auth-styles_col-lg-10__l4DUy","col-lg-9":"auth-styles_col-lg-9__ItCeu","col-lg-8":"auth-styles_col-lg-8__vSQUj","col-lg-7":"auth-styles_col-lg-7__brKxp","col-lg-6":"auth-styles_col-lg-6__UzJip","col-lg-5":"auth-styles_col-lg-5__gDPlB","col-lg-4":"auth-styles_col-lg-4__6aIAG","col-lg-3":"auth-styles_col-lg-3__v8SFX","col-lg-2":"auth-styles_col-lg-2__q74Qj","col-lg-1":"auth-styles_col-lg-1__1ZPM+","col-md":"auth-styles_col-md__TDFW4","col-md-auto":"auth-styles_col-md-auto__CLxR1","col-md-12":"auth-styles_col-md-12__KVgkU","col-md-11":"auth-styles_col-md-11__G6f-y","col-md-10":"auth-styles_col-md-10__QH12U","col-md-9":"auth-styles_col-md-9__tD34m","col-md-8":"auth-styles_col-md-8__hiR-0","col-md-7":"auth-styles_col-md-7__wdq8I","col-md-6":"auth-styles_col-md-6__nwFAD","col-md-5":"auth-styles_col-md-5__9am4p","col-md-4":"auth-styles_col-md-4__opW0r","col-md-3":"auth-styles_col-md-3__OV5-f","col-md-2":"auth-styles_col-md-2__9HPaM","col-md-1":"auth-styles_col-md-1__Ht05T","col-sm":"auth-styles_col-sm__6yjxy","col-sm-auto":"auth-styles_col-sm-auto__nQHn-","col-sm-12":"auth-styles_col-sm-12__qSIIU","col-sm-11":"auth-styles_col-sm-11__lNh5r","col-sm-10":"auth-styles_col-sm-10__JU7Wa","col-sm-9":"auth-styles_col-sm-9__-Omk2","col-sm-8":"auth-styles_col-sm-8__SMiO6","col-sm-7":"auth-styles_col-sm-7__PJ8g7","col-sm-6":"auth-styles_col-sm-6__COZaP","col-sm-5":"auth-styles_col-sm-5__YNPCm","col-sm-4":"auth-styles_col-sm-4__iuSwu","col-sm-3":"auth-styles_col-sm-3__4EH9Y","col-sm-2":"auth-styles_col-sm-2__8uOgO","col-sm-1":"auth-styles_col-sm-1__F0dzz","col-auto":"auth-styles_col-auto__3y9MI","col-12":"auth-styles_col-12__8YCLT","col-11":"auth-styles_col-11__zbhQx","col-10":"auth-styles_col-10__8lQOA","col-9":"auth-styles_col-9__xsA1u","col-8":"auth-styles_col-8__HuSZT","col-7":"auth-styles_col-7__kDP0d","col-6":"auth-styles_col-6__9A2N8","col-5":"auth-styles_col-5__XvGxq","col-4":"auth-styles_col-4__qqGok","col-3":"auth-styles_col-3__TIwG3","col-2":"auth-styles_col-2__iEaNs","col-1":"auth-styles_col-1__o8S6E","row-cols-1":"auth-styles_row-cols-1__TeQas","row-cols-2":"auth-styles_row-cols-2__a27QD","row-cols-3":"auth-styles_row-cols-3__CyRvM","row-cols-4":"auth-styles_row-cols-4__Jwqxa","row-cols-5":"auth-styles_row-cols-5__Atg7i","row-cols-6":"auth-styles_row-cols-6__wHSQz","order-first":"auth-styles_order-first__gHzux","order-last":"auth-styles_order-last__WH4y6","order-0":"auth-styles_order-0__FTrTr","order-1":"auth-styles_order-1__uIMUB","order-2":"auth-styles_order-2__HINTF","order-3":"auth-styles_order-3__NNtmH","order-4":"auth-styles_order-4__auZ6g","order-5":"auth-styles_order-5__HhREf","order-6":"auth-styles_order-6__2-uJo","order-7":"auth-styles_order-7__5GUeR","order-8":"auth-styles_order-8__9HA2Q","order-9":"auth-styles_order-9__-Z2sQ","order-10":"auth-styles_order-10__-QcoN","order-11":"auth-styles_order-11__pSof4","order-12":"auth-styles_order-12__OPxGb","offset-1":"auth-styles_offset-1__qYoBC","offset-2":"auth-styles_offset-2__8kHBh","offset-3":"auth-styles_offset-3__RkY2x","offset-4":"auth-styles_offset-4__g08om","offset-5":"auth-styles_offset-5__Sp95p","offset-6":"auth-styles_offset-6__0ZUns","offset-7":"auth-styles_offset-7__s+nSI","offset-8":"auth-styles_offset-8__MiKEE","offset-9":"auth-styles_offset-9__73uWi","offset-10":"auth-styles_offset-10__ITDF5","offset-11":"auth-styles_offset-11__rJ1l2","row-cols-sm-1":"auth-styles_row-cols-sm-1__UNKR7","row-cols-sm-2":"auth-styles_row-cols-sm-2__1i7rN","row-cols-sm-3":"auth-styles_row-cols-sm-3__1ZGRj","row-cols-sm-4":"auth-styles_row-cols-sm-4__sh8p+","row-cols-sm-5":"auth-styles_row-cols-sm-5__DomOA","row-cols-sm-6":"auth-styles_row-cols-sm-6__9WUIf","order-sm-first":"auth-styles_order-sm-first__7VelP","order-sm-last":"auth-styles_order-sm-last__2uEcV","order-sm-0":"auth-styles_order-sm-0__r6aKQ","order-sm-1":"auth-styles_order-sm-1__g9CeC","order-sm-2":"auth-styles_order-sm-2__C8VGB","order-sm-3":"auth-styles_order-sm-3__z1wpP","order-sm-4":"auth-styles_order-sm-4__7PlZP","order-sm-5":"auth-styles_order-sm-5__9MROx","order-sm-6":"auth-styles_order-sm-6__glQLp","order-sm-7":"auth-styles_order-sm-7__ktglA","order-sm-8":"auth-styles_order-sm-8__la8a0","order-sm-9":"auth-styles_order-sm-9__tJdKB","order-sm-10":"auth-styles_order-sm-10__QrtWj","order-sm-11":"auth-styles_order-sm-11__y2Ndu","order-sm-12":"auth-styles_order-sm-12__MrhM9","offset-sm-0":"auth-styles_offset-sm-0__eFUIY","offset-sm-1":"auth-styles_offset-sm-1__UVINW","offset-sm-2":"auth-styles_offset-sm-2__Q+J2x","offset-sm-3":"auth-styles_offset-sm-3__i+Sd8","offset-sm-4":"auth-styles_offset-sm-4__fWCLl","offset-sm-5":"auth-styles_offset-sm-5__uTwXC","offset-sm-6":"auth-styles_offset-sm-6__W-Ytp","offset-sm-7":"auth-styles_offset-sm-7__rO2fs","offset-sm-8":"auth-styles_offset-sm-8__+CvAV","offset-sm-9":"auth-styles_offset-sm-9__+G36-","offset-sm-10":"auth-styles_offset-sm-10__5RohT","offset-sm-11":"auth-styles_offset-sm-11__vFrb2","row-cols-md-1":"auth-styles_row-cols-md-1__I4+cf","row-cols-md-2":"auth-styles_row-cols-md-2__dIC9K","row-cols-md-3":"auth-styles_row-cols-md-3__0rXYw","row-cols-md-4":"auth-styles_row-cols-md-4__oS9I3","row-cols-md-5":"auth-styles_row-cols-md-5__lojdG","row-cols-md-6":"auth-styles_row-cols-md-6__3RuZp","order-md-first":"auth-styles_order-md-first__DOb-U","order-md-last":"auth-styles_order-md-last__Yu4Fl","order-md-0":"auth-styles_order-md-0__04RHm","order-md-1":"auth-styles_order-md-1__aXOtf","order-md-2":"auth-styles_order-md-2__nk1si","order-md-3":"auth-styles_order-md-3__ZEuc+","order-md-4":"auth-styles_order-md-4__Vn2m5","order-md-5":"auth-styles_order-md-5__Ifzhq","order-md-6":"auth-styles_order-md-6__ndRQM","order-md-7":"auth-styles_order-md-7__2DmL2","order-md-8":"auth-styles_order-md-8__qFCkv","order-md-9":"auth-styles_order-md-9__9+51D","order-md-10":"auth-styles_order-md-10__7eKWZ","order-md-11":"auth-styles_order-md-11__tIsKc","order-md-12":"auth-styles_order-md-12__AwYk5","offset-md-0":"auth-styles_offset-md-0__+7TjR","offset-md-1":"auth-styles_offset-md-1__HGwZd","offset-md-2":"auth-styles_offset-md-2__wWLTo","offset-md-3":"auth-styles_offset-md-3__teeof","offset-md-4":"auth-styles_offset-md-4__aW-gw","offset-md-5":"auth-styles_offset-md-5__-tAGW","offset-md-6":"auth-styles_offset-md-6__P0F8K","offset-md-7":"auth-styles_offset-md-7__xp2is","offset-md-8":"auth-styles_offset-md-8__+Iaa8","offset-md-9":"auth-styles_offset-md-9__FrRpk","offset-md-10":"auth-styles_offset-md-10__oRhkj","offset-md-11":"auth-styles_offset-md-11__r9dZj","row-cols-lg-1":"auth-styles_row-cols-lg-1__5dRTM","row-cols-lg-2":"auth-styles_row-cols-lg-2__2N21H","row-cols-lg-3":"auth-styles_row-cols-lg-3__NFWLS","row-cols-lg-4":"auth-styles_row-cols-lg-4__lzReQ","row-cols-lg-5":"auth-styles_row-cols-lg-5__16M68","row-cols-lg-6":"auth-styles_row-cols-lg-6__XM+tL","order-lg-first":"auth-styles_order-lg-first__LuXSs","order-lg-last":"auth-styles_order-lg-last__9uJ21","order-lg-0":"auth-styles_order-lg-0__VH7hH","order-lg-1":"auth-styles_order-lg-1__VSUsC","order-lg-2":"auth-styles_order-lg-2__RKtdZ","order-lg-3":"auth-styles_order-lg-3__v232g","order-lg-4":"auth-styles_order-lg-4__CxVLO","order-lg-5":"auth-styles_order-lg-5__2wFsN","order-lg-6":"auth-styles_order-lg-6__gACB1","order-lg-7":"auth-styles_order-lg-7__nRxM4","order-lg-8":"auth-styles_order-lg-8__h-Nvi","order-lg-9":"auth-styles_order-lg-9__F1hr0","order-lg-10":"auth-styles_order-lg-10__3uWfz","order-lg-11":"auth-styles_order-lg-11__vdChB","order-lg-12":"auth-styles_order-lg-12__q0Znt","offset-lg-0":"auth-styles_offset-lg-0__bevnF","offset-lg-1":"auth-styles_offset-lg-1__CpJMP","offset-lg-2":"auth-styles_offset-lg-2__rOfUa","offset-lg-3":"auth-styles_offset-lg-3__ZoRb-","offset-lg-4":"auth-styles_offset-lg-4__VzJ73","offset-lg-5":"auth-styles_offset-lg-5__9QsIN","offset-lg-6":"auth-styles_offset-lg-6__kil1D","offset-lg-7":"auth-styles_offset-lg-7__SlXC5","offset-lg-8":"auth-styles_offset-lg-8__pMDkH","offset-lg-9":"auth-styles_offset-lg-9__warwm","offset-lg-10":"auth-styles_offset-lg-10__nbLNz","offset-lg-11":"auth-styles_offset-lg-11__wl5Ui","row-cols-xl-1":"auth-styles_row-cols-xl-1__98eie","row-cols-xl-2":"auth-styles_row-cols-xl-2__FLEIV","row-cols-xl-3":"auth-styles_row-cols-xl-3__DUFwK","row-cols-xl-4":"auth-styles_row-cols-xl-4__mF-Pl","row-cols-xl-5":"auth-styles_row-cols-xl-5__12Yov","row-cols-xl-6":"auth-styles_row-cols-xl-6__Rgfyu","order-xl-first":"auth-styles_order-xl-first__eHjij","order-xl-last":"auth-styles_order-xl-last__ly1cn","order-xl-0":"auth-styles_order-xl-0__NYRnl","order-xl-1":"auth-styles_order-xl-1__-+E76","order-xl-2":"auth-styles_order-xl-2__SAX6L","order-xl-3":"auth-styles_order-xl-3__MG-1i","order-xl-4":"auth-styles_order-xl-4__gI0g3","order-xl-5":"auth-styles_order-xl-5__BlMx4","order-xl-6":"auth-styles_order-xl-6__-G4yl","order-xl-7":"auth-styles_order-xl-7__u3HAv","order-xl-8":"auth-styles_order-xl-8__Kt9vQ","order-xl-9":"auth-styles_order-xl-9__l5gjO","order-xl-10":"auth-styles_order-xl-10__A3p+n","order-xl-11":"auth-styles_order-xl-11__GQm9a","order-xl-12":"auth-styles_order-xl-12__jUA7q","offset-xl-0":"auth-styles_offset-xl-0__WbUp1","offset-xl-1":"auth-styles_offset-xl-1__lOJhm","offset-xl-2":"auth-styles_offset-xl-2__FV01D","offset-xl-3":"auth-styles_offset-xl-3__QNtwY","offset-xl-4":"auth-styles_offset-xl-4__1PzJr","offset-xl-5":"auth-styles_offset-xl-5__D2ZcH","offset-xl-6":"auth-styles_offset-xl-6__f4cMo","offset-xl-7":"auth-styles_offset-xl-7__CYtWV","offset-xl-8":"auth-styles_offset-xl-8__gqQi+","offset-xl-9":"auth-styles_offset-xl-9__QTcWk","offset-xl-10":"auth-styles_offset-xl-10__FiC77","offset-xl-11":"auth-styles_offset-xl-11__qht63","form-control":"auth-styles_form-control__iwKc0","form-control-file":"auth-styles_form-control-file__YbTY3","form-control-range":"auth-styles_form-control-range__jDLiP","col-form-label":"auth-styles_col-form-label__ZAdiI","col-form-label-lg":"auth-styles_col-form-label-lg__N4x8w","col-form-label-sm":"auth-styles_col-form-label-sm__hxo+9","form-control-plaintext":"auth-styles_form-control-plaintext__H+r2E","form-control-sm":"auth-styles_form-control-sm__D5tl1","form-control-lg":"auth-styles_form-control-lg__hMD3k","form-group":"auth-styles_form-group__Ft4+Y","form-text":"auth-styles_form-text__vy2gy","form-row":"auth-styles_form-row__UoEQ9","form-check":"auth-styles_form-check__cuxMu","form-check-input":"auth-styles_form-check-input__50FqX","form-check-label":"auth-styles_form-check-label__XQuIf","form-check-inline":"auth-styles_form-check-inline__cb2qz","valid-feedback":"auth-styles_valid-feedback__MJHyo","valid-tooltip":"auth-styles_valid-tooltip__4QKTb","was-validated":"auth-styles_was-validated__zFYg-","is-valid":"auth-styles_is-valid__9Gcci","custom-select":"auth-styles_custom-select__ohM+Z","custom-control-input":"auth-styles_custom-control-input__qGl-9","custom-control-label":"auth-styles_custom-control-label__w7-WN","custom-file-input":"auth-styles_custom-file-input__8pod1","custom-file-label":"auth-styles_custom-file-label__FgCE-","invalid-feedback":"auth-styles_invalid-feedback__j2NfW","invalid-tooltip":"auth-styles_invalid-tooltip__oq966","is-invalid":"auth-styles_is-invalid__BOC45","form-inline":"auth-styles_form-inline__O-Fq0","input-group":"auth-styles_input-group__gg4tK","custom-control":"auth-styles_custom-control__Ep0sK","btn":"auth-styles_btn__DTIUe","focus":"auth-styles_focus__knCO9","disabled":"auth-styles_disabled__IuFqv","btn-primary":"auth-styles_btn-primary__uCdIY","active":"auth-styles_active__bWBWy","show":"auth-styles_show__qpvu9","dropdown-toggle":"auth-styles_dropdown-toggle__88znH","btn-secondary":"auth-styles_btn-secondary__zuPAG","btn-success":"auth-styles_btn-success__7I2U2","btn-info":"auth-styles_btn-info__HF-f4","btn-warning":"auth-styles_btn-warning__r2LUp","btn-danger":"auth-styles_btn-danger__QzxdL","btn-light":"auth-styles_btn-light__CV7H6","btn-dark":"auth-styles_btn-dark__DcybZ","btn-outline-primary":"auth-styles_btn-outline-primary__LxyaA","btn-outline-secondary":"auth-styles_btn-outline-secondary__Dbz0l","btn-outline-success":"auth-styles_btn-outline-success__gtQnC","btn-outline-info":"auth-styles_btn-outline-info__gTm2i","btn-outline-warning":"auth-styles_btn-outline-warning__VY0zH","btn-outline-danger":"auth-styles_btn-outline-danger__zJdVl","btn-outline-light":"auth-styles_btn-outline-light__UICV1","btn-outline-dark":"auth-styles_btn-outline-dark__x5t-o","btn-link":"auth-styles_btn-link__8i1iJ","btn-lg":"auth-styles_btn-lg__XBbj3","btn-sm":"auth-styles_btn-sm__McLN6","btn-block":"auth-styles_btn-block__nIT1y","custom-file":"auth-styles_custom-file__aaxkv","has-validation":"auth-styles_has-validation__qtYfS","input-group-prepend":"auth-styles_input-group-prepend__Myfsl","input-group-append":"auth-styles_input-group-append__M0WQI","input-group-text":"auth-styles_input-group-text__S60jp","input-group-lg":"auth-styles_input-group-lg__VihAB","input-group-sm":"auth-styles_input-group-sm__DvtGZ","text-monospace":"auth-styles_text-monospace__3KRN1","text-justify":"auth-styles_text-justify__viZ6T","text-wrap":"auth-styles_text-wrap__Fw0kg","text-nowrap":"auth-styles_text-nowrap__It5FH","text-truncate":"auth-styles_text-truncate__0QwpN","text-left":"auth-styles_text-left__rrnLS","text-right":"auth-styles_text-right__vnTJL","text-center":"auth-styles_text-center__6IDNY","text-sm-left":"auth-styles_text-sm-left__nMx3e","text-sm-right":"auth-styles_text-sm-right__oRJTf","text-sm-center":"auth-styles_text-sm-center__SCC38","text-md-left":"auth-styles_text-md-left__374Er","text-md-right":"auth-styles_text-md-right__xKYI+","text-md-center":"auth-styles_text-md-center__oG5bN","text-lg-left":"auth-styles_text-lg-left__GiLOY","text-lg-right":"auth-styles_text-lg-right__CuHQs","text-lg-center":"auth-styles_text-lg-center__oCpZK","text-xl-left":"auth-styles_text-xl-left__BueJ7","text-xl-right":"auth-styles_text-xl-right__7jGN8","text-xl-center":"auth-styles_text-xl-center__mymm0","text-lowercase":"auth-styles_text-lowercase__8FeAy","text-uppercase":"auth-styles_text-uppercase__qyFNz","text-capitalize":"auth-styles_text-capitalize__hyUV8","font-weight-light":"auth-styles_font-weight-light__jOAmc","font-weight-lighter":"auth-styles_font-weight-lighter__ZmrAS","font-weight-normal":"auth-styles_font-weight-normal__hC+FD","font-weight-bold":"auth-styles_font-weight-bold__ZHrrz","font-weight-bolder":"auth-styles_font-weight-bolder__M+Qgm","font-italic":"auth-styles_font-italic__4k1PB","text-white":"auth-styles_text-white__5LzrW","text-primary":"auth-styles_text-primary__GZG+l","text-secondary":"auth-styles_text-secondary__PJlhU","text-success":"auth-styles_text-success__1dUYC","text-info":"auth-styles_text-info__lcdyx","text-warning":"auth-styles_text-warning__RYV2e","text-danger":"auth-styles_text-danger__k+qH+","text-light":"auth-styles_text-light__UXkAg","text-dark":"auth-styles_text-dark__aY0OL","text-body":"auth-styles_text-body__zdXbZ","text-muted":"auth-styles_text-muted__f+v8b","text-black-50":"auth-styles_text-black-50__i9rmS","text-white-50":"auth-styles_text-white-50__iGtiQ","text-hide":"auth-styles_text-hide__CG1+i","text-decoration-none":"auth-styles_text-decoration-none__CR0nL","text-break":"auth-styles_text-break__7uz7Y","text-reset":"auth-styles_text-reset__-CHT9"});
 
 /***/ }),
 
-/***/ 7303:
+/***/ 3671:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18689,10 +18725,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4781);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8940);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18715,17 +18751,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_checklist_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 2478:
+/***/ 7970:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18745,10 +18781,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4912);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3271);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18771,17 +18807,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_class_codes_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 6785:
+/***/ 2355:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18801,10 +18837,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5943);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4430);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18827,17 +18863,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_default_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 9945:
+/***/ 1275:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18857,10 +18893,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4846);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2996);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18883,17 +18919,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_home_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 9497:
+/***/ 3338:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18913,10 +18949,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5848);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3080);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18939,17 +18975,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_medications_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 2118:
+/***/ 2154:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -18969,10 +19005,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7032);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9557);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -18995,17 +19031,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_editor_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 9938:
+/***/ 1190:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19025,10 +19061,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(8881);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3565);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -19051,17 +19087,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_scenario_type_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 565:
+/***/ 3118:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19081,10 +19117,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2464);
 /* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2165);
-/* harmony import */ var _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6512);
+/* harmony import */ var _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
+/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6__[__WEBPACK_IMPORT_KEY__]
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
       
@@ -19107,17 +19143,17 @@ options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWi
 options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
 options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
 
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()), options);
 
 
 
 
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_web_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default()) && (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) ? (_node_modules_nrwl_webpack_src_utils_webpack_plugins_raw_css_loader_js_node_modules_postcss_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_2_node_modules_sass_loader_dist_cjs_js_ruleSet_1_rules_3_oneOf_5_use_3_tab_styles_scss__WEBPACK_IMPORTED_MODULE_6___default().locals) : undefined);
 
 
 /***/ }),
 
-/***/ 9526:
+/***/ 4551:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19219,7 +19255,7 @@ const useFirebase = () => (0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(Fire
 
 /***/ }),
 
-/***/ 5558:
+/***/ 3811:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19368,6 +19404,7 @@ const PROTOCOL_RELATIONSHIPS = Object.freeze({
   OPT: "optional",
   REQ: "required",
   CONTRA: "contraindicated",
+  NOTIND: "not indicated",
   UNN: "unnecessary",
   IR: "irrelevant",
   ALT: "alternative"
@@ -19375,7 +19412,7 @@ const PROTOCOL_RELATIONSHIPS = Object.freeze({
 
 /***/ }),
 
-/***/ 8913:
+/***/ 1657:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19443,13 +19480,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6635);
 /* harmony import */ var json_stable_stringify__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2117);
-/* harmony import */ var _constants_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5558);
-/* harmony import */ var _types_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7237);
-/* harmony import */ var _intvs_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4028);
-/* harmony import */ var _intvPrompts_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3836);
-/* harmony import */ var _intvPromptAnswers_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7246);
-/* harmony import */ var _intvMenusCats_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6308);
-/* harmony import */ var _intvMenuItems_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1722);
+/* harmony import */ var _constants_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3811);
+/* harmony import */ var _types_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6215);
+/* harmony import */ var _intvs_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2302);
+/* harmony import */ var _intvPrompts_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(40);
+/* harmony import */ var _intvPromptAnswers_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2194);
+/* harmony import */ var _intvMenusCats_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(7002);
+/* harmony import */ var _intvMenuItems_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(474);
 
 
 
@@ -19863,7 +19900,9 @@ function exportObserverLogMetaData(doc) {
     scenario: data.scenarioName,
     scenarioID: data.scenarioID,
     userName: data.userName,
-    timestamp: data.timestamp
+    timestamp: data.timestamp,
+    classCode: data.classCode,
+    condition: data.condition
   };
 }
 
@@ -20151,7 +20190,7 @@ const intvVariant2JSON = intvVariant => {
 
 /***/ }),
 
-/***/ 1722:
+/***/ 474:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -20570,7 +20609,7 @@ const INTV_MENU_ITEMS = [{
 
 /***/ }),
 
-/***/ 6308:
+/***/ 7002:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -20623,7 +20662,7 @@ const INTV_MENU_CATS = [{
 
 /***/ }),
 
-/***/ 7246:
+/***/ 2194:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21135,7 +21174,7 @@ const INTV_PROMPT_ANSWERS = [{
 
 /***/ }),
 
-/***/ 3836:
+/***/ 40:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21143,7 +21182,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8913);
+/* harmony import */ var _meddbriefer_scenario_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1657);
 
 const INTV_PROMPTS = [{
   "id": "prompt-wound-location",
@@ -21377,7 +21416,7 @@ const INTV_PROMPTS = [{
 
 /***/ }),
 
-/***/ 4028:
+/***/ 2302:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21652,7 +21691,7 @@ const INTVS = [{
 
 /***/ }),
 
-/***/ 7237:
+/***/ 6215:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -21661,8 +21700,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "PublishedScenario": () => (/* binding */ PublishedScenario),
 /* harmony export */   "ScenarioType": () => (/* binding */ ScenarioType)
 /* harmony export */ });
-/* harmony import */ var _constants_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5558);
-/* harmony import */ var _utils_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7414);
+/* harmony import */ var _constants_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3811);
+/* harmony import */ var _utils_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5773);
 
 
 class ScenarioType {
@@ -22224,7 +22263,7 @@ class PublishedScenario {
 
 /***/ }),
 
-/***/ 7414:
+/***/ 5773:
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -22267,7 +22306,7 @@ module.exports = JSON.parse('["active bleeding (internal or external)","alcohol/
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-/******/ __webpack_require__.O(0, ["vendor"], () => (__webpack_exec__(7645)));
+/******/ __webpack_require__.O(0, ["vendor"], () => (__webpack_exec__(9782)));
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
