@@ -17818,7 +17818,7 @@ const RegistrationForm = () => {
             className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["col-sm-12"],
             children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_10__.jsxDEV)("span", {
               className: _styles_auth_styles_module_scss__WEBPACK_IMPORTED_MODULE_7__["default"]["text-danger"],
-              children: "Invalid class code, if you are here for an experiment, type 'trial1', otherwise enter 'demo'"
+              children: "Invalid class code, if you are here for an experiment, type 'pilot', otherwise enter 'demo'"
             }, void 0, false, {
               fileName: _jsxFileName,
               lineNumber: 72,
@@ -18159,7 +18159,7 @@ function AuthProvider({
     }).then(userRec => {
       updateUserRecord(userRec, "classCode", classCode);
       return userRec;
-    }).then(() => console.log("users document created with email and classcode"));
+    }).then(userRec => console.log("users document created with email and classcode", userRec));
   };
 
   const loginUserWithEmailAndPassword = (email, password) => {

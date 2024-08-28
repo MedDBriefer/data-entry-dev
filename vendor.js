@@ -14120,7 +14120,7 @@ class Rt {
      * (see https://github.com/axemclion/IndexedDBShim).
      */    static N() {
         var t;
-        return "undefined" != typeof process && "YES" === (null === (t = ({"NODE_ENV":"development","NX_FIREBASE_PROJECT":"ScottDev","NX_CLI_SET":"true","NX_LOAD_DOT_ENV_FILES":"true","NX_WORKSPACE_ROOT":"/Users/sts125/projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/sts125/projects/monorepo/node_modules/.cache/nx/terminalOutputs/7f0a427d0ae8bb1d0bd8f0652d7ce09b81c555c2570c429970fad6f82ffc9302","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"7f0a427d0ae8bb1d0bd8f0652d7ce09b81c555c2570c429970fad6f82ffc9302"})) || void 0 === t ? void 0 : t.O);
+        return "undefined" != typeof process && "YES" === (null === (t = ({"NODE_ENV":"development","NX_FIREBASE_PROJECT":"ScottDev","NX_CLI_SET":"true","NX_LOAD_DOT_ENV_FILES":"true","NX_WORKSPACE_ROOT":"/Users/sts125/projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/sts125/projects/monorepo/node_modules/.cache/nx/terminalOutputs/0228d5fbdd81c05ddcbc91134601dc3824f7ee2c0b9461bb141cf4e09692a174","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"0228d5fbdd81c05ddcbc91134601dc3824f7ee2c0b9461bb141cf4e09692a174"})) || void 0 === t ? void 0 : t.O);
     }
     /** Helper to get a typed SimpleDbStore from a transaction. */    static M(t, e) {
         return t.store(e);
@@ -33137,7 +33137,7 @@ const getDefaultsFromEnvVariable = () => {
     if (typeof process === 'undefined' || "object" === 'undefined') {
         return;
     }
-    const defaultsJsonString = ({"NODE_ENV":"development","NX_FIREBASE_PROJECT":"ScottDev","NX_CLI_SET":"true","NX_LOAD_DOT_ENV_FILES":"true","NX_WORKSPACE_ROOT":"/Users/sts125/projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/sts125/projects/monorepo/node_modules/.cache/nx/terminalOutputs/7f0a427d0ae8bb1d0bd8f0652d7ce09b81c555c2570c429970fad6f82ffc9302","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"7f0a427d0ae8bb1d0bd8f0652d7ce09b81c555c2570c429970fad6f82ffc9302"}).__FIREBASE_DEFAULTS__;
+    const defaultsJsonString = ({"NODE_ENV":"development","NX_FIREBASE_PROJECT":"ScottDev","NX_CLI_SET":"true","NX_LOAD_DOT_ENV_FILES":"true","NX_WORKSPACE_ROOT":"/Users/sts125/projects/monorepo","NX_TERMINAL_OUTPUT_PATH":"/Users/sts125/projects/monorepo/node_modules/.cache/nx/terminalOutputs/0228d5fbdd81c05ddcbc91134601dc3824f7ee2c0b9461bb141cf4e09692a174","NX_STREAM_OUTPUT":"true","NX_TASK_TARGET_PROJECT":"data-entry","NX_TASK_HASH":"0228d5fbdd81c05ddcbc91134601dc3824f7ee2c0b9461bb141cf4e09692a174"}).__FIREBASE_DEFAULTS__;
     if (defaultsJsonString) {
         return JSON.parse(defaultsJsonString);
     }
